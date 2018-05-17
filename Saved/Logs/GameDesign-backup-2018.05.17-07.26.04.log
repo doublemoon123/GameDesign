@@ -1,0 +1,1518 @@
+﻿Log file open, 05/17/18 01:57:45
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: GameDesign
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1076881010) SRandInit(-1076881010).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.202129
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: F:/Unreal Engine/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.16-16.27.46:081][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.16-16.27.46:081][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.16-16.27.46:096][  0]LogInit: Computer: DOUBLE-PC
+[2018.05.16-16.27.46:096][  0]LogInit: User: Double
+[2018.05.16-16.27.46:096][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.05.16-16.27.46:096][  0]LogInit: High frequency timer resolution =3.924277 MHz
+[2018.05.16-16.27.46:096][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.05.16-16.27.46:097][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.16-16.27.46:097][  0]LogMemory: Process Physical Memory: 279.73 MB used, 279.73 MB peak
+[2018.05.16-16.27.46:097][  0]LogMemory: Process Virtual Memory: 277.75 MB used, 277.75 MB peak
+[2018.05.16-16.27.46:097][  0]LogMemory: Physical Memory: 5178.17 MB used,  11170.46 MB free, 16348.64 MB total
+[2018.05.16-16.27.46:097][  0]LogMemory: Virtual Memory: 655.19 MB used,  11170.46 MB free, 8388608.00 MB total
+[2018.05.16-16.27.46:348][  0]LogInit: Using OS detected language (en-US).
+[2018.05.16-16.27.46:348][  0]LogInit: Using OS detected locale (en-US).
+[2018.05.16-16.27.46:352][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.05.16-16.27.47:347][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.16-16.27.47:393][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.05.16-16.27.47:393][  0]LogD3D11RHI:       8077/0/7918 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.05.16-16.27.47:393][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.16-16.27.47:410][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.16-16.27.47:411][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.05.16-16.27.47:411][  0]LogWindows: EnumDisplayDevices:
+[2018.05.16-16.27.47:411][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.05.16-16.27.47:411][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.05.16-16.27.47:411][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.05.16-16.27.47:412][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.05.16-16.27.47:412][  0]LogWindows:    4. 'RDPDD Chained DD' (P:0 D:0)
+[2018.05.16-16.27.47:412][  0]LogWindows:    5. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2018.05.16-16.27.47:413][  0]LogWindows:    6. 'RDP Reflector Display Driver' (P:0 D:0)
+[2018.05.16-16.27.47:413][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.05.16-16.27.47:413][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.05.16-16.27.47:413][  0]LogD3D11RHI:   Driver Version: 391.01 (internal:23.21.13.9101, unified:391.01)
+[2018.05.16-16.27.47:413][  0]LogD3D11RHI:      Driver Date: 2-23-2018
+[2018.05.16-16.27.47:413][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2018.05.16-16.27.47:438][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.16-16.27.47:456][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.05.16-16.27.47:459][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (C:/Users/Double/Documents/Unreal Projects/GameDesign/Intermediate/Shaders/WorkingDirectory/8108/).
+[2018.05.16-16.27.47:459][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Double/AppData/Local/Temp/UnrealShaderWorkingDir/7C5858FF454FB32F3ACA4FB024208FD5/'.
+[2018.05.16-16.27.47:459][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.16-16.27.49:119][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.16-16.27.49:205][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.16-16.27.49:288][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.16-16.27.49:377][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.16-16.27.49:470][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.16-16.27.49:561][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.16-16.27.49:645][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.16-16.27.49:732][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.16-16.27.49:803][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.16-16.27.49:885][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.16-16.27.49:976][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.16-16.27.50:064][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.16-16.27.50:151][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.16-16.27.50:236][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.16-16.27.50:313][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.16-16.27.50:475][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.16-16.27.50:475][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.16-16.27.50:537][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.16-16.27.50:668][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.16-16.27.50:715][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.16-16.27.50:794][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.16-16.27.50:874][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.16-16.27.50:953][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.16-16.27.51:038][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.16-16.27.51:038][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.16-16.27.51:766][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.16-16.27.51:974][  0]LogDerivedDataCache: Loaded boot cache 0.21s 93MB C:/Users/Double/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.05.16-16.27.51:975][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Double/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2018.05.16-16.27.51:975][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Double/Documents/Unreal Projects/GameDesign/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.16-16.27.51:975][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.16-16.27.51:975][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Double/Documents/Unreal Projects/GameDesign/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.16-16.27.51:975][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.16-16.27.52:002][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.16-16.27.52:014][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Double/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.16-16.27.52:035][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.16-16.27.52:035][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.16-16.27.52:036][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.16-16.27.52:036][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.16-16.27.52:496][  0]LogAssetRegistry: FAssetRegistry took 0.0276 seconds to start up
+[2018.05.16-16.27.52:802][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.16-16.27.52:808][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2018.05.16-16.27.53:381][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.16-16.27.53:440][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.16-16.27.53:440][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.16-16.27.53:440][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.16-16.27.53:440][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.16-16.27.53:440][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.16-16.27.54:030][  0]LogNetVersion: GameDesign , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 4162053255)
+[2018.05.16-16.27.54:342][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.050392 seconds
+[2018.05.16-16.27.54:350][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2018.05.16-16.27.54:350][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2018.05.16-16.27.54:350][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.16-16.27.54:435][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.05.16-16.27.58:322][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.16-16.27.58:375][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.16-16.27.59:328][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.05.16-16.27.59:935][  0]SourceControl: Source control is disabled
+[2018.05.16-16.27.59:935][  0]SourceControl: Source control is disabled
+[2018.05.16-16.28.00:011][  0]SourceControl: Source control is disabled
+[2018.05.16-16.28.00:086][  0]SourceControl: Source control is disabled
+[2018.05.16-16.28.00:970][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.16-16.28.01:354][  0]LogOcInput: OculusInput pre-init called
+[2018.05.16-16.28.01:739][  0]LogEngine: Initializing Engine...
+[2018.05.16-16.28.01:742][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.05.16-16.28.02:091][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.16-16.28.02:091][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.16-16.28.02:291][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.16-16.28.02:316][  0]LogInit: XAudio2 using 'Speakers (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.16-16.28.02:326][  0]LogInit: FAudioDevice initialized.
+[2018.05.16-16.28.02:461][  0]LogDerivedDataCache: Saved boot cache 0.13s 93MB C:/Users/Double/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.05.16-16.28.02:497][  0]LogInit: Texture streaming: Enabled
+[2018.05.16-16.28.02:655][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.16-16.28.02:988][  0]LogInit: Transaction tracking system initialized
+[2018.05.16-16.28.03:453][  0]BlueprintLog: New page: Editor Load
+[2018.05.16-16.28.04:773][  0]LocalizationService: Localization service is disabled
+[2018.05.16-16.28.05:795][  0]LogConsoleResponse: Display: 
+[2018.05.16-16.28.06:043][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.16-16.28.06:043][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.16-16.28.06:043][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.16-16.28.06:803][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/' took 0.02s
+[2018.05.16-16.28.07:577][  0]SourceControl: Source control is disabled
+[2018.05.16-16.28.07:577][  0]Cmd: MAP LOAD FILE="C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.16-16.28.07:578][  0]LightingResults: New page: Lighting Build
+[2018.05.16-16.28.07:639][  0]MapCheck: New page: Map Check
+[2018.05.16-16.28.07:639][  0]LightingResults: New page: Lighting Build
+[2018.05.16-16.28.08:587][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.05.16-16.28.08:601][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.16-16.28.08:660][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.16-16.28.08:748][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 87.713ms to complete.
+[2018.05.16-16.28.08:748][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 1.171
+[2018.05.16-16.28.08:932][  0]LogCollectionManager: Loaded 0 collections in 0.003538 seconds
+[2018.05.16-16.28.09:033][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Saved/Collections/' took 0.01s
+[2018.05.16-16.28.09:033][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/Developers/Double/Collections/' took 0.01s
+[2018.05.16-16.28.09:033][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/Collections/' took 0.01s
+[2018.05.16-16.28.09:033][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.05.16-16.28.09:049][  0]LogContentBrowser: Native class hierarchy populated in 0.0159 seconds. Added 2386 classes and 500 folders.
+[2018.05.16-16.28.09:141][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2018.05.16-16.28.09:213][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2018.05.16-16.28.09:276][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2018.05.16-16.28.09:478][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2018.05.16-16.28.09:478][  0]LogLoad: (Engine Initialization) Total time: 25.71 seconds
+[2018.05.16-16.28.09:478][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.16-16.28.09:478][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.05.16-16.28.09:840][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.05.16-16.28.09:842][  0]LogSlate: Took 0.000412 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.16-16.28.09:845][  0]LogSlate: Took 0.000243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.16-16.28.09:852][  0]LogSlate: Took 0.000275 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.16-16.28.10:200][  2]LogRenderer: Reallocating scene render targets to support 804x408 Format 10 NumSamples 1 (Frame:1).
+[2018.05.16-16.28.10:492][  2]LogAssetRegistry: Asset discovery search completed in 18.0157 seconds
+[2018.05.16-16.28.10:495][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.05.16-16.28.10:495][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000059 seconds (updated 0 objects)
+[2018.05.16-16.28.10:835][  3]LogSlate: Took 0.000394 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.16-16.28.14:159][ 13]LogSlate: Took 0.000332 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.16-16.28.53:655][421]LogRenderer: Reallocating scene render targets to support 1208x648 Format 10 NumSamples 1 (Frame:300).
+[2018.05.16-16.29.04:130][503]LogSlate: Took 0.000304 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.16-16.29.04:699][503]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0016 seconds. Added 113 classes and 0 folders.
+[2018.05.16-16.29.05:811][503]LogSlate: Took 0.000331 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.05.16-16.29.08:249][775]LogSlate: Took 0.004961 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.05.16-16.29.10:824][ 12]LogSlate: Took 0.000346 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.05.16-16.29.30:836][196]LogEditorTransaction: Undo Create Pin Link
+[2018.05.16-16.32.33:267][883]BlueprintLog: New page: Compile MainMenuWidget
+[2018.05.16-16.32.33:761][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/MainMenuWidget" FILE="C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/FirstPersonBP/Blueprints/MainMenuWidget.uasset" SILENT=true
+[2018.05.16-16.32.33:885][918]LogSavePackage: Save=108.22ms
+[2018.05.16-16.32.33:885][918]LogSavePackage: Moving 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Saved/MainMenuWidgetD53830E241E25A2A29E184B8C166D063.tmp' to 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/FirstPersonBP/Blueprints/MainMenuWidget.uasset'
+[2018.05.16-16.32.33:891][918]LogSavePackage: Display: Finished SavePackage C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/FirstPersonBP/Blueprints/MainMenuWidget.uasset
+[2018.05.16-16.32.35:691][ 99]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-16.32.35:744][ 99]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.05.16-16.32.35:744][ 99]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-16.32.35:745][ 99]PIE: New page: PIE session: FirstPersonExampleMap (May 17, 2018, 11:32:35 AM)
+[2018.05.16-16.32.35:745][ 99]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.05.16-16.32.35:778][ 99]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032673s)
+[2018.05.16-16.32.35:779][ 99]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.05.16-16.32.35:779][ 99]LogPlayLevel: PIE: World Init took: (0.001128s)
+[2018.05.16-16.32.35:779][ 99]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.034199s)
+[2018.05.16-16.32.35:842][ 99]LogInit: XAudio2 using 'Speakers (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.16-16.32.35:848][ 99]LogInit: FAudioDevice initialized.
+[2018.05.16-16.32.35:891][ 99]LogLoad: Game class is 'FirstPersonMenuMode_C'
+[2018.05.16-16.32.35:894][ 99]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.05.17-02.02.35
+[2018.05.16-16.32.35:895][ 99]LogWorld: Bringing up level for play took: 0.003241
+[2018.05.16-16.32.35:959][ 99]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 11 classes and 0 folders.
+[2018.05.16-16.32.35:962][ 99]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1.056
+[2018.05.16-16.32.35:962][ 99]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.05.16-16.32.38:595][367]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.05.16-16.32.38:629][367]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.05.16-16.32.42:591][754]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.16-16.32.44:115][907]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.16-16.32.44:133][907]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.05.16-16.32.44:133][907]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-16.32.44:134][907]PIE: New page: PIE session: FirstPersonExampleMap (May 17, 2018, 11:32:44 AM)
+[2018.05.16-16.32.44:134][907]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.05.16-16.32.44:165][907]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031222s)
+[2018.05.16-16.32.44:166][907]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.05.16-16.32.44:166][907]LogPlayLevel: PIE: World Init took: (0.001116s)
+[2018.05.16-16.32.44:166][907]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.032679s)
+[2018.05.16-16.32.44:240][907]LogInit: XAudio2 using 'Speakers (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.16-16.32.44:245][907]LogInit: FAudioDevice initialized.
+[2018.05.16-16.32.44:279][907]LogLoad: Game class is 'FirstPersonMenuMode_C'
+[2018.05.16-16.32.44:282][907]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.05.17-02.02.44
+[2018.05.16-16.32.44:283][907]LogWorld: Bringing up level for play took: 0.003127
+[2018.05.16-16.32.44:287][907]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.618
+[2018.05.16-16.32.44:287][907]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.05.16-16.32.46:560][144]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.05.16-16.32.46:593][144]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.05.16-16.32.46:763][148]Cmd: SELECT NONE
+[2018.05.16-16.32.46:954][167]Cmd: SELECT NONE
+[2018.05.16-16.32.49:351][405]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.05.16-16.32.49:351][405]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-16.32.49:351][405]PIE: New page: PIE session: FirstPersonExampleMap (May 17, 2018, 11:32:49 AM)
+[2018.05.16-16.32.49:351][405]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.05.16-16.32.49:379][405]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028045s)
+[2018.05.16-16.32.49:380][405]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.05.16-16.32.49:380][405]LogPlayLevel: PIE: World Init took: (0.001079s)
+[2018.05.16-16.32.49:381][405]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.029497s)
+[2018.05.16-16.32.49:436][405]LogInit: XAudio2 using 'Speakers (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.16-16.32.49:441][405]LogInit: FAudioDevice initialized.
+[2018.05.16-16.32.49:492][405]LogLoad: Game class is 'FirstPersonMenuMode_C'
+[2018.05.16-16.32.49:496][405]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.05.17-02.02.49
+[2018.05.16-16.32.49:496][405]LogWorld: Bringing up level for play took: 0.003113
+[2018.05.16-16.32.49:505][405]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.601
+[2018.05.16-16.32.49:506][405]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.05.16-16.32.49:565][405]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.05.16-16.32.54:279][739]Cmd: r.setres 1280x720
+[2018.05.16-16.32.54:280][739]r.SetRes = "1280x720"
+[2018.05.16-16.32.55:046][809]Cmd: r.setres 1920x1080
+[2018.05.16-16.32.55:046][809]r.SetRes = "1920x1080"
+[2018.05.16-16.32.55:080][809]LogRenderer: Reallocating scene render targets to support 1912x1048 Format 10 NumSamples 1 (Frame:406).
+[2018.05.16-16.32.55:979][886]Cmd: r.setres 640x480
+[2018.05.16-16.32.55:979][886]r.SetRes = "640x480"
+[2018.05.16-16.32.56:851][958]Cmd: r.setres 1280x720
+[2018.05.16-16.32.56:851][958]r.SetRes = "1280x720"
+[2018.05.16-16.32.58:006][ 58]Cmd: r.fullscreenmode 0
+[2018.05.16-16.32.58:006][ 58]r.FullScreenMode = "0"
+[2018.05.16-16.32.58:741][125]Cmd: r.fullscreenmode 2
+[2018.05.16-16.32.58:741][125]r.FullScreenMode = "2"
+[2018.05.16-16.32.59:290][175]Cmd: r.fullscreenmode 0
+[2018.05.16-16.32.59:290][175]r.FullScreenMode = "0"
+[2018.05.16-16.33.01:052][335]LogNet: Browse: /Game/levels/Officelevel
+[2018.05.16-16.33.01:053][335]LogLoad: LoadMap: /Game/levels/Officelevel
+[2018.05.16-16.33.01:123][335]Cmd: MEM
+[2018.05.16-16.33.01:191][335]LogMemory: Platform Memory Stats for Windows
+[2018.05.16-16.33.01:191][335]LogMemory: Process Physical Memory: 1330.26 MB used, 1342.25 MB peak
+[2018.05.16-16.33.01:191][335]LogMemory: Process Virtual Memory: 2264.53 MB used, 2414.23 MB peak
+[2018.05.16-16.33.01:191][335]LogMemory: Physical Memory: 6167.02 MB used,  10181.62 MB free, 16348.64 MB total
+[2018.05.16-16.33.01:191][335]LogMemory: Virtual Memory: 2955.09 MB used,  10181.62 MB free, 8388608.00 MB total
+[2018.05.16-16.33.01:191][335]LogMemory: 
+[2018.05.16-16.33.01:191][335]Allocator Stats for TBB: (not implemented)
+[2018.05.16-16.33.01:203][335]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Lamp_M'
+[2018.05.16-16.33.01:203][335]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Lamp_M' while loading C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Props/Materials/M_Lamp.uasset.
+[2018.05.16-16.33.01:204][335]LoadErrors: Error: /Game/StarterContent/Props/Materials/M_Lamp : Can't find file for asset. /Game/StarterContent/Textures/T_Lamp_M
+[2018.05.16-16.33.01:204][335]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Lamp_N'
+[2018.05.16-16.33.01:204][335]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Lamp_N' while loading C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Props/Materials/M_Lamp.uasset.
+[2018.05.16-16.33.01:204][335]LoadErrors: Error: /Game/StarterContent/Props/Materials/M_Lamp : Can't find file for asset. /Game/StarterContent/Textures/T_Lamp_N
+[2018.05.16-16.33.01:204][335]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Lamp_M'
+[2018.05.16-16.33.01:204][335]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Lamp_M' while loading C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Props/Materials/M_Lamp.uasset.
+[2018.05.16-16.33.01:205][335]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Lamp_N'
+[2018.05.16-16.33.01:205][335]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Lamp_N' while loading C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Props/Materials/M_Lamp.uasset.
+[2018.05.16-16.33.01:243][335]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Frame_M'
+[2018.05.16-16.33.01:244][335]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Frame_M' while loading C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Props/Materials/M_Frame.uasset.
+[2018.05.16-16.33.01:244][335]LoadErrors: Error: /Game/StarterContent/Props/Materials/M_Frame : Can't find file for asset. /Game/StarterContent/Textures/T_Frame_M
+[2018.05.16-16.33.01:244][335]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Frame_N'
+[2018.05.16-16.33.01:244][335]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Frame_N' while loading C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Props/Materials/M_Frame.uasset.
+[2018.05.16-16.33.01:244][335]LoadErrors: Error: /Game/StarterContent/Props/Materials/M_Frame : Can't find file for asset. /Game/StarterContent/Textures/T_Frame_N
+[2018.05.16-16.33.01:244][335]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Frame_M'
+[2018.05.16-16.33.01:244][335]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Frame_M' while loading C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Props/Materials/M_Frame.uasset.
+[2018.05.16-16.33.01:245][335]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Frame_N'
+[2018.05.16-16.33.01:245][335]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Frame_N' while loading C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Props/Materials/M_Frame.uasset.
+[2018.05.16-16.33.01:347][335]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Lamp_N'
+[2018.05.16-16.33.01:347][335]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Lamp_N.T_Lamp_N Referenced by MaterialExpressionTextureSample_0
+[2018.05.16-16.33.01:347][335]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Lamp_N' while loading NULL.
+[2018.05.16-16.33.01:348][335]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Lamp_M'
+[2018.05.16-16.33.01:348][335]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Lamp_M.T_Lamp_M Referenced by MaterialExpressionTextureSample_1
+[2018.05.16-16.33.01:348][335]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Lamp_M' while loading NULL.
+[2018.05.16-16.33.01:349][335]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Frame_M'
+[2018.05.16-16.33.01:349][335]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Frame_M.T_Frame_M Referenced by MaterialExpressionTextureSample_0
+[2018.05.16-16.33.01:350][335]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Frame_M' while loading NULL.
+[2018.05.16-16.33.01:350][335]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Frame_N'
+[2018.05.16-16.33.01:350][335]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Frame_N.T_Frame_N Referenced by MaterialExpressionTextureSample_1
+[2018.05.16-16.33.01:350][335]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Frame_N' while loading NULL.
+[2018.05.16-16.33.01:380][335]LogMaterial: Missing cached shader map for material M_Lamp, compiling. 
+[2018.05.16-16.33.01:380][335]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Props/Materials/M_Lamp.M_Lamp for platform PCD3D_SM5, Default Material will be used in game.
+[2018.05.16-16.33.01:380][335]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.05.16-16.33.01:399][335]LogMaterial: Missing cached shader map for material M_Frame, compiling. 
+[2018.05.16-16.33.01:400][335]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Props/Materials/M_Frame.M_Frame for platform PCD3D_SM5, Default Material will be used in game.
+[2018.05.16-16.33.01:400][335]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.05.16-16.33.01:574][335]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.173 s
+[2018.05.16-16.33.01:574][335]LogOutputDevice: Error: === Handled ensure: ===
+[2018.05.16-16.33.01:574][335]LogOutputDevice: Error: 
+[2018.05.16-16.33.01:574][335]LogOutputDevice: Error: Ensure condition failed: IsObjectValidForDatabase(AssetObject) [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Editor\BlueprintGraph\Private\BlueprintActionDatabase.cpp] [Line: 1315]
+[2018.05.16-16.33.01:574][335]LogOutputDevice: Error: 
+[2018.05.16-16.33.01:574][335]LogOutputDevice: Error: Stack: 
+[2018.05.16-16.33.01:574][335]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000DF7A3E36
+[2018.05.16-16.33.01:574][335]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000DF52C2D2
+[2018.05.16-16.33.01:574][335]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000DF544746
+[2018.05.16-16.33.01:574][335]LogOutputDevice: Error: UE4Editor-BlueprintGraph.dll!0x00000000DB07D5D9
+[2018.05.16-16.33.01:574][335]LogOutputDevice: Error: UE4Editor-BlueprintGraph.dll!0x00000000DB04C90D
+[2018.05.16-16.33.01:574][335]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000E2EB0F67
+[2018.05.16-16.33.01:574][335]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000E31BB666
+[2018.05.16-16.33.01:574][335]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000E31D1766
+[2018.05.16-16.33.01:574][335]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x00000000E31D0CB2
+[2018.05.16-16.33.01:574][335]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000D4E1E10B
+[2018.05.16-16.33.01:574][335]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000D4DD6AE8
+[2018.05.16-16.33.01:574][335]LogOutputDevice: Error: UE4Editor-Engine.dll!0x00000000D4E3D89D
+[2018.05.16-16.33.01:574][335]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000DC47BF80
+[2018.05.16-16.33.01:574][335]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x00000000DCD0D646
+[2018.05.16-16.33.01:574][335]LogOutputDevice: Error: UE4Editor.exe!0x000000003F23534A
+[2018.05.16-16.33.01:574][335]LogOutputDevice: Error: UE4Editor.exe!0x000000003F243970
+[2018.05.16-16.33.01:574][335]LogOutputDevice: Error: UE4Editor.exe!0x000000003F2439EA
+[2018.05.16-16.33.01:574][335]LogOutputDevice: Error: UE4Editor.exe!0x000000003F2502D9
+[2018.05.16-16.33.01:574][335]LogOutputDevice: Error: UE4Editor.exe!0x000000003F251C47
+[2018.05.16-16.33.01:574][335]LogOutputDevice: Error: kernel32.dll!0x000000007753652D
+[2018.05.16-16.33.01:574][335]LogOutputDevice: Error: ntdll.dll!0x000000007776C541
+[2018.05.16-16.33.01:574][335]LogOutputDevice: Error: 
+[2018.05.16-16.33.01:581][335]LogStats:                SubmitErrorReport -  0.000 s
+[2018.05.16-16.33.01:951][335]LogStats:                    SendNewReport -  0.370 s
+[2018.05.16-16.33.01:951][335]LogStats:             FDebug::EnsureFailed -  0.550 s
+[2018.05.16-16.33.03:203][335]LogAIModule: Creating AISystem for world Officelevel
+[2018.05.16-16.33.03:203][335]LogLoad: Game class is 'FirstPersonMenuMode_C'
+[2018.05.16-16.33.03:223][335]LogWorld: Bringing World /Game/levels/UEDPIE_0_Officelevel.Officelevel up for play (max tick rate 0) at 2018.05.17-02.03.03
+[2018.05.16-16.33.03:224][335]LogWorld: Bringing up level for play took: 0.019863
+[2018.05.16-16.33.03:227][335]LogLoad: Took 2.174157 seconds to LoadMap(/Game/levels/Officelevel)
+[2018.05.16-16.33.05:324][463]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.05.16-16.33.05:371][463]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.05.16-16.33.13:493][278]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Lamp_M'
+[2018.05.16-16.33.13:493][278]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Lamp_M' while loading C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Props/Materials/M_Lamp.uasset.
+[2018.05.16-16.33.13:493][278]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Lamp_N'
+[2018.05.16-16.33.13:494][278]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Lamp_N' while loading C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Props/Materials/M_Lamp.uasset.
+[2018.05.16-16.33.13:494][278]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Lamp_M'
+[2018.05.16-16.33.13:494][278]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Lamp_M' while loading C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Props/Materials/M_Lamp.uasset.
+[2018.05.16-16.33.13:494][278]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Lamp_N'
+[2018.05.16-16.33.13:494][278]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Lamp_N' while loading C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Props/Materials/M_Lamp.uasset.
+[2018.05.16-16.33.13:538][278]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Frame_M'
+[2018.05.16-16.33.13:539][278]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Frame_M' while loading C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Props/Materials/M_Frame.uasset.
+[2018.05.16-16.33.13:539][278]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Frame_N'
+[2018.05.16-16.33.13:539][278]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Frame_N' while loading C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Props/Materials/M_Frame.uasset.
+[2018.05.16-16.33.13:539][278]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Frame_M'
+[2018.05.16-16.33.13:539][278]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Frame_M' while loading C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Props/Materials/M_Frame.uasset.
+[2018.05.16-16.33.13:540][278]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Frame_N'
+[2018.05.16-16.33.13:540][278]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Frame_N' while loading C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Props/Materials/M_Frame.uasset.
+[2018.05.16-16.33.13:611][278]LogAIModule: Creating AISystem for world Officelevel
+[2018.05.16-16.33.15:030][278]LogSavePackage: Save=14.63ms
+[2018.05.16-16.33.15:030][278]LogSavePackage: Moving 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Saved/FirstPersonMenuMode15F64281440D51DB9DC07880F5BB862B.tmp' to 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/FirstPersonBP/Blueprints/FirstPersonMenuMode.uasset'
+[2018.05.16-16.33.15:034][278]LogSavePackage: Display: Finished SavePackage C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/FirstPersonBP/Blueprints/FirstPersonMenuMode.uasset
+[2018.05.16-16.33.15:036][278]Cmd: MAP LOAD FILE="C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/levels/Officelevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.16-16.33.15:036][278]LightingResults: New page: Lighting Build
+[2018.05.16-16.33.15:037][278]LoadErrors: New page: Loading map: Officelevel.umap
+[2018.05.16-16.33.15:038][278]MapCheck: New page: Map Check
+[2018.05.16-16.33.15:038][278]LightingResults: New page: Lighting Build
+[2018.05.16-16.33.15:318][278]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.16-16.33.15:457][278]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.16-16.33.15:556][278]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 98.593ms to complete.
+[2018.05.16-16.33.15:557][278]LogSlate: Took 0.000296 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.16-16.33.15:564][278]LogFileHelpers: Loading map 'Officelevel' took 0.530
+[2018.05.16-16.34.58:949][880]BlueprintLog: New page: Compile MainMenuWidget
+[2018.05.16-16.34.59:714][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Blueprints/MainMenuWidget" FILE="C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/FirstPersonBP/Blueprints/MainMenuWidget.uasset" SILENT=true
+[2018.05.16-16.34.59:836][954]LogSavePackage: Save=108.20ms
+[2018.05.16-16.34.59:836][954]LogSavePackage: Moving 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Saved/MainMenuWidget42AECE074F50E1DB44D1FD879AFD3034.tmp' to 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/FirstPersonBP/Blueprints/MainMenuWidget.uasset'
+[2018.05.16-16.34.59:840][954]LogSavePackage: Display: Finished SavePackage C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/FirstPersonBP/Blueprints/MainMenuWidget.uasset
+[2018.05.16-16.35.01:820][154]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.16-16.35.03:533][345]LogUObjectGlobals: Warning: Failed to find object 'Class None.None'
+[2018.05.16-16.35.05:522][535]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.35.05:522][535]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-16.35.05:523][535]PIE: New page: PIE session: Officelevel (May 17, 2018, 11:35:05 AM)
+[2018.05.16-16.35.05:523][535]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Officelevel
+[2018.05.16-16.35.05:530][535]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006824s)
+[2018.05.16-16.35.05:530][535]LogAIModule: Creating AISystem for world Officelevel
+[2018.05.16-16.35.05:531][535]LogPlayLevel: PIE: World Init took: (0.000951s)
+[2018.05.16-16.35.05:531][535]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Officelevel.Officelevel to /Game/levels/UEDPIE_0_Officelevel.Officelevel (0.008096s)
+[2018.05.16-16.35.05:612][535]LogInit: XAudio2 using 'Speakers (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.16-16.35.05:617][535]LogInit: FAudioDevice initialized.
+[2018.05.16-16.35.05:666][535]LogLoad: Game class is 'FirstPersonMenuMode_C'
+[2018.05.16-16.35.05:683][535]LogWorld: Bringing World /Game/levels/UEDPIE_0_Officelevel.Officelevel up for play (max tick rate 0) at 2018.05.17-02.05.05
+[2018.05.16-16.35.05:683][535]LogWorld: Bringing up level for play took: 0.015770
+[2018.05.16-16.35.05:684][535]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.05.16-16.35.05:689][535]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Officelevel 0.783
+[2018.05.16-16.35.05:689][535]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.35.07:223][624]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.35.07:269][624]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.35.13:000][236]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.16-16.35.13:017][236]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.35.13:017][236]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-16.35.13:017][236]PIE: New page: PIE session: Officelevel (May 17, 2018, 11:35:13 AM)
+[2018.05.16-16.35.13:017][236]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Officelevel
+[2018.05.16-16.35.13:024][236]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006871s)
+[2018.05.16-16.35.13:025][236]LogAIModule: Creating AISystem for world Officelevel
+[2018.05.16-16.35.13:025][236]LogPlayLevel: PIE: World Init took: (0.000958s)
+[2018.05.16-16.35.13:026][236]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Officelevel.Officelevel to /Game/levels/UEDPIE_0_Officelevel.Officelevel (0.008156s)
+[2018.05.16-16.35.13:087][236]LogInit: XAudio2 using 'Speakers (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.16-16.35.13:092][236]LogInit: FAudioDevice initialized.
+[2018.05.16-16.35.13:142][236]LogLoad: Game class is 'FirstPersonMenuMode_C'
+[2018.05.16-16.35.13:159][236]LogWorld: Bringing World /Game/levels/UEDPIE_0_Officelevel.Officelevel up for play (max tick rate 0) at 2018.05.17-02.05.13
+[2018.05.16-16.35.13:159][236]LogWorld: Bringing up level for play took: 0.016269
+[2018.05.16-16.35.13:165][236]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Officelevel 0.259
+[2018.05.16-16.35.13:166][236]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.35.14:203][290]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.35.14:252][290]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.35.16:175][474]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.35.16:175][474]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-16.35.16:175][474]PIE: New page: PIE session: Officelevel (May 17, 2018, 11:35:16 AM)
+[2018.05.16-16.35.16:175][474]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Officelevel
+[2018.05.16-16.35.16:182][474]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006526s)
+[2018.05.16-16.35.16:183][474]LogAIModule: Creating AISystem for world Officelevel
+[2018.05.16-16.35.16:183][474]LogPlayLevel: PIE: World Init took: (0.000971s)
+[2018.05.16-16.35.16:183][474]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Officelevel.Officelevel to /Game/levels/UEDPIE_0_Officelevel.Officelevel (0.007816s)
+[2018.05.16-16.35.16:240][474]LogInit: XAudio2 using 'Speakers (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.16-16.35.16:246][474]LogInit: FAudioDevice initialized.
+[2018.05.16-16.35.16:296][474]LogLoad: Game class is 'FirstPersonMenuMode_C'
+[2018.05.16-16.35.16:312][474]LogWorld: Bringing World /Game/levels/UEDPIE_0_Officelevel.Officelevel up for play (max tick rate 0) at 2018.05.17-02.05.16
+[2018.05.16-16.35.16:313][474]LogWorld: Bringing up level for play took: 0.015832
+[2018.05.16-16.35.16:319][474]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Officelevel -0.588
+[2018.05.16-16.35.16:319][474]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.35.17:004][507]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.35.17:053][507]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.35.26:534][490]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.16-16.35.26:551][490]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.35.26:551][490]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-16.35.26:551][490]PIE: New page: PIE session: Officelevel (May 17, 2018, 11:35:26 AM)
+[2018.05.16-16.35.26:551][490]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Officelevel
+[2018.05.16-16.35.26:558][490]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006335s)
+[2018.05.16-16.35.26:559][490]LogAIModule: Creating AISystem for world Officelevel
+[2018.05.16-16.35.26:559][490]LogPlayLevel: PIE: World Init took: (0.000939s)
+[2018.05.16-16.35.26:559][490]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Officelevel.Officelevel to /Game/levels/UEDPIE_0_Officelevel.Officelevel (0.007569s)
+[2018.05.16-16.35.26:612][490]LogInit: XAudio2 using 'Speakers (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.16-16.35.26:618][490]LogInit: FAudioDevice initialized.
+[2018.05.16-16.35.26:667][490]LogLoad: Game class is 'FirstPersonMenuMode_C'
+[2018.05.16-16.35.26:684][490]LogWorld: Bringing World /Game/levels/UEDPIE_0_Officelevel.Officelevel up for play (max tick rate 0) at 2018.05.17-02.05.26
+[2018.05.16-16.35.26:684][490]LogWorld: Bringing up level for play took: 0.015993
+[2018.05.16-16.35.26:692][490]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Officelevel -0.214
+[2018.05.16-16.35.26:692][490]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.35.27:585][536]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.35.27:629][536]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.35.29:728][745]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.35.29:728][745]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-16.35.29:728][745]PIE: New page: PIE session: Officelevel (May 17, 2018, 11:35:29 AM)
+[2018.05.16-16.35.29:728][745]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Officelevel
+[2018.05.16-16.35.29:735][745]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006614s)
+[2018.05.16-16.35.29:736][745]LogAIModule: Creating AISystem for world Officelevel
+[2018.05.16-16.35.29:736][745]LogPlayLevel: PIE: World Init took: (0.000937s)
+[2018.05.16-16.35.29:736][745]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Officelevel.Officelevel to /Game/levels/UEDPIE_0_Officelevel.Officelevel (0.007870s)
+[2018.05.16-16.35.29:795][745]LogInit: XAudio2 using 'Speakers (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.16-16.35.29:800][745]LogInit: FAudioDevice initialized.
+[2018.05.16-16.35.29:846][745]LogLoad: Game class is 'FirstPersonMenuMode_C'
+[2018.05.16-16.35.29:863][745]LogWorld: Bringing World /Game/levels/UEDPIE_0_Officelevel.Officelevel up for play (max tick rate 0) at 2018.05.17-02.05.29
+[2018.05.16-16.35.29:863][745]LogWorld: Bringing up level for play took: 0.016135
+[2018.05.16-16.35.29:871][745]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Officelevel 0.964
+[2018.05.16-16.35.29:871][745]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.35.32:813][960]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.35.32:859][960]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.35.37:685][457]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.35.37:685][457]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-16.35.37:685][457]PIE: New page: PIE session: Officelevel (May 17, 2018, 11:35:37 AM)
+[2018.05.16-16.35.37:685][457]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Officelevel
+[2018.05.16-16.35.37:692][457]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006402s)
+[2018.05.16-16.35.37:692][457]LogAIModule: Creating AISystem for world Officelevel
+[2018.05.16-16.35.37:693][457]LogPlayLevel: PIE: World Init took: (0.000946s)
+[2018.05.16-16.35.37:693][457]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Officelevel.Officelevel to /Game/levels/UEDPIE_0_Officelevel.Officelevel (0.007657s)
+[2018.05.16-16.35.37:756][457]LogInit: XAudio2 using 'Speakers (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.16-16.35.37:761][457]LogInit: FAudioDevice initialized.
+[2018.05.16-16.35.37:806][457]LogLoad: Game class is 'FirstPersonMenuMode_C'
+[2018.05.16-16.35.37:823][457]LogWorld: Bringing World /Game/levels/UEDPIE_0_Officelevel.Officelevel up for play (max tick rate 0) at 2018.05.17-02.05.37
+[2018.05.16-16.35.37:823][457]LogWorld: Bringing up level for play took: 0.015946
+[2018.05.16-16.35.37:829][457]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Officelevel 0.923
+[2018.05.16-16.35.37:830][457]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.35.40:669][592]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.35.40:717][592]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.35.45:218][ 64]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.16-16.35.45:235][ 64]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.35.45:235][ 64]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-16.35.45:236][ 64]PIE: New page: PIE session: Officelevel (May 17, 2018, 11:35:45 AM)
+[2018.05.16-16.35.45:236][ 64]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Officelevel
+[2018.05.16-16.35.45:242][ 64]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006512s)
+[2018.05.16-16.35.45:243][ 64]LogAIModule: Creating AISystem for world Officelevel
+[2018.05.16-16.35.45:243][ 64]LogPlayLevel: PIE: World Init took: (0.000965s)
+[2018.05.16-16.35.45:243][ 64]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Officelevel.Officelevel to /Game/levels/UEDPIE_0_Officelevel.Officelevel (0.007774s)
+[2018.05.16-16.35.45:308][ 64]LogInit: XAudio2 using 'Speakers (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.16-16.35.45:313][ 64]LogInit: FAudioDevice initialized.
+[2018.05.16-16.35.45:360][ 64]LogLoad: Game class is 'FirstPersonMenuMode_C'
+[2018.05.16-16.35.45:376][ 64]LogWorld: Bringing World /Game/levels/UEDPIE_0_Officelevel.Officelevel up for play (max tick rate 0) at 2018.05.17-02.05.45
+[2018.05.16-16.35.45:377][ 64]LogWorld: Bringing up level for play took: 0.015776
+[2018.05.16-16.35.45:385][ 64]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Officelevel 0.478
+[2018.05.16-16.35.45:385][ 64]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.35.49:541][279]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.35.49:574][279]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.35.55:433][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/Officelevel" FILE="C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/levels/Officelevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.16-16.35.55:852][876]LogSavePackage: Save=329.77ms
+[2018.05.16-16.35.55:852][876]LogSavePackage: Moving 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Saved/OfficelevelD318575A4012CF87BEDCEE98569D8337.tmp' to 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/levels/Officelevel.umap'
+[2018.05.16-16.35.55:856][876]LogSavePackage: Display: Finished SavePackage C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/levels/Officelevel.umap
+[2018.05.16-16.35.56:531][942]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.05.16-16.36.04:877][748]LogAIModule: Creating AISystem for world mainMenulevel
+[2018.05.16-16.36.07:559][748]LogSavePackage: Save=14.59ms
+[2018.05.16-16.36.07:559][748]LogSavePackage: Moving 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Saved/FirstPersonMenuModeDE8DD5DC4DFF93DC08D744B757BD70F8.tmp' to 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/FirstPersonBP/Blueprints/FirstPersonMenuMode.uasset'
+[2018.05.16-16.36.07:564][748]LogSavePackage: Display: Finished SavePackage C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/FirstPersonBP/Blueprints/FirstPersonMenuMode.uasset
+[2018.05.16-16.36.07:566][748]Cmd: MAP LOAD FILE="C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/levels/mainmenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.16-16.36.07:566][748]LightingResults: New page: Lighting Build
+[2018.05.16-16.36.07:567][748]LoadErrors: New page: Loading map: mainmenuLevel.umap
+[2018.05.16-16.36.07:568][748]MapCheck: New page: Map Check
+[2018.05.16-16.36.07:568][748]LightingResults: New page: Lighting Build
+[2018.05.16-16.36.07:760][748]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.16-16.36.08:446][748]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.16-16.36.08:546][748]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 100.812ms to complete.
+[2018.05.16-16.36.08:547][748]LogFileHelpers: Loading map 'mainmenuLevel' took 0.982
+[2018.05.16-16.36.14:520][169]LogSavePackage: Save=1425.14ms
+[2018.05.16-16.36.14:520][169]LogSavePackage: Moving 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Saved/UEDPCmainmenuLevel1E9C9CB24D3C9F7B97DB078D23FA9617.tmp' to 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Saved/Autosaves/Game/levels/UEDPCmainmenuLevel.umap'
+[2018.05.16-16.36.14:524][169]LogSavePackage: Display: Finished SavePackage C:/Users/Double/Documents/Unreal Projects/GameDesign/Saved/Autosaves/Game/levels/UEDPCmainmenuLevel.umap
+[2018.05.16-16.36.14:532][169]LogEditorTransaction: Undo Spawn Play From Here Start
+[2018.05.16-16.36.16:784][388]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/mainmenuLevel.mainMenulevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/mainmenuLevel.mainMenulevel:PersistentLevel.mainMenulevel' with GeneratedClass '/Game/levels/mainmenuLevel.mainMenulevel_C' with ClassGeneratedBy '/Game/levels/mainmenuLevel.mainMenulevel:PersistentLevel.mainMenulevel'
+[2018.05.16-16.36.16:784][388]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-16.36.16:784][388]PIE: New page: PIE session: mainmenuLevel (May 17, 2018, 11:36:16 AM)
+[2018.05.16-16.36.16:784][388]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_mainmenuLevel
+[2018.05.16-16.36.16:822][388]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037869s)
+[2018.05.16-16.36.16:823][388]LogAIModule: Creating AISystem for world mainMenulevel
+[2018.05.16-16.36.16:824][388]LogPlayLevel: PIE: World Init took: (0.001390s)
+[2018.05.16-16.36.16:824][388]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/mainmenuLevel.mainMenulevel to /Game/levels/UEDPIE_0_mainmenuLevel.mainMenulevel (0.039778s)
+[2018.05.16-16.36.16:902][388]LogInit: XAudio2 using 'Speakers (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.16-16.36.16:908][388]LogInit: FAudioDevice initialized.
+[2018.05.16-16.36.16:955][388]LogLoad: Game class is 'FirstPersonMenuMode_C'
+[2018.05.16-16.36.16:959][388]LogWorld: Bringing World /Game/levels/UEDPIE_0_mainmenuLevel.mainMenulevel up for play (max tick rate 0) at 2018.05.17-02.06.16
+[2018.05.16-16.36.16:959][388]LogWorld: Bringing up level for play took: 0.003237
+[2018.05.16-16.36.16:968][388]PIE: Play in editor start time for /Game/levels/UEDPIE_0_mainmenuLevel 0.062
+[2018.05.16-16.36.16:969][388]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/mainmenuLevel.mainMenulevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/mainmenuLevel.mainMenulevel:PersistentLevel.mainMenulevel' with GeneratedClass '/Game/levels/mainmenuLevel.mainMenulevel_C' with ClassGeneratedBy '/Game/levels/mainmenuLevel.mainMenulevel:PersistentLevel.mainMenulevel'
+[2018.05.16-16.36.18:751][538]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/mainmenuLevel.mainMenulevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/mainmenuLevel.mainMenulevel:PersistentLevel.mainMenulevel' with GeneratedClass '/Game/levels/mainmenuLevel.mainMenulevel_C' with ClassGeneratedBy '/Game/levels/mainmenuLevel.mainMenulevel:PersistentLevel.mainMenulevel'
+[2018.05.16-16.36.18:782][538]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/mainmenuLevel.mainMenulevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/mainmenuLevel.mainMenulevel:PersistentLevel.mainMenulevel' with GeneratedClass '/Game/levels/mainmenuLevel.mainMenulevel_C' with ClassGeneratedBy '/Game/levels/mainmenuLevel.mainMenulevel:PersistentLevel.mainMenulevel'
+[2018.05.16-16.36.20:467][686]LogAIModule: Creating AISystem for world Officelevel
+[2018.05.16-16.36.20:551][686]Cmd: MAP LOAD FILE="C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/levels/Officelevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.16-16.36.20:551][686]LightingResults: New page: Lighting Build
+[2018.05.16-16.36.20:552][686]LoadErrors: New page: Loading map: Officelevel.umap
+[2018.05.16-16.36.20:553][686]MapCheck: New page: Map Check
+[2018.05.16-16.36.20:553][686]LightingResults: New page: Lighting Build
+[2018.05.16-16.36.20:786][686]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.16-16.36.20:970][686]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.16-16.36.21:071][686]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 101.277ms to complete.
+[2018.05.16-16.36.21:071][686]LogFileHelpers: Loading map 'Officelevel' took 0.522
+[2018.05.16-16.36.22:011][775]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.16-16.36.37:721][447]LogAIModule: Creating AISystem for world mainMenulevel
+[2018.05.16-16.36.39:190][447]Cmd: MAP LOAD FILE="C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/levels/mainmenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.16-16.36.39:192][447]LightingResults: New page: Lighting Build
+[2018.05.16-16.36.39:193][447]LoadErrors: New page: Loading map: mainmenuLevel.umap
+[2018.05.16-16.36.39:195][447]MapCheck: New page: Map Check
+[2018.05.16-16.36.39:195][447]LightingResults: New page: Lighting Build
+[2018.05.16-16.36.39:387][447]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.16-16.36.40:065][447]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.16-16.36.40:164][447]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 99.446ms to complete.
+[2018.05.16-16.36.40:164][447]LogFileHelpers: Loading map 'mainmenuLevel' took 0.976
+[2018.05.16-16.36.41:914][602]LogAIModule: Creating AISystem for world Officelevel
+[2018.05.16-16.36.43:364][602]LogSavePackage: Save=15.74ms
+[2018.05.16-16.36.43:364][602]LogSavePackage: Moving 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Saved/FirstPersonGameMode192E88FC45EB82D6680CA49F53A977D7.tmp' to 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset'
+[2018.05.16-16.36.43:370][602]LogSavePackage: Display: Finished SavePackage C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset
+[2018.05.16-16.36.43:371][602]Cmd: MAP LOAD FILE="C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/levels/Officelevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.16-16.36.43:371][602]LightingResults: New page: Lighting Build
+[2018.05.16-16.36.43:372][602]LoadErrors: New page: Loading map: Officelevel.umap
+[2018.05.16-16.36.43:373][602]MapCheck: New page: Map Check
+[2018.05.16-16.36.43:373][602]LightingResults: New page: Lighting Build
+[2018.05.16-16.36.43:613][602]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.16-16.36.43:770][602]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.16-16.36.43:868][602]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 97.748ms to complete.
+[2018.05.16-16.36.43:872][602]LogFileHelpers: Loading map 'Officelevel' took 0.502
+[2018.05.16-16.36.45:096][717]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.16-16.36.55:599][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/Officelevel" FILE="C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/levels/Officelevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.16-16.36.56:007][812]LogSavePackage: Save=330.01ms
+[2018.05.16-16.36.56:007][812]LogSavePackage: Moving 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Saved/OfficelevelAF92683343DF1B64397467B144CD8843.tmp' to 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/levels/Officelevel.umap'
+[2018.05.16-16.36.56:011][812]LogSavePackage: Display: Finished SavePackage C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/levels/Officelevel.umap
+[2018.05.16-16.36.56:039][812]LogFileHelpers: Saving map 'Officelevel' took 0.538
+[2018.05.16-16.36.57:196][931]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.16-16.36.57:219][931]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.36.57:219][931]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-16.36.57:219][931]PIE: New page: PIE session: Officelevel (May 17, 2018, 11:36:57 AM)
+[2018.05.16-16.36.57:219][931]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Officelevel
+[2018.05.16-16.36.57:226][931]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007116s)
+[2018.05.16-16.36.57:227][931]LogAIModule: Creating AISystem for world Officelevel
+[2018.05.16-16.36.57:227][931]LogPlayLevel: PIE: World Init took: (0.000977s)
+[2018.05.16-16.36.57:227][931]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Officelevel.Officelevel to /Game/levels/UEDPIE_0_Officelevel.Officelevel (0.008394s)
+[2018.05.16-16.36.57:305][931]LogInit: XAudio2 using 'Speakers (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.16-16.36.57:312][931]LogInit: FAudioDevice initialized.
+[2018.05.16-16.36.57:364][931]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-16.36.57:380][931]LogWorld: Bringing World /Game/levels/UEDPIE_0_Officelevel.Officelevel up for play (max tick rate 0) at 2018.05.17-02.06.57
+[2018.05.16-16.36.57:381][931]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (FirstPersonGameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.05.16-16.36.57:381][931]LogWorld: Bringing up level for play took: 0.015910
+[2018.05.16-16.36.57:387][931]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Officelevel 0.479
+[2018.05.16-16.36.57:387][931]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.37.00:489][165]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.37.00:536][165]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.37.11:145][260]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.16-16.37.11:162][260]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.37.11:162][260]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-16.37.11:162][260]PIE: New page: PIE session: Officelevel (May 17, 2018, 11:37:11 AM)
+[2018.05.16-16.37.11:163][260]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Officelevel
+[2018.05.16-16.37.11:169][260]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006487s)
+[2018.05.16-16.37.11:170][260]LogAIModule: Creating AISystem for world Officelevel
+[2018.05.16-16.37.11:170][260]LogPlayLevel: PIE: World Init took: (0.001017s)
+[2018.05.16-16.37.11:170][260]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Officelevel.Officelevel to /Game/levels/UEDPIE_0_Officelevel.Officelevel (0.007829s)
+[2018.05.16-16.37.11:222][260]LogInit: XAudio2 using 'Speakers (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.16-16.37.11:227][260]LogInit: FAudioDevice initialized.
+[2018.05.16-16.37.11:272][260]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-16.37.11:288][260]LogWorld: Bringing World /Game/levels/UEDPIE_0_Officelevel.Officelevel up for play (max tick rate 0) at 2018.05.17-02.07.11
+[2018.05.16-16.37.11:289][260]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (FirstPersonGameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.05.16-16.37.11:289][260]LogWorld: Bringing up level for play took: 0.015776
+[2018.05.16-16.37.11:295][260]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Officelevel 0.388
+[2018.05.16-16.37.11:295][260]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.37.14:066][464]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.37.14:113][464]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.37.15:761][620]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.16-16.37.21:182][197]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.16-16.37.21:199][197]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.37.21:199][197]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-16.37.21:199][197]PIE: New page: PIE session: Officelevel (May 17, 2018, 11:37:21 AM)
+[2018.05.16-16.37.21:199][197]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Officelevel
+[2018.05.16-16.37.21:206][197]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006451s)
+[2018.05.16-16.37.21:207][197]LogAIModule: Creating AISystem for world Officelevel
+[2018.05.16-16.37.21:207][197]LogPlayLevel: PIE: World Init took: (0.000969s)
+[2018.05.16-16.37.21:207][197]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Officelevel.Officelevel to /Game/levels/UEDPIE_0_Officelevel.Officelevel (0.007722s)
+[2018.05.16-16.37.21:282][197]LogInit: XAudio2 using 'Speakers (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.16-16.37.21:287][197]LogInit: FAudioDevice initialized.
+[2018.05.16-16.37.21:332][197]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-16.37.21:348][197]LogWorld: Bringing World /Game/levels/UEDPIE_0_Officelevel.Officelevel up for play (max tick rate 0) at 2018.05.17-02.07.21
+[2018.05.16-16.37.21:349][197]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (FirstPersonGameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.05.16-16.37.21:349][197]LogWorld: Bringing up level for play took: 0.015837
+[2018.05.16-16.37.21:354][197]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Officelevel 0.447
+[2018.05.16-16.37.21:355][197]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.37.29:494][908]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.37.29:543][908]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.37.32:771][239]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.16-16.37.32:788][239]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.37.32:789][239]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-16.37.32:789][239]PIE: New page: PIE session: Officelevel (May 17, 2018, 11:37:32 AM)
+[2018.05.16-16.37.32:789][239]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Officelevel
+[2018.05.16-16.37.32:795][239]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006573s)
+[2018.05.16-16.37.32:796][239]LogAIModule: Creating AISystem for world Officelevel
+[2018.05.16-16.37.32:796][239]LogPlayLevel: PIE: World Init took: (0.000952s)
+[2018.05.16-16.37.32:797][239]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Officelevel.Officelevel to /Game/levels/UEDPIE_0_Officelevel.Officelevel (0.007848s)
+[2018.05.16-16.37.32:863][239]LogInit: XAudio2 using 'Speakers (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.16-16.37.32:868][239]LogInit: FAudioDevice initialized.
+[2018.05.16-16.37.32:921][239]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-16.37.32:938][239]LogWorld: Bringing World /Game/levels/UEDPIE_0_Officelevel.Officelevel up for play (max tick rate 0) at 2018.05.17-02.07.32
+[2018.05.16-16.37.32:938][239]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (FirstPersonGameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.05.16-16.37.32:939][239]LogWorld: Bringing up level for play took: 0.016406
+[2018.05.16-16.37.32:944][239]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Officelevel 0.036
+[2018.05.16-16.37.32:945][239]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.37.34:037][307]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.37.34:086][307]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.37.37:858][695]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.16-16.37.37:875][695]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.37.37:875][695]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-16.37.37:875][695]PIE: New page: PIE session: Officelevel (May 17, 2018, 11:37:37 AM)
+[2018.05.16-16.37.37:875][695]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Officelevel
+[2018.05.16-16.37.37:882][695]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006459s)
+[2018.05.16-16.37.37:883][695]LogAIModule: Creating AISystem for world Officelevel
+[2018.05.16-16.37.37:883][695]LogPlayLevel: PIE: World Init took: (0.000989s)
+[2018.05.16-16.37.37:883][695]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Officelevel.Officelevel to /Game/levels/UEDPIE_0_Officelevel.Officelevel (0.007751s)
+[2018.05.16-16.37.37:958][695]LogInit: XAudio2 using 'Speakers (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.16-16.37.37:964][695]LogInit: FAudioDevice initialized.
+[2018.05.16-16.37.38:015][695]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-16.37.38:032][695]LogWorld: Bringing World /Game/levels/UEDPIE_0_Officelevel.Officelevel up for play (max tick rate 0) at 2018.05.17-02.07.38
+[2018.05.16-16.37.38:032][695]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (FirstPersonGameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.05.16-16.37.38:032][695]LogWorld: Bringing up level for play took: 0.016062
+[2018.05.16-16.37.38:039][695]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Officelevel 1.132
+[2018.05.16-16.37.38:040][695]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.37.42:142][ 15]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.37.42:192][ 15]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.37.46:934][505]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.16-16.37.46:951][505]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.37.46:951][505]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-16.37.46:951][505]PIE: New page: PIE session: Officelevel (May 17, 2018, 11:37:46 AM)
+[2018.05.16-16.37.46:951][505]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Officelevel
+[2018.05.16-16.37.46:958][505]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006560s)
+[2018.05.16-16.37.46:958][505]LogAIModule: Creating AISystem for world Officelevel
+[2018.05.16-16.37.46:959][505]LogPlayLevel: PIE: World Init took: (0.000993s)
+[2018.05.16-16.37.46:959][505]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Officelevel.Officelevel to /Game/levels/UEDPIE_0_Officelevel.Officelevel (0.007855s)
+[2018.05.16-16.37.47:031][505]LogInit: XAudio2 using 'Speakers (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.16-16.37.47:036][505]LogInit: FAudioDevice initialized.
+[2018.05.16-16.37.47:094][505]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-16.37.47:112][505]LogWorld: Bringing World /Game/levels/UEDPIE_0_Officelevel.Officelevel up for play (max tick rate 0) at 2018.05.17-02.07.47
+[2018.05.16-16.37.47:112][505]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (FirstPersonGameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.05.16-16.37.47:112][505]LogWorld: Bringing up level for play took: 0.016744
+[2018.05.16-16.37.47:118][505]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Officelevel 0.209
+[2018.05.16-16.37.47:118][505]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.37.48:033][555]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.37.48:084][555]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.37.51:614][920]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.16-16.37.52:434][993]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.16-16.37.52:450][993]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.37.52:450][993]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-16.37.52:451][993]PIE: New page: PIE session: Officelevel (May 17, 2018, 11:37:52 AM)
+[2018.05.16-16.37.52:451][993]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Officelevel
+[2018.05.16-16.37.52:457][993]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006589s)
+[2018.05.16-16.37.52:458][993]LogAIModule: Creating AISystem for world Officelevel
+[2018.05.16-16.37.52:458][993]LogPlayLevel: PIE: World Init took: (0.001013s)
+[2018.05.16-16.37.52:459][993]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Officelevel.Officelevel to /Game/levels/UEDPIE_0_Officelevel.Officelevel (0.007928s)
+[2018.05.16-16.37.52:544][993]LogInit: XAudio2 using 'Speakers (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.16-16.37.52:549][993]LogInit: FAudioDevice initialized.
+[2018.05.16-16.37.52:596][993]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-16.37.52:612][993]LogWorld: Bringing World /Game/levels/UEDPIE_0_Officelevel.Officelevel up for play (max tick rate 0) at 2018.05.17-02.07.52
+[2018.05.16-16.37.52:612][993]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (FirstPersonGameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.05.16-16.37.52:612][993]LogWorld: Bringing up level for play took: 0.015685
+[2018.05.16-16.37.52:625][993]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Officelevel -0.283
+[2018.05.16-16.37.52:625][993]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.37.53:523][ 37]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.37.53:567][ 37]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.37.54:581][125]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.16-16.37.56:549][344]LogUObjectGlobals: Warning: Failed to find object 'Class None.None'
+[2018.05.16-16.37.57:629][455]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.16-16.37.57:647][455]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.37.57:647][455]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-16.37.57:647][455]PIE: New page: PIE session: Officelevel (May 17, 2018, 11:37:57 AM)
+[2018.05.16-16.37.57:647][455]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Officelevel
+[2018.05.16-16.37.57:654][455]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006737s)
+[2018.05.16-16.37.57:655][455]LogAIModule: Creating AISystem for world Officelevel
+[2018.05.16-16.37.57:655][455]LogPlayLevel: PIE: World Init took: (0.000963s)
+[2018.05.16-16.37.57:655][455]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Officelevel.Officelevel to /Game/levels/UEDPIE_0_Officelevel.Officelevel (0.008011s)
+[2018.05.16-16.37.57:707][455]LogInit: XAudio2 using 'Speakers (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.16-16.37.57:712][455]LogInit: FAudioDevice initialized.
+[2018.05.16-16.37.57:758][455]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-16.37.57:774][455]LogWorld: Bringing World /Game/levels/UEDPIE_0_Officelevel.Officelevel up for play (max tick rate 0) at 2018.05.17-02.07.57
+[2018.05.16-16.37.57:774][455]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (FirstPersonGameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.05.16-16.37.57:775][455]LogWorld: Bringing up level for play took: 0.015991
+[2018.05.16-16.37.57:780][455]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Officelevel 0.872
+[2018.05.16-16.37.57:780][455]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.37.58:620][500]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.37.58:667][500]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.38.03:642][ 22]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.16-16.38.03:659][ 22]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.38.03:659][ 22]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-16.38.03:659][ 22]PIE: New page: PIE session: Officelevel (May 17, 2018, 11:38:03 AM)
+[2018.05.16-16.38.03:660][ 22]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Officelevel
+[2018.05.16-16.38.03:666][ 22]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006439s)
+[2018.05.16-16.38.03:667][ 22]LogAIModule: Creating AISystem for world Officelevel
+[2018.05.16-16.38.03:667][ 22]LogPlayLevel: PIE: World Init took: (0.000965s)
+[2018.05.16-16.38.03:667][ 22]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Officelevel.Officelevel to /Game/levels/UEDPIE_0_Officelevel.Officelevel (0.007708s)
+[2018.05.16-16.38.03:725][ 22]LogInit: XAudio2 using 'Speakers (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.16-16.38.03:730][ 22]LogInit: FAudioDevice initialized.
+[2018.05.16-16.38.03:777][ 22]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-16.38.03:793][ 22]LogWorld: Bringing World /Game/levels/UEDPIE_0_Officelevel.Officelevel up for play (max tick rate 0) at 2018.05.17-02.08.03
+[2018.05.16-16.38.03:794][ 22]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (FirstPersonGameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.05.16-16.38.03:794][ 22]LogWorld: Bringing up level for play took: 0.015999
+[2018.05.16-16.38.03:802][ 22]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Officelevel 0.894
+[2018.05.16-16.38.03:802][ 22]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.38.07:377][301]LogNet: Browse: /Game/levels/mainmenuLevel
+[2018.05.16-16.38.07:378][301]LogLoad: LoadMap: /Game/levels/mainmenuLevel
+[2018.05.16-16.38.07:454][301]Cmd: MEM
+[2018.05.16-16.38.07:530][301]LogMemory: Platform Memory Stats for Windows
+[2018.05.16-16.38.07:530][301]LogMemory: Process Physical Memory: 1679.05 MB used, 1900.04 MB peak
+[2018.05.16-16.38.07:530][301]LogMemory: Process Virtual Memory: 2609.57 MB used, 3197.50 MB peak
+[2018.05.16-16.38.07:530][301]LogMemory: Physical Memory: 6449.92 MB used,  9898.71 MB free, 16348.64 MB total
+[2018.05.16-16.38.07:530][301]LogMemory: Virtual Memory: 3306.20 MB used,  9898.71 MB free, 8388608.00 MB total
+[2018.05.16-16.38.07:530][301]LogMemory: 
+[2018.05.16-16.38.07:530][301]Allocator Stats for TBB: (not implemented)
+[2018.05.16-16.38.08:205][301]LogAIModule: Creating AISystem for world mainMenulevel
+[2018.05.16-16.38.08:206][301]LogLoad: Game class is 'FirstPersonMenuMode_C'
+[2018.05.16-16.38.08:213][301]LogWorld: Bringing World /Game/levels/UEDPIE_0_mainmenuLevel.mainMenulevel up for play (max tick rate 0) at 2018.05.17-02.08.08
+[2018.05.16-16.38.08:213][301]LogWorld: Bringing up level for play took: 0.006629
+[2018.05.16-16.38.08:217][301]LogLoad: Took 0.838979 seconds to LoadMap(/Game/levels/mainmenuLevel)
+[2018.05.16-16.38.09:427][400]LogNet: Browse: /Game/levels/Officelevel
+[2018.05.16-16.38.09:429][400]LogLoad: LoadMap: /Game/levels/Officelevel
+[2018.05.16-16.38.09:541][400]Cmd: MEM
+[2018.05.16-16.38.09:610][400]LogMemory: Platform Memory Stats for Windows
+[2018.05.16-16.38.09:610][400]LogMemory: Process Physical Memory: 1872.95 MB used, 1933.04 MB peak
+[2018.05.16-16.38.09:610][400]LogMemory: Process Virtual Memory: 2843.30 MB used, 3197.50 MB peak
+[2018.05.16-16.38.09:610][400]LogMemory: Physical Memory: 6636.58 MB used,  9712.05 MB free, 16348.64 MB total
+[2018.05.16-16.38.09:610][400]LogMemory: Virtual Memory: 3539.45 MB used,  9712.05 MB free, 8388608.00 MB total
+[2018.05.16-16.38.09:610][400]LogMemory: 
+[2018.05.16-16.38.09:610][400]Allocator Stats for TBB: (not implemented)
+[2018.05.16-16.38.09:610][400]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Officelevel
+[2018.05.16-16.38.09:617][400]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006500s)
+[2018.05.16-16.38.09:618][400]LogAIModule: Creating AISystem for world Officelevel
+[2018.05.16-16.38.09:618][400]LogPlayLevel: PIE: World Init took: (0.000964s)
+[2018.05.16-16.38.09:618][400]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Officelevel.Officelevel to /Game/levels/UEDPIE_0_Officelevel.Officelevel (0.007776s)
+[2018.05.16-16.38.09:618][400]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-16.38.09:669][400]LogWorld: Bringing World /Game/levels/UEDPIE_0_Officelevel.Officelevel up for play (max tick rate 0) at 2018.05.17-02.08.09
+[2018.05.16-16.38.09:669][400]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (FirstPersonGameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.05.16-16.38.09:669][400]LogWorld: Bringing up level for play took: 0.050387
+[2018.05.16-16.38.09:672][400]LogLoad: Took 0.243167 seconds to LoadMap(/Game/levels/UEDPIE_0_Officelevel)
+[2018.05.16-16.38.12:403][617]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.38.12:449][617]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.38.21:630][396]LogSavePackage: Save=15.30ms
+[2018.05.16-16.38.21:630][396]LogSavePackage: Moving 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Saved/FirstPersonGameMode2A70DBA149A915E658A630B8D668E4ED.tmp' to 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset'
+[2018.05.16-16.38.21:635][396]LogSavePackage: Display: Finished SavePackage C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset
+[2018.05.16-16.38.21:638][396]Cmd: MAP LOAD FILE="C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/levels/Officelevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.16-16.38.21:638][396]LightingResults: New page: Lighting Build
+[2018.05.16-16.38.21:639][396]LoadErrors: New page: Loading map: Officelevel.umap
+[2018.05.16-16.38.21:640][396]MapCheck: New page: Map Check
+[2018.05.16-16.38.21:640][396]LightingResults: New page: Lighting Build
+[2018.05.16-16.38.21:923][396]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Lamp_M'
+[2018.05.16-16.38.21:924][396]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Lamp_M' while loading C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Props/Materials/M_Lamp.uasset.
+[2018.05.16-16.38.21:924][396]LoadErrors: Error: /Game/StarterContent/Props/Materials/M_Lamp : Can't find file for asset. /Game/StarterContent/Textures/T_Lamp_M
+[2018.05.16-16.38.21:924][396]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Lamp_N'
+[2018.05.16-16.38.21:924][396]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Lamp_N' while loading C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Props/Materials/M_Lamp.uasset.
+[2018.05.16-16.38.21:924][396]LoadErrors: Error: /Game/StarterContent/Props/Materials/M_Lamp : Can't find file for asset. /Game/StarterContent/Textures/T_Lamp_N
+[2018.05.16-16.38.21:924][396]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Lamp_M'
+[2018.05.16-16.38.21:925][396]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Lamp_M' while loading C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Props/Materials/M_Lamp.uasset.
+[2018.05.16-16.38.21:925][396]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Lamp_N'
+[2018.05.16-16.38.21:925][396]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Lamp_N' while loading C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Props/Materials/M_Lamp.uasset.
+[2018.05.16-16.38.21:971][396]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Frame_M'
+[2018.05.16-16.38.21:971][396]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Frame_M' while loading C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Props/Materials/M_Frame.uasset.
+[2018.05.16-16.38.21:971][396]LoadErrors: Error: /Game/StarterContent/Props/Materials/M_Frame : Can't find file for asset. /Game/StarterContent/Textures/T_Frame_M
+[2018.05.16-16.38.21:971][396]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Frame_N'
+[2018.05.16-16.38.21:971][396]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Frame_N' while loading C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Props/Materials/M_Frame.uasset.
+[2018.05.16-16.38.21:972][396]LoadErrors: Error: /Game/StarterContent/Props/Materials/M_Frame : Can't find file for asset. /Game/StarterContent/Textures/T_Frame_N
+[2018.05.16-16.38.21:972][396]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Frame_M'
+[2018.05.16-16.38.21:972][396]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Frame_M' while loading C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Props/Materials/M_Frame.uasset.
+[2018.05.16-16.38.21:972][396]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Frame_N'
+[2018.05.16-16.38.21:972][396]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Frame_N' while loading C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Props/Materials/M_Frame.uasset.
+[2018.05.16-16.38.22:045][396]LogAIModule: Creating AISystem for world Officelevel
+[2018.05.16-16.38.22:174][396]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.16-16.38.22:332][396]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.16-16.38.22:434][396]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 101.889ms to complete.
+[2018.05.16-16.38.22:436][396]LogFileHelpers: Loading map 'Officelevel' took 0.799
+[2018.05.16-16.38.50:826][427]BlueprintLog: New page: Compile Officelevel
+[2018.05.16-16.38.51:955][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/Officelevel" FILE="C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/levels/Officelevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.16-16.38.52:375][487]LogSavePackage: Save=330.56ms
+[2018.05.16-16.38.52:375][487]LogSavePackage: Moving 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Saved/Officelevel5A218D2042F07FE5FD76818DA28E7410.tmp' to 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/levels/Officelevel.umap'
+[2018.05.16-16.38.52:380][487]LogSavePackage: Display: Finished SavePackage C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/levels/Officelevel.umap
+[2018.05.16-16.38.52:407][487]LogFileHelpers: Saving map 'Officelevel' took 0.554
+[2018.05.16-16.39.00:430][183]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.16-16.39.00:447][183]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.39.00:447][183]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-16.39.00:448][183]PIE: New page: PIE session: Officelevel (May 17, 2018, 11:39:00 AM)
+[2018.05.16-16.39.00:448][183]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Officelevel
+[2018.05.16-16.39.00:454][183]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006598s)
+[2018.05.16-16.39.00:455][183]LogAIModule: Creating AISystem for world Officelevel
+[2018.05.16-16.39.00:456][183]LogPlayLevel: PIE: World Init took: (0.001224s)
+[2018.05.16-16.39.00:456][183]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Officelevel.Officelevel to /Game/levels/UEDPIE_0_Officelevel.Officelevel (0.008135s)
+[2018.05.16-16.39.00:527][183]LogInit: XAudio2 using 'Speakers (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.16-16.39.00:532][183]LogInit: FAudioDevice initialized.
+[2018.05.16-16.39.00:581][183]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-16.39.00:598][183]LogWorld: Bringing World /Game/levels/UEDPIE_0_Officelevel.Officelevel up for play (max tick rate 0) at 2018.05.17-02.09.00
+[2018.05.16-16.39.00:598][183]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (FirstPersonGameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.05.16-16.39.00:598][183]LogWorld: Bringing up level for play took: 0.016176
+[2018.05.16-16.39.00:605][183]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Officelevel -0.303
+[2018.05.16-16.39.00:606][183]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.39.04:503][451]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.39.04:557][451]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.39.06:645][640]LogAIModule: Creating AISystem for world mainMenulevel
+[2018.05.16-16.39.06:719][640]Cmd: MAP LOAD FILE="C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/levels/mainmenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.16-16.39.06:719][640]LightingResults: New page: Lighting Build
+[2018.05.16-16.39.06:720][640]LoadErrors: New page: Loading map: mainmenuLevel.umap
+[2018.05.16-16.39.06:779][640]MapCheck: New page: Map Check
+[2018.05.16-16.39.06:779][640]LightingResults: New page: Lighting Build
+[2018.05.16-16.39.06:978][640]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.16-16.39.07:674][640]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.16-16.39.07:775][640]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 101.35ms to complete.
+[2018.05.16-16.39.07:784][640]LogFileHelpers: Loading map 'mainmenuLevel' took 1.067
+[2018.05.16-16.39.12:564][134]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.16-16.39.12:581][134]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/mainmenuLevel.mainMenulevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/mainmenuLevel.mainMenulevel:PersistentLevel.mainMenulevel' with GeneratedClass '/Game/levels/mainmenuLevel.mainMenulevel_C' with ClassGeneratedBy '/Game/levels/mainmenuLevel.mainMenulevel:PersistentLevel.mainMenulevel'
+[2018.05.16-16.39.12:582][134]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-16.39.12:582][134]PIE: New page: PIE session: mainmenuLevel (May 17, 2018, 11:39:12 AM)
+[2018.05.16-16.39.12:582][134]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_mainmenuLevel
+[2018.05.16-16.39.12:615][134]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032844s)
+[2018.05.16-16.39.12:616][134]LogAIModule: Creating AISystem for world mainMenulevel
+[2018.05.16-16.39.12:616][134]LogPlayLevel: PIE: World Init took: (0.001127s)
+[2018.05.16-16.39.12:616][134]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/mainmenuLevel.mainMenulevel to /Game/levels/UEDPIE_0_mainmenuLevel.mainMenulevel (0.034327s)
+[2018.05.16-16.39.12:677][134]LogInit: XAudio2 using 'Speakers (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.16-16.39.12:682][134]LogInit: FAudioDevice initialized.
+[2018.05.16-16.39.12:730][134]LogLoad: Game class is 'FirstPersonMenuMode_C'
+[2018.05.16-16.39.12:734][134]LogWorld: Bringing World /Game/levels/UEDPIE_0_mainmenuLevel.mainMenulevel up for play (max tick rate 0) at 2018.05.17-02.09.12
+[2018.05.16-16.39.12:734][134]LogWorld: Bringing up level for play took: 0.003303
+[2018.05.16-16.39.12:743][134]PIE: Play in editor start time for /Game/levels/UEDPIE_0_mainmenuLevel -0.165
+[2018.05.16-16.39.12:744][134]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/mainmenuLevel.mainMenulevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/mainmenuLevel.mainMenulevel:PersistentLevel.mainMenulevel' with GeneratedClass '/Game/levels/mainmenuLevel.mainMenulevel_C' with ClassGeneratedBy '/Game/levels/mainmenuLevel.mainMenulevel:PersistentLevel.mainMenulevel'
+[2018.05.16-16.39.15:921][399]Cmd: r.fullscreenmode 0
+[2018.05.16-16.39.15:921][399]r.FullScreenMode = "0"
+[2018.05.16-16.39.16:340][437]Cmd: r.fullscreenmode 2
+[2018.05.16-16.39.16:340][437]r.FullScreenMode = "2"
+[2018.05.16-16.39.16:719][472]Cmd: r.fullscreenmode 0
+[2018.05.16-16.39.16:719][472]r.FullScreenMode = "0"
+[2018.05.16-16.39.17:356][530]Cmd: r.setres 1280x720
+[2018.05.16-16.39.17:356][530]r.SetRes = "1280x720"
+[2018.05.16-16.39.18:061][594]Cmd: r.setres 1920x1080
+[2018.05.16-16.39.18:061][594]r.SetRes = "1920x1080"
+[2018.05.16-16.39.19:471][717]Cmd: r.fullscreenmode 2
+[2018.05.16-16.39.19:471][717]r.FullScreenMode = "2"
+[2018.05.16-16.39.19:812][748]Cmd: r.fullscreenmode 0
+[2018.05.16-16.39.19:812][748]r.FullScreenMode = "0"
+[2018.05.16-16.39.20:343][796]Cmd: r.setres 640x480
+[2018.05.16-16.39.20:343][796]r.SetRes = "640x480"
+[2018.05.16-16.39.23:177][ 49]Cmd: r.setres 1280x720
+[2018.05.16-16.39.23:177][ 49]r.SetRes = "1280x720"
+[2018.05.16-16.39.24:045][123]Cmd: r.setres 1920x1080
+[2018.05.16-16.39.24:045][123]r.SetRes = "1920x1080"
+[2018.05.16-16.39.26:008][297]LogNet: Browse: /Game/levels/Officelevel
+[2018.05.16-16.39.26:009][297]LogLoad: LoadMap: /Game/levels/Officelevel
+[2018.05.16-16.39.26:076][297]Cmd: MEM
+[2018.05.16-16.39.26:152][297]LogMemory: Platform Memory Stats for Windows
+[2018.05.16-16.39.26:152][297]LogMemory: Process Physical Memory: 1956.03 MB used, 1975.40 MB peak
+[2018.05.16-16.39.26:153][297]LogMemory: Process Virtual Memory: 2994.46 MB used, 3197.50 MB peak
+[2018.05.16-16.39.26:153][297]LogMemory: Physical Memory: 6735.57 MB used,  9613.07 MB free, 16348.64 MB total
+[2018.05.16-16.39.26:153][297]LogMemory: Virtual Memory: 3686.89 MB used,  9613.07 MB free, 8388608.00 MB total
+[2018.05.16-16.39.26:153][297]LogMemory: 
+[2018.05.16-16.39.26:153][297]Allocator Stats for TBB: (not implemented)
+[2018.05.16-16.39.26:297][297]LogAIModule: Creating AISystem for world Officelevel
+[2018.05.16-16.39.26:297][297]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-16.39.26:317][297]LogWorld: Bringing World /Game/levels/UEDPIE_0_Officelevel.Officelevel up for play (max tick rate 0) at 2018.05.17-02.09.26
+[2018.05.16-16.39.26:317][297]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (FirstPersonGameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.05.16-16.39.26:317][297]LogWorld: Bringing up level for play took: 0.019466
+[2018.05.16-16.39.26:320][297]LogLoad: Took 0.310641 seconds to LoadMap(/Game/levels/Officelevel)
+[2018.05.16-16.39.27:927][401]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/mainmenuLevel.mainMenulevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/mainmenuLevel.mainMenulevel:PersistentLevel.mainMenulevel' with GeneratedClass '/Game/levels/mainmenuLevel.mainMenulevel_C' with ClassGeneratedBy '/Game/levels/mainmenuLevel.mainMenulevel:PersistentLevel.mainMenulevel'
+[2018.05.16-16.39.27:973][401]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/mainmenuLevel.mainMenulevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/mainmenuLevel.mainMenulevel:PersistentLevel.mainMenulevel' with GeneratedClass '/Game/levels/mainmenuLevel.mainMenulevel_C' with ClassGeneratedBy '/Game/levels/mainmenuLevel.mainMenulevel:PersistentLevel.mainMenulevel'
+[2018.05.16-16.39.32:018][818]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.16-16.39.32:034][818]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/mainmenuLevel.mainMenulevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/mainmenuLevel.mainMenulevel:PersistentLevel.mainMenulevel' with GeneratedClass '/Game/levels/mainmenuLevel.mainMenulevel_C' with ClassGeneratedBy '/Game/levels/mainmenuLevel.mainMenulevel:PersistentLevel.mainMenulevel'
+[2018.05.16-16.39.32:034][818]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-16.39.32:035][818]PIE: New page: PIE session: mainmenuLevel (May 17, 2018, 11:39:32 AM)
+[2018.05.16-16.39.32:035][818]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_mainmenuLevel
+[2018.05.16-16.39.32:066][818]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031444s)
+[2018.05.16-16.39.32:067][818]LogAIModule: Creating AISystem for world mainMenulevel
+[2018.05.16-16.39.32:068][818]LogPlayLevel: PIE: World Init took: (0.001276s)
+[2018.05.16-16.39.32:068][818]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/mainmenuLevel.mainMenulevel to /Game/levels/UEDPIE_0_mainmenuLevel.mainMenulevel (0.033071s)
+[2018.05.16-16.39.32:132][818]LogInit: XAudio2 using 'Speakers (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.16-16.39.32:137][818]LogInit: FAudioDevice initialized.
+[2018.05.16-16.39.32:187][818]LogLoad: Game class is 'FirstPersonMenuMode_C'
+[2018.05.16-16.39.32:191][818]LogWorld: Bringing World /Game/levels/UEDPIE_0_mainmenuLevel.mainMenulevel up for play (max tick rate 0) at 2018.05.17-02.09.32
+[2018.05.16-16.39.32:191][818]LogWorld: Bringing up level for play took: 0.003240
+[2018.05.16-16.39.32:200][818]PIE: Play in editor start time for /Game/levels/UEDPIE_0_mainmenuLevel -0.709
+[2018.05.16-16.39.32:201][818]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/mainmenuLevel.mainMenulevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/mainmenuLevel.mainMenulevel:PersistentLevel.mainMenulevel' with GeneratedClass '/Game/levels/mainmenuLevel.mainMenulevel_C' with ClassGeneratedBy '/Game/levels/mainmenuLevel.mainMenulevel:PersistentLevel.mainMenulevel'
+[2018.05.16-16.39.33:782][950]Cmd: r.setres 640x480
+[2018.05.16-16.39.33:782][950]r.SetRes = "640x480"
+[2018.05.16-16.39.38:069][335]LogNet: Browse: /Game/levels/Officelevel
+[2018.05.16-16.39.38:071][335]LogLoad: LoadMap: /Game/levels/Officelevel
+[2018.05.16-16.39.38:143][335]Cmd: MEM
+[2018.05.16-16.39.38:215][335]LogMemory: Platform Memory Stats for Windows
+[2018.05.16-16.39.38:215][335]LogMemory: Process Physical Memory: 1977.66 MB used, 1987.14 MB peak
+[2018.05.16-16.39.38:215][335]LogMemory: Process Virtual Memory: 2974.88 MB used, 3316.63 MB peak
+[2018.05.16-16.39.38:215][335]LogMemory: Physical Memory: 6741.41 MB used,  9607.23 MB free, 16348.64 MB total
+[2018.05.16-16.39.38:216][335]LogMemory: Virtual Memory: 3656.00 MB used,  9607.23 MB free, 8388608.00 MB total
+[2018.05.16-16.39.38:216][335]LogMemory: 
+[2018.05.16-16.39.38:216][335]Allocator Stats for TBB: (not implemented)
+[2018.05.16-16.39.38:407][335]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Lamp_M'
+[2018.05.16-16.39.38:407][335]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Lamp_M' while loading C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Props/Materials/M_Lamp.uasset.
+[2018.05.16-16.39.38:407][335]LoadErrors: Error: /Game/StarterContent/Props/Materials/M_Lamp : Can't find file for asset. /Game/StarterContent/Textures/T_Lamp_M
+[2018.05.16-16.39.38:407][335]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Lamp_N'
+[2018.05.16-16.39.38:407][335]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Lamp_N' while loading C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Props/Materials/M_Lamp.uasset.
+[2018.05.16-16.39.38:407][335]LoadErrors: Error: /Game/StarterContent/Props/Materials/M_Lamp : Can't find file for asset. /Game/StarterContent/Textures/T_Lamp_N
+[2018.05.16-16.39.38:408][335]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Lamp_M'
+[2018.05.16-16.39.38:408][335]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Lamp_M' while loading C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Props/Materials/M_Lamp.uasset.
+[2018.05.16-16.39.38:408][335]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Lamp_N'
+[2018.05.16-16.39.38:408][335]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Lamp_N' while loading C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Props/Materials/M_Lamp.uasset.
+[2018.05.16-16.39.38:453][335]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Frame_M'
+[2018.05.16-16.39.38:453][335]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Frame_M' while loading C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Props/Materials/M_Frame.uasset.
+[2018.05.16-16.39.38:453][335]LoadErrors: Error: /Game/StarterContent/Props/Materials/M_Frame : Can't find file for asset. /Game/StarterContent/Textures/T_Frame_M
+[2018.05.16-16.39.38:453][335]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Frame_N'
+[2018.05.16-16.39.38:454][335]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Frame_N' while loading C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Props/Materials/M_Frame.uasset.
+[2018.05.16-16.39.38:454][335]LoadErrors: Error: /Game/StarterContent/Props/Materials/M_Frame : Can't find file for asset. /Game/StarterContent/Textures/T_Frame_N
+[2018.05.16-16.39.38:454][335]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Frame_M'
+[2018.05.16-16.39.38:454][335]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Frame_M' while loading C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Props/Materials/M_Frame.uasset.
+[2018.05.16-16.39.38:454][335]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Frame_N'
+[2018.05.16-16.39.38:454][335]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Frame_N' while loading C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Props/Materials/M_Frame.uasset.
+[2018.05.16-16.39.38:581][335]LogAIModule: Creating AISystem for world Officelevel
+[2018.05.16-16.39.38:581][335]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-16.39.38:600][335]LogWorld: Bringing World /Game/levels/UEDPIE_0_Officelevel.Officelevel up for play (max tick rate 0) at 2018.05.17-02.09.38
+[2018.05.16-16.39.38:600][335]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (FirstPersonGameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.05.16-16.39.38:600][335]LogWorld: Bringing up level for play took: 0.018016
+[2018.05.16-16.39.38:603][335]LogLoad: Took 0.531815 seconds to LoadMap(/Game/levels/Officelevel)
+[2018.05.16-16.39.40:597][466]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/mainmenuLevel.mainMenulevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/mainmenuLevel.mainMenulevel:PersistentLevel.mainMenulevel' with GeneratedClass '/Game/levels/mainmenuLevel.mainMenulevel_C' with ClassGeneratedBy '/Game/levels/mainmenuLevel.mainMenulevel:PersistentLevel.mainMenulevel'
+[2018.05.16-16.39.40:626][466]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/mainmenuLevel.mainMenulevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/mainmenuLevel.mainMenulevel:PersistentLevel.mainMenulevel' with GeneratedClass '/Game/levels/mainmenuLevel.mainMenulevel_C' with ClassGeneratedBy '/Game/levels/mainmenuLevel.mainMenulevel:PersistentLevel.mainMenulevel'
+[2018.05.16-16.39.43:598][735]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Lamp_M'
+[2018.05.16-16.39.43:598][735]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Lamp_M' while loading C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Props/Materials/M_Lamp.uasset.
+[2018.05.16-16.39.43:598][735]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Lamp_N'
+[2018.05.16-16.39.43:598][735]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Lamp_N' while loading C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Props/Materials/M_Lamp.uasset.
+[2018.05.16-16.39.43:599][735]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Lamp_M'
+[2018.05.16-16.39.43:599][735]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Lamp_M' while loading C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Props/Materials/M_Lamp.uasset.
+[2018.05.16-16.39.43:599][735]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Lamp_N'
+[2018.05.16-16.39.43:599][735]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Lamp_N' while loading C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Props/Materials/M_Lamp.uasset.
+[2018.05.16-16.39.43:643][735]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Frame_M'
+[2018.05.16-16.39.43:643][735]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Frame_M' while loading C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Props/Materials/M_Frame.uasset.
+[2018.05.16-16.39.43:643][735]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Frame_N'
+[2018.05.16-16.39.43:644][735]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Frame_N' while loading C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Props/Materials/M_Frame.uasset.
+[2018.05.16-16.39.43:644][735]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Frame_M'
+[2018.05.16-16.39.43:644][735]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Frame_M' while loading C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Props/Materials/M_Frame.uasset.
+[2018.05.16-16.39.43:644][735]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Frame_N'
+[2018.05.16-16.39.43:645][735]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Frame_N' while loading C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Props/Materials/M_Frame.uasset.
+[2018.05.16-16.39.43:715][735]LogAIModule: Creating AISystem for world Officelevel
+[2018.05.16-16.39.43:794][735]Cmd: MAP LOAD FILE="C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/levels/Officelevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.16-16.39.43:794][735]LightingResults: New page: Lighting Build
+[2018.05.16-16.39.43:795][735]LoadErrors: New page: Loading map: Officelevel.umap
+[2018.05.16-16.39.43:796][735]MapCheck: New page: Map Check
+[2018.05.16-16.39.43:796][735]LightingResults: New page: Lighting Build
+[2018.05.16-16.39.44:046][735]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.16-16.39.44:209][735]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.16-16.39.44:311][735]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 101.972ms to complete.
+[2018.05.16-16.39.44:311][735]LogFileHelpers: Loading map 'Officelevel' took 0.519
+[2018.05.16-16.40.06:257][376]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.16-16.40.19:842][843]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.16-16.40.19:859][843]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.40.19:859][843]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-16.40.19:859][843]PIE: New page: PIE session: Officelevel (May 17, 2018, 11:40:19 AM)
+[2018.05.16-16.40.19:859][843]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Officelevel
+[2018.05.16-16.40.19:866][843]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006831s)
+[2018.05.16-16.40.19:867][843]LogAIModule: Creating AISystem for world Officelevel
+[2018.05.16-16.40.19:867][843]LogPlayLevel: PIE: World Init took: (0.000978s)
+[2018.05.16-16.40.19:868][843]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Officelevel.Officelevel to /Game/levels/UEDPIE_0_Officelevel.Officelevel (0.008121s)
+[2018.05.16-16.40.19:938][843]LogInit: XAudio2 using 'Speakers (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.16-16.40.19:943][843]LogInit: FAudioDevice initialized.
+[2018.05.16-16.40.19:993][843]LogLoad: Game class is 'GameMode'
+[2018.05.16-16.40.20:010][843]LogWorld: Bringing World /Game/levels/UEDPIE_0_Officelevel.Officelevel up for play (max tick rate 0) at 2018.05.17-02.10.20
+[2018.05.16-16.40.20:010][843]LogWorld: Bringing up level for play took: 0.016248
+[2018.05.16-16.40.20:011][843]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.16-16.40.20:011][843]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.16-16.40.20:011][843]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.05.16-16.40.20:012][843]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.05.16-16.40.20:016][843]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Officelevel 1.107
+[2018.05.16-16.40.20:017][843]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.40.36:377][ 90]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.40.36:425][ 90]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.40.39:550][402]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.16-16.40.39:567][402]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.40.39:568][402]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-16.40.39:568][402]PIE: New page: PIE session: Officelevel (May 17, 2018, 11:40:39 AM)
+[2018.05.16-16.40.39:568][402]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Officelevel
+[2018.05.16-16.40.39:574][402]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006471s)
+[2018.05.16-16.40.39:575][402]LogAIModule: Creating AISystem for world Officelevel
+[2018.05.16-16.40.39:576][402]LogPlayLevel: PIE: World Init took: (0.001111s)
+[2018.05.16-16.40.39:576][402]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Officelevel.Officelevel to /Game/levels/UEDPIE_0_Officelevel.Officelevel (0.007909s)
+[2018.05.16-16.40.39:641][402]LogInit: XAudio2 using 'Speakers (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.16-16.40.39:646][402]LogInit: FAudioDevice initialized.
+[2018.05.16-16.40.39:691][402]LogLoad: Game class is 'GameModeBase'
+[2018.05.16-16.40.39:707][402]LogWorld: Bringing World /Game/levels/UEDPIE_0_Officelevel.Officelevel up for play (max tick rate 0) at 2018.05.17-02.10.39
+[2018.05.16-16.40.39:708][402]LogWorld: Bringing up level for play took: 0.015785
+[2018.05.16-16.40.39:714][402]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Officelevel 0.804
+[2018.05.16-16.40.39:714][402]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.40.50:010][270]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.40.50:060][270]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.41.06:895][ 56]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.16-16.41.06:912][ 56]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.41.06:912][ 56]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-16.41.06:912][ 56]PIE: New page: PIE session: Officelevel (May 17, 2018, 11:41:06 AM)
+[2018.05.16-16.41.06:912][ 56]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Officelevel
+[2018.05.16-16.41.06:919][ 56]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006530s)
+[2018.05.16-16.41.06:919][ 56]LogAIModule: Creating AISystem for world Officelevel
+[2018.05.16-16.41.06:920][ 56]LogPlayLevel: PIE: World Init took: (0.000969s)
+[2018.05.16-16.41.06:920][ 56]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Officelevel.Officelevel to /Game/levels/UEDPIE_0_Officelevel.Officelevel (0.007814s)
+[2018.05.16-16.41.06:993][ 56]LogInit: XAudio2 using 'Speakers (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.16-16.41.06:999][ 56]LogInit: FAudioDevice initialized.
+[2018.05.16-16.41.07:051][ 56]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-16.41.07:067][ 56]LogWorld: Bringing World /Game/levels/UEDPIE_0_Officelevel.Officelevel up for play (max tick rate 0) at 2018.05.17-02.11.07
+[2018.05.16-16.41.07:068][ 56]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (FirstPersonGameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.05.16-16.41.07:068][ 56]LogWorld: Bringing up level for play took: 0.016228
+[2018.05.16-16.41.07:075][ 56]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Officelevel 0.165
+[2018.05.16-16.41.07:076][ 56]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.41.09:727][223]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.41.09:774][223]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.41.20:221][324]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.16-16.41.20:237][324]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.41.20:238][324]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-16.41.20:238][324]PIE: New page: PIE session: Officelevel (May 17, 2018, 11:41:20 AM)
+[2018.05.16-16.41.20:238][324]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Officelevel
+[2018.05.16-16.41.20:245][324]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006746s)
+[2018.05.16-16.41.20:245][324]LogAIModule: Creating AISystem for world Officelevel
+[2018.05.16-16.41.20:246][324]LogPlayLevel: PIE: World Init took: (0.000945s)
+[2018.05.16-16.41.20:246][324]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Officelevel.Officelevel to /Game/levels/UEDPIE_0_Officelevel.Officelevel (0.008018s)
+[2018.05.16-16.41.20:320][324]LogInit: XAudio2 using 'Speakers (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.16-16.41.20:325][324]LogInit: FAudioDevice initialized.
+[2018.05.16-16.41.20:372][324]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-16.41.20:388][324]LogWorld: Bringing World /Game/levels/UEDPIE_0_Officelevel.Officelevel up for play (max tick rate 0) at 2018.05.17-02.11.20
+[2018.05.16-16.41.20:389][324]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (FirstPersonGameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.05.16-16.41.20:389][324]LogWorld: Bringing up level for play took: 0.015943
+[2018.05.16-16.41.20:396][324]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Officelevel -0.514
+[2018.05.16-16.41.20:397][324]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.41.22:923][510]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.41.22:973][510]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.42.23:728][913]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.16-16.42.23:747][913]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.42.23:747][913]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.16-16.42.23:748][913]PIE: New page: PIE session: Officelevel (May 17, 2018, 11:42:23 AM)
+[2018.05.16-16.42.23:748][913]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Officelevel
+[2018.05.16-16.42.23:754][913]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006678s)
+[2018.05.16-16.42.23:755][913]LogAIModule: Creating AISystem for world Officelevel
+[2018.05.16-16.42.23:755][913]LogPlayLevel: PIE: World Init took: (0.000955s)
+[2018.05.16-16.42.23:756][913]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Officelevel.Officelevel to /Game/levels/UEDPIE_0_Officelevel.Officelevel (0.007954s)
+[2018.05.16-16.42.23:811][913]LogInit: XAudio2 using 'Speakers (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.16-16.42.23:816][913]LogInit: FAudioDevice initialized.
+[2018.05.16-16.42.23:866][913]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-16.42.23:882][913]LogWorld: Bringing World /Game/levels/UEDPIE_0_Officelevel.Officelevel up for play (max tick rate 0) at 2018.05.17-02.12.23
+[2018.05.16-16.42.23:882][913]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (FirstPersonGameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.05.16-16.42.23:883][913]LogWorld: Bringing up level for play took: 0.015768
+[2018.05.16-16.42.23:890][913]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Officelevel 0.98
+[2018.05.16-16.42.23:891][913]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.42.30:286][447]LogNet: Browse: /Game/levels/mainmenuLevel
+[2018.05.16-16.42.30:287][447]LogLoad: LoadMap: /Game/levels/mainmenuLevel
+[2018.05.16-16.42.30:357][447]Cmd: MEM
+[2018.05.16-16.42.30:421][447]LogMemory: Platform Memory Stats for Windows
+[2018.05.16-16.42.30:421][447]LogMemory: Process Physical Memory: 1873.35 MB used, 1996.43 MB peak
+[2018.05.16-16.42.30:421][447]LogMemory: Process Virtual Memory: 2842.00 MB used, 3316.63 MB peak
+[2018.05.16-16.42.30:421][447]LogMemory: Physical Memory: 6653.32 MB used,  9695.32 MB free, 16348.64 MB total
+[2018.05.16-16.42.30:421][447]LogMemory: Virtual Memory: 3533.88 MB used,  9695.32 MB free, 8388608.00 MB total
+[2018.05.16-16.42.30:421][447]LogMemory: 
+[2018.05.16-16.42.30:421][447]Allocator Stats for TBB: (not implemented)
+[2018.05.16-16.42.31:137][447]LogAIModule: Creating AISystem for world mainMenulevel
+[2018.05.16-16.42.31:137][447]LogLoad: Game class is 'FirstPersonMenuMode_C'
+[2018.05.16-16.42.31:144][447]LogWorld: Bringing World /Game/levels/UEDPIE_0_mainmenuLevel.mainMenulevel up for play (max tick rate 0) at 2018.05.17-02.12.31
+[2018.05.16-16.42.31:145][447]LogWorld: Bringing up level for play took: 0.006659
+[2018.05.16-16.42.31:149][447]LogLoad: Took 0.862163 seconds to LoadMap(/Game/levels/mainmenuLevel)
+[2018.05.16-16.42.34:210][703]LogNet: Browse: /Game/levels/Officelevel
+[2018.05.16-16.42.34:211][703]LogLoad: LoadMap: /Game/levels/Officelevel
+[2018.05.16-16.42.34:335][703]Cmd: MEM
+[2018.05.16-16.42.34:406][703]LogMemory: Platform Memory Stats for Windows
+[2018.05.16-16.42.34:406][703]LogMemory: Process Physical Memory: 2072.63 MB used, 2132.55 MB peak
+[2018.05.16-16.42.34:406][703]LogMemory: Process Virtual Memory: 3107.82 MB used, 3368.64 MB peak
+[2018.05.16-16.42.34:406][703]LogMemory: Physical Memory: 6844.16 MB used,  9504.48 MB free, 16348.64 MB total
+[2018.05.16-16.42.34:406][703]LogMemory: Virtual Memory: 3799.15 MB used,  9504.48 MB free, 8388608.00 MB total
+[2018.05.16-16.42.34:406][703]LogMemory: 
+[2018.05.16-16.42.34:406][703]Allocator Stats for TBB: (not implemented)
+[2018.05.16-16.42.34:406][703]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Officelevel
+[2018.05.16-16.42.34:413][703]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006381s)
+[2018.05.16-16.42.34:414][703]LogAIModule: Creating AISystem for world Officelevel
+[2018.05.16-16.42.34:414][703]LogPlayLevel: PIE: World Init took: (0.001059s)
+[2018.05.16-16.42.34:414][703]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Officelevel.Officelevel to /Game/levels/UEDPIE_0_Officelevel.Officelevel (0.007754s)
+[2018.05.16-16.42.34:414][703]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.16-16.42.34:466][703]LogWorld: Bringing World /Game/levels/UEDPIE_0_Officelevel.Officelevel up for play (max tick rate 0) at 2018.05.17-02.12.34
+[2018.05.16-16.42.34:466][703]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (FirstPersonGameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.05.16-16.42.34:466][703]LogWorld: Bringing up level for play took: 0.051224
+[2018.05.16-16.42.34:470][703]LogLoad: Took 0.258979 seconds to LoadMap(/Game/levels/UEDPIE_0_Officelevel)
+[2018.05.16-16.42.37:470][937]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.42.37:519][937]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.16-16.42.44:801][629]Cmd: SELECT NONE
+[2018.05.16-16.43.22:100][849]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor7)
+[2018.05.16-16.43.22:644][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/Officelevel" FILE="C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/levels/Officelevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.16-16.43.23:070][894]LogSavePackage: Save=331.04ms
+[2018.05.16-16.43.23:070][894]LogSavePackage: Moving 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Saved/Officelevel8BAE2D874C1CFBC75DFFF5971CA2953E.tmp' to 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/levels/Officelevel.umap'
+[2018.05.16-16.43.23:075][894]LogSavePackage: Display: Finished SavePackage C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/levels/Officelevel.umap
+[2018.05.16-16.43.28:300][260]LogSavePackage: Save=282.47ms
+[2018.05.16-16.43.28:300][260]LogSavePackage: Moving 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Saved/FirstPersonCharacter0A89E14A42DEE4C3CE9A0CA03B85DFAB.tmp' to 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.05.16-16.43.28:306][260]LogSavePackage: Display: Finished SavePackage C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.05.16-16.43.29:786][363]Cmd: QUIT_EDITOR
+[2018.05.16-16.43.29:833][363]LogExit: Preparing to exit.
+[2018.05.16-16.43.30:566][363]LogExit: Editor shut down
+[2018.05.16-16.43.30:573][363]LogExit: Transaction tracking system shut down
+[2018.05.16-16.43.30:788][363]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.05.16-16.43.30:788][363]LogDirectoryWatcher: A directory notification for 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/' was aborted.
+[2018.05.16-16.43.30:788][363]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.05.16-16.43.30:788][363]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.05.16-16.43.30:788][363]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.05.16-16.43.30:976][363]LogExit: Object subsystem successfully closed.
+[2018.05.16-16.43.30:995][363]LogD3D11RHI: Shutdown
+[2018.05.16-16.43.30:995][363]LogD3D11RHI: CleanupD3DDevice
+[2018.05.16-16.43.31:187][363]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.05.16-16.43.31:199][363]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (538)
+[2018.05.16-16.43.31:199][363]LogModuleManager: Shutting down and abandoning module SequencerWidgets (536)
+[2018.05.16-16.43.31:199][363]LogModuleManager: Shutting down and abandoning module BlueprintGraph (534)
+[2018.05.16-16.43.31:199][363]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (532)
+[2018.05.16-16.43.31:199][363]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2018.05.16-16.43.31:199][363]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2018.05.16-16.43.31:199][363]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2018.05.16-16.43.31:199][363]LogDirectoryWatcher: A directory notification for 'F:/Unreal Engine/UE_4.17/FeaturePacks/' was aborted.
+[2018.05.16-16.43.31:201][363]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2018.05.16-16.43.31:201][363]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2018.05.16-16.43.31:201][363]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2018.05.16-16.43.31:201][363]LogDirectoryWatcher: A directory notification for 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/Collections/' was aborted.
+[2018.05.16-16.43.31:201][363]LogDirectoryWatcher: A directory notification for 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/Developers/Double/Collections/' was aborted.
+[2018.05.16-16.43.31:201][363]LogDirectoryWatcher: A directory notification for 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Saved/Collections/' was aborted.
+[2018.05.16-16.43.31:201][363]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2018.05.16-16.43.31:201][363]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2018.05.16-16.43.31:201][363]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2018.05.16-16.43.31:201][363]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2018.05.16-16.43.31:201][363]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2018.05.16-16.43.31:201][363]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2018.05.16-16.43.31:201][363]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2018.05.16-16.43.31:201][363]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2018.05.16-16.43.31:201][363]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2018.05.16-16.43.31:201][363]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2018.05.16-16.43.31:201][363]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2018.05.16-16.43.31:201][363]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2018.05.16-16.43.31:201][363]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2018.05.16-16.43.31:201][363]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2018.05.16-16.43.31:202][363]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2018.05.16-16.43.31:202][363]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2018.05.16-16.43.31:202][363]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2018.05.16-16.43.31:202][363]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2018.05.16-16.43.31:202][363]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2018.05.16-16.43.31:202][363]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2018.05.16-16.43.31:202][363]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2018.05.16-16.43.31:202][363]LogModuleManager: Shutting down and abandoning module Media (477)
+[2018.05.16-16.43.31:202][363]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2018.05.16-16.43.31:202][363]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2018.05.16-16.43.31:202][363]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2018.05.16-16.43.31:202][363]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2018.05.16-16.43.31:202][363]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2018.05.16-16.43.31:202][363]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2018.05.16-16.43.31:202][363]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2018.05.16-16.43.31:202][363]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2018.05.16-16.43.31:202][363]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2018.05.16-16.43.31:202][363]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2018.05.16-16.43.31:202][363]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2018.05.16-16.43.31:202][363]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2018.05.16-16.43.31:202][363]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2018.05.16-16.43.31:202][363]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2018.05.16-16.43.31:203][363]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2018.05.16-16.43.31:203][363]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2018.05.16-16.43.31:402][363]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2018.05.16-16.43.31:402][363]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2018.05.16-16.43.31:402][363]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2018.05.16-16.43.31:402][363]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2018.05.16-16.43.31:402][363]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2018.05.16-16.43.31:402][363]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2018.05.16-16.43.31:402][363]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2018.05.16-16.43.31:402][363]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2018.05.16-16.43.31:402][363]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2018.05.16-16.43.31:403][363]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2018.05.16-16.43.31:403][363]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2018.05.16-16.43.31:403][363]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2018.05.16-16.43.31:403][363]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2018.05.16-16.43.31:403][363]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2018.05.16-16.43.31:403][363]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2018.05.16-16.43.31:403][363]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2018.05.16-16.43.31:403][363]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2018.05.16-16.43.31:403][363]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2018.05.16-16.43.31:403][363]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2018.05.16-16.43.31:403][363]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2018.05.16-16.43.31:403][363]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2018.05.16-16.43.31:403][363]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2018.05.16-16.43.31:403][363]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2018.05.16-16.43.31:403][363]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2018.05.16-16.43.31:443][363]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2018.05.16-16.43.31:443][363]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2018.05.16-16.43.31:443][363]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2018.05.16-16.43.31:443][363]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2018.05.16-16.43.31:443][363]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2018.05.16-16.43.31:443][363]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2018.05.16-16.43.31:443][363]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2018.05.16-16.43.31:443][363]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2018.05.16-16.43.31:443][363]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2018.05.16-16.43.31:443][363]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2018.05.16-16.43.31:456][363]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2018.05.16-16.43.31:458][363]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2018.05.16-16.43.31:458][363]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2018.05.16-16.43.31:458][363]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2018.05.16-16.43.31:459][363]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2018.05.16-16.43.31:459][363]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2018.05.16-16.43.31:459][363]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2018.05.16-16.43.31:459][363]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2018.05.16-16.43.31:459][363]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2018.05.16-16.43.31:459][363]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2018.05.16-16.43.31:459][363]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2018.05.16-16.43.31:459][363]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2018.05.16-16.43.31:459][363]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2018.05.16-16.43.31:459][363]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2018.05.16-16.43.31:459][363]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2018.05.16-16.43.31:459][363]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2018.05.16-16.43.31:459][363]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2018.05.16-16.43.31:459][363]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2018.05.16-16.43.31:459][363]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2018.05.16-16.43.31:459][363]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2018.05.16-16.43.31:459][363]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2018.05.16-16.43.31:702][363]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2018.05.16-16.43.31:702][363]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2018.05.16-16.43.31:702][363]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2018.05.16-16.43.31:702][363]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2018.05.16-16.43.31:702][363]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2018.05.16-16.43.31:702][363]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2018.05.16-16.43.31:702][363]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2018.05.16-16.43.31:702][363]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2018.05.16-16.43.31:702][363]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2018.05.16-16.43.31:702][363]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2018.05.16-16.43.31:702][363]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2018.05.16-16.43.31:702][363]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2018.05.16-16.43.31:702][363]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2018.05.16-16.43.31:702][363]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2018.05.16-16.43.31:702][363]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2018.05.16-16.43.31:702][363]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2018.05.16-16.43.31:702][363]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2018.05.16-16.43.31:702][363]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2018.05.16-16.43.31:702][363]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2018.05.16-16.43.31:703][363]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2018.05.16-16.43.31:703][363]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2018.05.16-16.43.31:703][363]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2018.05.16-16.43.31:703][363]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2018.05.16-16.43.31:703][363]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2018.05.16-16.43.31:703][363]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2018.05.16-16.43.31:703][363]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2018.05.16-16.43.31:703][363]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2018.05.16-16.43.31:703][363]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2018.05.16-16.43.31:703][363]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2018.05.16-16.43.31:703][363]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2018.05.16-16.43.31:703][363]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2018.05.16-16.43.31:703][363]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2018.05.16-16.43.31:704][363]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2018.05.16-16.43.31:705][363]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2018.05.16-16.43.31:705][363]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2018.05.16-16.43.31:705][363]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2018.05.16-16.43.31:705][363]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2018.05.16-16.43.31:705][363]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2018.05.16-16.43.31:705][363]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2018.05.16-16.43.31:705][363]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2018.05.16-16.43.31:705][363]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2018.05.16-16.43.31:705][363]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2018.05.16-16.43.31:705][363]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2018.05.16-16.43.31:806][363]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2018.05.16-16.43.31:906][363]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2018.05.16-16.43.31:906][363]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2018.05.16-16.43.31:906][363]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2018.05.16-16.43.31:906][363]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2018.05.16-16.43.31:906][363]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2018.05.16-16.43.31:906][363]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2018.05.16-16.43.31:908][363]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2018.05.16-16.43.31:908][363]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2018.05.16-16.43.31:908][363]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2018.05.16-16.43.31:908][363]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2018.05.16-16.43.31:909][363]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2018.05.16-16.43.31:909][363]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2018.05.16-16.43.31:909][363]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2018.05.16-16.43.31:909][363]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2018.05.16-16.43.31:909][363]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2018.05.16-16.43.31:909][363]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2018.05.16-16.43.31:909][363]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2018.05.16-16.43.31:909][363]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2018.05.16-16.43.31:909][363]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2018.05.16-16.43.31:909][363]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2018.05.16-16.43.31:909][363]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2018.05.16-16.43.31:909][363]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2018.05.16-16.43.31:909][363]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2018.05.16-16.43.31:909][363]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2018.05.16-16.43.31:909][363]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2018.05.16-16.43.31:910][363]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2018.05.16-16.43.31:910][363]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2018.05.16-16.43.31:910][363]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2018.05.16-16.43.31:910][363]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2018.05.16-16.43.31:910][363]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2018.05.16-16.43.31:913][363]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2018.05.16-16.43.31:913][363]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2018.05.16-16.43.31:913][363]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2018.05.16-16.43.31:913][363]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2018.05.16-16.43.31:913][363]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2018.05.16-16.43.31:913][363]LogModuleManager: Shutting down and abandoning module Core (168)
+[2018.05.16-16.43.31:913][363]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.05.16-16.43.31:913][363]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.05.16-16.43.31:913][363]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.05.16-16.43.31:913][363]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.05.16-16.43.31:913][363]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.05.16-16.43.31:913][363]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.05.16-16.43.31:913][363]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.05.16-16.43.31:913][363]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.05.16-16.43.31:913][363]LogModuleManager: Shutting down and abandoning module LevelSequence (148)
+[2018.05.16-16.43.31:913][363]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2018.05.16-16.43.31:914][363]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2018.05.16-16.43.31:925][363]LogDerivedDataCache: Shutdown
+[2018.05.16-16.43.31:925][363]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2018.05.16-16.43.31:925][363]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2018.05.16-16.43.31:925][363]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2018.05.16-16.43.31:926][363]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2018.05.16-16.43.31:926][363]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2018.05.16-16.43.31:926][363]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2018.05.16-16.43.31:926][363]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2018.05.16-16.43.31:926][363]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2018.05.16-16.43.31:926][363]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2018.05.16-16.43.31:926][363]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2018.05.16-16.43.31:926][363]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2018.05.16-16.43.31:926][363]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2018.05.16-16.43.31:926][363]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2018.05.16-16.43.31:926][363]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2018.05.16-16.43.31:926][363]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2018.05.16-16.43.31:926][363]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2018.05.16-16.43.31:926][363]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2018.05.16-16.43.31:926][363]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2018.05.16-16.43.31:926][363]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2018.05.16-16.43.31:926][363]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2018.05.16-16.43.31:926][363]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2018.05.16-16.43.31:926][363]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2018.05.16-16.43.31:926][363]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2018.05.16-16.43.31:926][363]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2018.05.16-16.43.31:926][363]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2018.05.16-16.43.31:926][363]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2018.05.16-16.43.31:926][363]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2018.05.16-16.43.31:926][363]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2018.05.16-16.43.31:926][363]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2018.05.16-16.43.31:926][363]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2018.05.16-16.43.31:926][363]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2018.05.16-16.43.31:926][363]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2018.05.16-16.43.31:926][363]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2018.05.16-16.43.31:926][363]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2018.05.16-16.43.31:926][363]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2018.05.16-16.43.31:926][363]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2018.05.16-16.43.31:926][363]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2018.05.16-16.43.31:926][363]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2018.05.16-16.43.31:927][363]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2018.05.16-16.43.31:927][363]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2018.05.16-16.43.31:927][363]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2018.05.16-16.43.31:927][363]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2018.05.16-16.43.31:927][363]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2018.05.16-16.43.31:927][363]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2018.05.16-16.43.31:927][363]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2018.05.16-16.43.31:927][363]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2018.05.16-16.43.31:927][363]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2018.05.16-16.43.31:927][363]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.05.16-16.43.31:927][363]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.05.16-16.43.31:927][363]LogOnline: Display: Unloading online subsystem: NULL
+[2018.05.16-16.43.31:927][363]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.05.16-16.43.31:927][363]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.05.16-16.43.31:927][363]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.05.16-16.43.31:927][363]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF957C3C0-46B7-7144-3980-71969965BA7E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=14ff7836474a041dbb0ab595dd95f386%7C03c46d714e434504a60eccd0eae6275a%7C9aed7643-48fa-4352-86a6-c57b58fde8af&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.05.16-16.43.31:932][363]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.05.16-16.43.31:934][363]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.05.16-16.43.31:934][363]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.05.16-16.43.31:934][363]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.05.16-16.43.31:934][363]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.05.16-16.43.31:934][363]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.05.16-16.43.31:934][363]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.05.16-16.43.31:934][363]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.05.16-16.43.31:937][363]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.05.16-16.43.31:937][363]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.05.16-16.43.31:937][363]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.05.16-16.43.31:937][363]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.05.16-16.43.31:937][363]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.05.16-16.43.31:937][363]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.05.16-16.43.31:937][363]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.05.16-16.43.31:937][363]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.05.16-16.43.31:937][363]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.05.16-16.43.31:937][363]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.05.16-16.43.31:937][363]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.05.16-16.43.31:941][363]LogExit: Exiting.
+[2018.05.16-16.43.31:956][363]Log file closed, 05/17/18 02:13:31

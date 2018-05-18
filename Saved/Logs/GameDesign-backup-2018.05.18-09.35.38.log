@@ -1,0 +1,1593 @@
+﻿Log file open, 05/18/18 05:59:14
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: GameDesign
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-320943946) SRandInit(-320943946).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.205550
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: F:/Unreal Engine/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.17-20.29.14:928][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.17-20.29.14:928][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.17-20.29.14:942][  0]LogInit: Computer: DOUBLE-PC
+[2018.05.17-20.29.14:942][  0]LogInit: User: Double
+[2018.05.17-20.29.14:942][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.05.17-20.29.14:942][  0]LogInit: High frequency timer resolution =3.924277 MHz
+[2018.05.17-20.29.14:942][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.05.17-20.29.14:942][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.17-20.29.14:942][  0]LogMemory: Process Physical Memory: 279.68 MB used, 279.68 MB peak
+[2018.05.17-20.29.14:942][  0]LogMemory: Process Virtual Memory: 277.80 MB used, 277.80 MB peak
+[2018.05.17-20.29.14:942][  0]LogMemory: Physical Memory: 4485.41 MB used,  11863.23 MB free, 16348.64 MB total
+[2018.05.17-20.29.14:942][  0]LogMemory: Virtual Memory: 655.19 MB used,  11863.23 MB free, 8388608.00 MB total
+[2018.05.17-20.29.15:185][  0]LogInit: Using OS detected language (en-US).
+[2018.05.17-20.29.15:185][  0]LogInit: Using OS detected locale (en-US).
+[2018.05.17-20.29.15:190][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.05.17-20.29.16:225][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.17-20.29.16:271][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.05.17-20.29.16:271][  0]LogD3D11RHI:       8078/0/7918 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.05.17-20.29.16:271][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.17-20.29.16:288][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.17-20.29.16:288][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.05.17-20.29.16:288][  0]LogWindows: EnumDisplayDevices:
+[2018.05.17-20.29.16:288][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.05.17-20.29.16:289][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.05.17-20.29.16:289][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.05.17-20.29.16:290][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.05.17-20.29.16:290][  0]LogWindows:    4. 'RDPDD Chained DD' (P:0 D:0)
+[2018.05.17-20.29.16:290][  0]LogWindows:    5. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2018.05.17-20.29.16:291][  0]LogWindows:    6. 'RDP Reflector Display Driver' (P:0 D:0)
+[2018.05.17-20.29.16:291][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.05.17-20.29.16:291][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.05.17-20.29.16:291][  0]LogD3D11RHI:   Driver Version: 397.64 (internal:24.21.13.9764, unified:397.64)
+[2018.05.17-20.29.16:291][  0]LogD3D11RHI:      Driver Date: 5-7-2018
+[2018.05.17-20.29.16:291][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2018.05.17-20.29.16:318][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.17-20.29.16:336][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.05.17-20.29.16:339][  0]LogShaderCompilers: Guid format shader working directory is -4 characters bigger than the processId version (C:/Users/Double/Documents/Unreal Projects/GameDesign/Intermediate/Shaders/WorkingDirectory/568/).
+[2018.05.17-20.29.16:340][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Double/AppData/Local/Temp/UnrealShaderWorkingDir/B2051091476D2B2ED40E368FFE5297CE/'.
+[2018.05.17-20.29.16:340][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.17-20.29.17:874][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.17-20.29.17:960][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.17-20.29.18:043][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.17-20.29.18:127][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.17-20.29.18:209][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.17-20.29.18:294][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.17-20.29.18:381][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.17-20.29.18:459][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.17-20.29.18:537][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.17-20.29.18:626][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.17-20.29.18:712][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.17-20.29.18:795][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.17-20.29.18:876][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.17-20.29.18:957][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.17-20.29.19:046][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.17-20.29.19:211][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.17-20.29.19:211][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.17-20.29.19:272][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.17-20.29.19:413][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.17-20.29.19:462][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.17-20.29.19:543][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.17-20.29.19:627][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.17-20.29.19:711][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.17-20.29.19:797][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.17-20.29.19:797][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.17-20.29.20:532][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.17-20.29.20:745][  0]LogDerivedDataCache: Loaded boot cache 0.21s 93MB C:/Users/Double/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.05.17-20.29.20:745][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Double/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2018.05.17-20.29.20:745][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Double/Documents/Unreal Projects/GameDesign/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.17-20.29.20:745][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.17-20.29.20:746][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Double/Documents/Unreal Projects/GameDesign/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.17-20.29.20:746][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.17-20.29.20:773][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.17-20.29.20:786][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Double/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.17-20.29.20:806][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.17-20.29.20:806][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.17-20.29.20:807][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.17-20.29.20:807][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.17-20.29.21:271][  0]LogAssetRegistry: FAssetRegistry took 0.0305 seconds to start up
+[2018.05.17-20.29.21:571][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.17-20.29.21:579][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2018.05.17-20.29.22:181][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.17-20.29.22:243][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.17-20.29.22:243][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.17-20.29.22:243][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.17-20.29.22:243][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.17-20.29.22:243][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.17-20.29.22:873][  0]LogNetVersion: GameDesign , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 4162053255)
+[2018.05.17-20.29.23:188][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.055061 seconds
+[2018.05.17-20.29.23:198][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2018.05.17-20.29.23:198][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2018.05.17-20.29.23:198][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.17-20.29.23:283][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.05.17-20.29.27:433][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.17-20.29.27:485][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.17-20.29.28:524][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.05.17-20.29.29:189][  0]SourceControl: Source control is disabled
+[2018.05.17-20.29.29:189][  0]SourceControl: Source control is disabled
+[2018.05.17-20.29.29:271][  0]SourceControl: Source control is disabled
+[2018.05.17-20.29.29:354][  0]SourceControl: Source control is disabled
+[2018.05.17-20.29.30:332][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.17-20.29.30:720][  0]LogOcInput: OculusInput pre-init called
+[2018.05.17-20.29.31:143][  0]LogEngine: Initializing Engine...
+[2018.05.17-20.29.31:146][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.05.17-20.29.31:527][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.17-20.29.31:527][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.17-20.29.31:742][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.17-20.29.31:768][  0]LogInit: XAudio2 using 'Speakers (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.17-20.29.31:779][  0]LogInit: FAudioDevice initialized.
+[2018.05.17-20.29.31:914][  0]LogDerivedDataCache: Saved boot cache 0.13s 93MB C:/Users/Double/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.05.17-20.29.31:949][  0]LogInit: Texture streaming: Enabled
+[2018.05.17-20.29.32:123][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.17-20.29.32:487][  0]LogInit: Transaction tracking system initialized
+[2018.05.17-20.29.32:996][  0]BlueprintLog: New page: Editor Load
+[2018.05.17-20.29.34:433][  0]LocalizationService: Localization service is disabled
+[2018.05.17-20.29.35:537][  0]LogConsoleResponse: Display: 
+[2018.05.17-20.29.35:801][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.17-20.29.35:801][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.17-20.29.35:801][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.17-20.29.36:056][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/' took 0.02s
+[2018.05.17-20.29.37:497][  0]SourceControl: Source control is disabled
+[2018.05.17-20.29.37:497][  0]Cmd: MAP LOAD FILE="C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.17-20.29.37:498][  0]LightingResults: New page: Lighting Build
+[2018.05.17-20.29.37:562][  0]MapCheck: New page: Map Check
+[2018.05.17-20.29.37:562][  0]LightingResults: New page: Lighting Build
+[2018.05.17-20.29.38:582][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.05.17-20.29.38:597][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.17-20.29.38:659][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.17-20.29.38:760][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 100.925ms to complete.
+[2018.05.17-20.29.38:760][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 1.263
+[2018.05.17-20.29.38:954][  0]LogCollectionManager: Loaded 0 collections in 0.003277 seconds
+[2018.05.17-20.29.39:058][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Saved/Collections/' took 0.01s
+[2018.05.17-20.29.39:058][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/Developers/Double/Collections/' took 0.01s
+[2018.05.17-20.29.39:058][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/Collections/' took 0.01s
+[2018.05.17-20.29.39:058][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.05.17-20.29.39:074][  0]LogContentBrowser: Native class hierarchy populated in 0.0159 seconds. Added 2386 classes and 500 folders.
+[2018.05.17-20.29.39:169][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0013 seconds. Added 0 classes and 0 folders.
+[2018.05.17-20.29.39:249][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2018.05.17-20.29.39:321][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2018.05.17-20.29.39:458][  0]LogSlate: Took 0.000367 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.17-20.29.39:461][  0]LogSlate: Took 0.000274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.17-20.29.39:468][  0]LogSlate: Took 0.000260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.17-20.29.39:605][  0]LogRenderer: Reallocating scene render targets to support 1208x648 Format 10 NumSamples 1 (Frame:1).
+[2018.05.17-20.29.39:881][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0016 seconds. Added 1 classes and 2 folders.
+[2018.05.17-20.29.39:881][  0]LogLoad: (Engine Initialization) Total time: 27.45 seconds
+[2018.05.17-20.29.39:881][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.17-20.29.39:882][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.05.17-20.29.39:917][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.05.17-20.29.40:112][  2]LogAssetRegistry: Asset discovery search completed in 18.8635 seconds
+[2018.05.17-20.29.40:114][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.05.17-20.29.40:115][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000069 seconds (updated 0 objects)
+[2018.05.17-20.29.44:139][ 68]LogSlate: Took 0.000250 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.17-20.30.05:480][513]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.05.17-20.30.09:396][866]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.05.17-20.30.14:717][319]LogSlate: Took 0.000283 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.17-20.30.14:793][319]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0010 seconds. Added 1 classes and 0 folders.
+[2018.05.17-20.30.14:803][319]LogMaterial: Missing cached shader map for material CubeMaterial, compiling. 
+[2018.05.17-20.30.14:988][319]LogMaterial: Missing cached shader map for material CubeMaterial, compiling. 
+[2018.05.17-20.30.15:031][319]LogMaterial: Missing cached shader map for material CubeMaterial, compiling. 
+[2018.05.17-20.30.15:098][319]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.05.17-20.30.15:106][319]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_1, compiling. 
+[2018.05.17-20.30.15:120][319]LogSlate: Took 0.000357 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.05.17-20.30.18:008][432]MaterialEditorStats: Base pass shader: 84 instructions
+[2018.05.17-20.30.18:008][432]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.05.17-20.30.18:008][432]MaterialEditorStats: Texture samplers: 4/16
+[2018.05.17-20.30.18:008][432]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.05.17-20.30.19:316][511]LogMaterial: Missing cached shader map for material CubeMaterial, compiling. 
+[2018.05.17-20.30.19:336][511]LogMaterial: Warning: FMaterialUniformExpressionTexture had invalid TextureIndex! (0 / 0)
+[2018.05.17-20.30.27:411][  8]LogMaterial: Missing cached shader map for material CubeMaterial, compiling. 
+[2018.05.17-20.30.27:434][  8]LogMaterial: Missing cached shader map for material CubeMaterial, compiling. 
+[2018.05.17-20.30.27:434][  8]LogMaterial: Warning: Failed to compile Material /Engine/Transient.CubeMaterial for platform PCD3D_SM5, Default Material will be used in game.
+[2018.05.17-20.30.27:434][  8]LogMaterial: Warning: 	(Node Desaturation) Missing Desaturation input
+[2018.05.17-20.30.27:438][  8]MaterialEditorStats: Error: [SM5] (Node Desaturation) Missing Desaturation input
+[2018.05.17-20.30.29:364][122]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDesaturation_0, compiling. 
+[2018.05.17-20.30.29:681][142]LogMaterial: Missing cached shader map for material CubeMaterial, compiling. 
+[2018.05.17-20.30.33:702][352]MaterialEditorStats: Base pass shader: 78 instructions
+[2018.05.17-20.30.33:702][352]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.17-20.30.33:702][352]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.17-20.30.50:476][568]LogMaterial: Missing cached shader map for material BaseMaterial, compiling. 
+[2018.05.17-20.30.50:611][568]LogMaterial: Missing cached shader map for material BaseMaterial, compiling. 
+[2018.05.17-20.30.50:663][568]LogMaterial: Missing cached shader map for material BaseMaterial, compiling. 
+[2018.05.17-20.30.50:736][568]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.05.17-20.30.50:904][571]LogSlate: Took 0.000358 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.05.17-20.30.54:442][946]MaterialEditorStats: Base pass shader: 86 instructions
+[2018.05.17-20.30.54:442][946]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.17-20.30.54:442][946]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.17-20.31.06:405][351]LogMaterial: Missing cached shader map for material CubeMaterial, compiling. 
+[2018.05.17-20.31.06:425][351]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.05.17-20.31.07:741][486]MaterialEditorStats: Base pass shader: 78 instructions
+[2018.05.17-20.31.07:741][486]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.17-20.31.07:741][486]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.17-20.31.08:876][620]LogMaterial: Missing cached shader map for material CubeMaterial, compiling. 
+[2018.05.17-20.31.08:899][620]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.05.17-20.31.10:207][748]MaterialEditorStats: Base pass shader: 80 instructions
+[2018.05.17-20.31.10:207][748]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.17-20.31.10:207][748]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.17-20.31.13:098][ 93]LogMaterial: Missing cached shader map for material CubeMaterial, compiling. 
+[2018.05.17-20.31.13:128][ 93]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.05.17-20.31.14:439][222]MaterialEditorStats: Base pass shader: 80 instructions
+[2018.05.17-20.31.14:439][222]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.17-20.31.14:440][222]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.17-20.31.15:529][351]LogMaterial: Missing cached shader map for material CubeMaterial, compiling. 
+[2018.05.17-20.31.15:557][351]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.05.17-20.31.16:864][471]MaterialEditorStats: Base pass shader: 80 instructions
+[2018.05.17-20.31.16:864][471]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.17-20.31.16:864][471]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.17-20.31.17:427][538]LogMaterial: Missing cached shader map for material CubeMaterial, compiling. 
+[2018.05.17-20.31.17:449][538]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.05.17-20.31.18:801][682]MaterialEditorStats: Base pass shader: 80 instructions
+[2018.05.17-20.31.18:801][682]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.17-20.31.18:802][682]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.17-20.31.20:333][865]LogMaterial: Missing cached shader map for material CubeMaterial, compiling. 
+[2018.05.17-20.31.20:364][865]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.05.17-20.31.21:108][938]LogMaterial: Missing cached shader map for material CubeMaterial, compiling. 
+[2018.05.17-20.31.21:137][938]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.05.17-20.31.22:529][ 83]MaterialEditorStats: Base pass shader: 80 instructions
+[2018.05.17-20.31.22:530][ 83]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.17-20.31.22:530][ 83]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.17-20.31.22:889][125]LogMaterial: Missing cached shader map for material CubeMaterial, compiling. 
+[2018.05.17-20.31.22:911][125]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.05.17-20.31.24:191][248]MaterialEditorStats: Base pass shader: 80 instructions
+[2018.05.17-20.31.24:192][248]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.17-20.31.24:192][248]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.17-20.31.24:789][318]LogMaterial: Missing cached shader map for material CubeMaterial, compiling. 
+[2018.05.17-20.31.24:815][318]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.05.17-20.31.26:060][450]MaterialEditorStats: Base pass shader: 80 instructions
+[2018.05.17-20.31.26:060][450]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.17-20.31.26:060][450]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.17-20.31.26:724][529]LogMaterialEditor: Saving and Compiling material CubeMaterial
+[2018.05.17-20.31.27:554][529]LogMaterial: Missing cached shader map for material CubeMaterial, compiling. 
+[2018.05.17-20.31.27:634][529]LogMaterial: Missing cached shader map for material CubeMaterial, compiling. 
+[2018.05.17-20.31.27:711][529]LogMaterial: Missing cached shader map for material CubeMaterial, compiling. 
+[2018.05.17-20.31.27:809][529]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterial, compiling. 
+[2018.05.17-20.31.28:651][529]TextureStreamingBuild: Display: Compiling optional shaders took 0.850 seconds.
+[2018.05.17-20.31.31:308][529]LogSlate: Took 0.000272 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.17-20.31.31:347][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/CubeMaterial" FILE="C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/Geometry/Meshes/CubeMaterial.uasset" SILENT=true
+[2018.05.17-20.31.31:378][529]LogSavePackage: Save=16.81ms
+[2018.05.17-20.31.31:378][529]LogSavePackage: Moving 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Saved/CubeMaterial77FE87DA4225CF25DA25C783DD729612.tmp' to 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/Geometry/Meshes/CubeMaterial.uasset'
+[2018.05.17-20.31.31:382][529]LogSavePackage: Display: Finished SavePackage C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/Geometry/Meshes/CubeMaterial.uasset
+[2018.05.17-20.31.37:145][213]LogMaterial: Missing cached shader map for material CubeMaterial, compiling. 
+[2018.05.17-20.31.37:203][213]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.05.17-20.31.39:344][456]MaterialEditorStats: Base pass shader: 83 instructions
+[2018.05.17-20.31.39:344][456]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.17-20.31.39:344][456]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.17-20.31.40:103][547]LogEditorTransaction: Undo Create Pin Link
+[2018.05.17-20.31.40:113][547]LogMaterial: Missing cached shader map for material CubeMaterial, compiling. 
+[2018.05.17-20.31.40:143][547]LogMaterial: Missing cached shader map for material CubeMaterial, compiling. 
+[2018.05.17-20.31.40:233][547]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.05.17-20.31.40:265][547]LogMaterial: Missing cached shader map for material BaseMaterial, compiling. 
+[2018.05.17-20.31.40:325][547]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.05.17-20.31.40:361][547]LogSlate: Took 0.000342 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.17-20.31.41:712][676]LogMaterialEditor: Saving and Compiling material CubeMaterial
+[2018.05.17-20.31.42:855][676]LogMaterial: Missing cached shader map for material CubeMaterial, compiling. 
+[2018.05.17-20.31.42:945][676]LogMaterial: Missing cached shader map for material CubeMaterial, compiling. 
+[2018.05.17-20.31.43:002][676]LogMaterial: Missing cached shader map for material CubeMaterial, compiling. 
+[2018.05.17-20.31.43:083][676]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterial, compiling. 
+[2018.05.17-20.31.45:677][676]TextureStreamingBuild: Display: Compiling optional shaders took 2.604 seconds.
+[2018.05.17-20.31.48:399][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/CubeMaterial" FILE="C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/Geometry/Meshes/CubeMaterial.uasset" SILENT=true
+[2018.05.17-20.31.48:425][676]LogSavePackage: Save=16.29ms
+[2018.05.17-20.31.48:425][676]LogSavePackage: Moving 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Saved/CubeMaterial4ADFEFC640733D5F8C9307AF83F5960A.tmp' to 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/Geometry/Meshes/CubeMaterial.uasset'
+[2018.05.17-20.31.48:433][676]LogSavePackage: Display: Finished SavePackage C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/Geometry/Meshes/CubeMaterial.uasset
+[2018.05.17-20.31.48:453][676]MaterialEditorStats: Base pass shader: 80 instructions
+[2018.05.17-20.31.48:453][676]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.17-20.31.48:453][676]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.17-20.31.48:453][676]MaterialEditorStats: Base pass shader: 86 instructions
+[2018.05.17-20.31.48:453][676]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.17-20.31.48:453][676]MaterialEditorStats: Texture samplers: 3/16
+[2018.05.17-20.32.05:389][  7]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall2)
+[2018.05.17-20.32.07:692][169]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2018.05.17-20.32.07:819][170]LogMaterial: Missing cached shader map for material Material_1, compiling. 
+[2018.05.17-20.32.07:934][171]LogMaterial: Missing cached shader map for material Material_2, compiling. 
+[2018.05.17-20.32.08:046][172]LogMaterial: Missing cached shader map for material Material_3, compiling. 
+[2018.05.17-20.32.08:138][173]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2018.05.17-20.32.08:283][175]LogMaterial: Missing cached shader map for material Material_5, compiling. 
+[2018.05.17-20.32.08:386][176]LogMaterial: Missing cached shader map for material Material_6, compiling. 
+[2018.05.17-20.32.08:479][177]LogMaterial: Missing cached shader map for material Material_7, compiling. 
+[2018.05.17-20.32.18:716][826]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Metal_Gold_N'
+[2018.05.17-20.32.18:716][826]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Metal_Gold_N' while loading C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset.
+[2018.05.17-20.32.18:716][826]LoadErrors: Error: /Game/StarterContent/Materials/M_Rock_Marble_Polished : Can't find file for asset. /Game/StarterContent/Textures/T_Metal_Gold_N
+[2018.05.17-20.32.18:716][826]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Perlin_Noise_M'
+[2018.05.17-20.32.18:717][826]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Perlin_Noise_M' while loading C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset.
+[2018.05.17-20.32.18:717][826]LoadErrors: Error: /Game/StarterContent/Materials/M_Rock_Marble_Polished : Can't find file for asset. /Game/StarterContent/Textures/T_Perlin_Noise_M
+[2018.05.17-20.32.18:717][826]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Marble_Polished_D'
+[2018.05.17-20.32.18:717][826]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Marble_Polished_D' while loading C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset.
+[2018.05.17-20.32.18:717][826]LoadErrors: Error: /Game/StarterContent/Materials/M_Rock_Marble_Polished : Can't find file for asset. /Game/StarterContent/Textures/T_Rock_Marble_Polished_D
+[2018.05.17-20.32.18:718][826]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Metal_Gold_N'
+[2018.05.17-20.32.18:718][826]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Metal_Gold_N' while loading C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset.
+[2018.05.17-20.32.18:718][826]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Perlin_Noise_M'
+[2018.05.17-20.32.18:718][826]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Perlin_Noise_M' while loading C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset.
+[2018.05.17-20.32.18:719][826]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Marble_Polished_D'
+[2018.05.17-20.32.18:719][826]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Marble_Polished_D' while loading C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset.
+[2018.05.17-20.32.18:726][826]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Marble_Polished_D'
+[2018.05.17-20.32.18:726][826]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Rock_Marble_Polished_D.T_Rock_Marble_Polished_D Referenced by MaterialExpressionTextureSample_1
+[2018.05.17-20.32.18:726][826]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Marble_Polished_D' while loading NULL.
+[2018.05.17-20.32.18:727][826]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Metal_Gold_N'
+[2018.05.17-20.32.18:727][826]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Metal_Gold_N.T_Metal_Gold_N Referenced by MaterialExpressionTextureSample_13
+[2018.05.17-20.32.18:727][826]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Metal_Gold_N' while loading NULL.
+[2018.05.17-20.32.18:727][826]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Perlin_Noise_M'
+[2018.05.17-20.32.18:727][826]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Perlin_Noise_M.T_Perlin_Noise_M Referenced by MaterialExpressionTextureSample_14
+[2018.05.17-20.32.18:728][826]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Perlin_Noise_M' while loading NULL.
+[2018.05.17-20.32.18:728][826]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Marble_Polished_D'
+[2018.05.17-20.32.18:728][826]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Rock_Marble_Polished_D.T_Rock_Marble_Polished_D Referenced by MaterialExpressionTextureSample_15
+[2018.05.17-20.32.18:728][826]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Marble_Polished_D' while loading NULL.
+[2018.05.17-20.32.18:729][826]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Marble_Polished_D'
+[2018.05.17-20.32.18:729][826]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Rock_Marble_Polished_D.T_Rock_Marble_Polished_D Referenced by MaterialExpressionTextureSample_16
+[2018.05.17-20.32.18:729][826]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Marble_Polished_D' while loading NULL.
+[2018.05.17-20.32.18:729][826]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Marble_Polished_D'
+[2018.05.17-20.32.18:729][826]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Rock_Marble_Polished_D.T_Rock_Marble_Polished_D Referenced by MaterialExpressionTextureSample_2
+[2018.05.17-20.32.18:730][826]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Marble_Polished_D' while loading NULL.
+[2018.05.17-20.32.18:735][826]LogMaterial: Missing cached shader map for material M_Rock_Marble_Polished, compiling. 
+[2018.05.17-20.32.18:736][826]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Rock_Marble_Polished.M_Rock_Marble_Polished for platform PCD3D_SM5, Default Material will be used in game.
+[2018.05.17-20.32.18:736][826]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.05.17-20.32.56:703][175]LogMaterial: Missing cached shader map for material glassMaterial, compiling. 
+[2018.05.17-20.32.56:788][175]LogMaterial: Missing cached shader map for material glassMaterial, compiling. 
+[2018.05.17-20.32.56:808][175]LogMaterial: Missing cached shader map for material glassMaterial, compiling. 
+[2018.05.17-20.32.58:242][227]MaterialEditorStats: Base pass shader: 78 instructions
+[2018.05.17-20.32.58:242][227]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.17-20.32.58:242][227]MaterialEditorStats: Texture samplers: 1/16
+[2018.05.17-20.33.08:172][562]LogMaterial: Missing cached shader map for material glassMaterial, compiling. 
+[2018.05.17-20.33.09:329][614]MaterialEditorStats: Base pass shader: 78 instructions
+[2018.05.17-20.33.09:329][614]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.17-20.33.09:329][614]MaterialEditorStats: Texture samplers: 1/16
+[2018.05.17-20.33.10:160][663]LogMaterial: Missing cached shader map for material glassMaterial, compiling. 
+[2018.05.17-20.33.11:874][695]MaterialEditorStats: Base pass shader: 78 instructions
+[2018.05.17-20.33.11:874][695]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.17-20.33.11:874][695]MaterialEditorStats: Texture samplers: 1/16
+[2018.05.17-20.33.13:687][726]LogEditorTransaction: Undo Create Pin Link
+[2018.05.17-20.33.13:695][726]LogMaterial: Missing cached shader map for material glassMaterial, compiling. 
+[2018.05.17-20.33.13:727][726]LogMaterial: Missing cached shader map for material glassMaterial, compiling. 
+[2018.05.17-20.33.14:431][749]LogEditorTransaction: Undo Material Editor: New Expression
+[2018.05.17-20.33.14:440][749]LogMaterial: Missing cached shader map for material glassMaterial, compiling. 
+[2018.05.17-20.33.14:465][749]LogMaterial: Missing cached shader map for material glassMaterial, compiling. 
+[2018.05.17-20.33.15:579][792]LogMaterial: Missing cached shader map for material glassMaterial, compiling. 
+[2018.05.17-20.33.15:597][792]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.05.17-20.33.17:419][879]LogMaterial: Missing cached shader map for material glassMaterial, compiling. 
+[2018.05.17-20.33.17:443][879]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.05.17-20.33.18:627][928]MaterialEditorStats: Base pass shader: 78 instructions
+[2018.05.17-20.33.18:627][928]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.17-20.33.18:627][928]MaterialEditorStats: Texture samplers: 1/16
+[2018.05.17-20.33.34:472][537]LogMaterial: Missing cached shader map for material glassMaterial, compiling. 
+[2018.05.17-20.33.34:493][537]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.05.17-20.33.35:930][558]MaterialEditorStats: Base pass shader: 79 instructions
+[2018.05.17-20.33.35:930][558]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.17-20.33.35:930][558]MaterialEditorStats: Texture samplers: 1/16
+[2018.05.17-20.33.42:606][693]LogMaterial: Missing cached shader map for material glassMaterial, compiling. 
+[2018.05.17-20.33.42:631][693]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.05.17-20.33.44:155][719]MaterialEditorStats: Base pass shader: 79 instructions
+[2018.05.17-20.33.44:155][719]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.17-20.33.44:155][719]MaterialEditorStats: Texture samplers: 1/16
+[2018.05.17-20.33.50:085][942]LogMaterial: Missing cached shader map for material glassMaterial, compiling. 
+[2018.05.17-20.33.50:113][942]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.05.17-20.33.51:661][954]MaterialEditorStats: Base pass shader: 79 instructions
+[2018.05.17-20.33.51:661][954]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.17-20.33.51:661][954]MaterialEditorStats: Texture samplers: 1/16
+[2018.05.17-20.34.00:678][210]LogMaterial: Missing cached shader map for material glassMaterial, compiling. 
+[2018.05.17-20.34.00:697][210]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2018.05.17-20.34.01:797][259]MaterialEditorStats: Base pass shader: 79 instructions
+[2018.05.17-20.34.01:797][259]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.17-20.34.01:797][259]MaterialEditorStats: Texture samplers: 1/16
+[2018.05.17-20.34.10:029][436]LogMaterial: Missing cached shader map for material glassMaterial, compiling. 
+[2018.05.17-20.34.11:763][521]MaterialEditorStats: Base pass shader: 79 instructions
+[2018.05.17-20.34.11:763][521]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.17-20.34.11:763][521]MaterialEditorStats: Texture samplers: 1/16
+[2018.05.17-20.34.13:190][605]LogMaterial: Missing cached shader map for material glassMaterial, compiling. 
+[2018.05.17-20.34.14:343][656]MaterialEditorStats: Base pass shader: 79 instructions
+[2018.05.17-20.34.14:343][656]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.17-20.34.14:343][656]MaterialEditorStats: Texture samplers: 1/16
+[2018.05.17-20.34.16:352][773]LogMaterial: Missing cached shader map for material glassMaterial, compiling. 
+[2018.05.17-20.34.18:081][808]MaterialEditorStats: Base pass shader: 84 instructions
+[2018.05.17-20.34.18:081][808]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.17-20.34.18:081][808]MaterialEditorStats: Texture samplers: 1/16
+[2018.05.17-20.34.31:222][230]LogMaterial: Missing cached shader map for material glassMaterial, compiling. 
+[2018.05.17-20.34.32:410][282]MaterialEditorStats: Base pass shader: 84 instructions
+[2018.05.17-20.34.32:410][282]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.17-20.34.32:410][282]MaterialEditorStats: Texture samplers: 1/16
+[2018.05.17-20.34.39:260][548]LogMaterial: Missing cached shader map for material glassMaterial, compiling. 
+[2018.05.17-20.34.41:025][571]MaterialEditorStats: Base pass shader: 84 instructions
+[2018.05.17-20.34.41:025][571]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.17-20.34.41:025][571]MaterialEditorStats: Texture samplers: 1/16
+[2018.05.17-20.34.54:135][905]LogMaterial: Missing cached shader map for material glassMaterial, compiling. 
+[2018.05.17-20.34.55:242][954]MaterialEditorStats: Base pass shader: 84 instructions
+[2018.05.17-20.34.55:242][954]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.17-20.34.55:242][954]MaterialEditorStats: Texture samplers: 1/16
+[2018.05.17-20.35.01:207][189]LogMaterial: Missing cached shader map for material glassMaterial, compiling. 
+[2018.05.17-20.35.02:369][241]MaterialEditorStats: Base pass shader: 84 instructions
+[2018.05.17-20.35.02:369][241]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.17-20.35.02:369][241]MaterialEditorStats: Texture samplers: 1/16
+[2018.05.17-20.35.03:971][335]LogMaterial: Missing cached shader map for material glassMaterial, compiling. 
+[2018.05.17-20.35.05:669][356]MaterialEditorStats: Base pass shader: 84 instructions
+[2018.05.17-20.35.05:669][356]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.17-20.35.05:669][356]MaterialEditorStats: Texture samplers: 1/16
+[2018.05.17-20.35.26:534][940]LogMaterial: Missing cached shader map for material glassMaterial, compiling. 
+[2018.05.17-20.35.28:284][962]MaterialEditorStats: Base pass shader: 84 instructions
+[2018.05.17-20.35.28:284][962]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.17-20.35.28:284][962]MaterialEditorStats: Texture samplers: 1/16
+[2018.05.17-20.35.41:028][241]LogMaterial: Missing cached shader map for material glassMaterial, compiling. 
+[2018.05.17-20.35.42:263][289]MaterialEditorStats: Base pass shader: 84 instructions
+[2018.05.17-20.35.42:263][289]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.17-20.35.42:263][289]MaterialEditorStats: Texture samplers: 1/16
+[2018.05.17-20.35.54:947][567]LogMaterial: Missing cached shader map for material glassMaterial, compiling. 
+[2018.05.17-20.35.56:419][604]MaterialEditorStats: Base pass shader: 84 instructions
+[2018.05.17-20.35.56:419][604]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.17-20.35.56:419][604]MaterialEditorStats: Texture samplers: 1/16
+[2018.05.17-20.36.11:311][777]LogMaterial: Missing cached shader map for material glassMaterial, compiling. 
+[2018.05.17-20.36.12:839][804]MaterialEditorStats: Base pass shader: 84 instructions
+[2018.05.17-20.36.12:839][804]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.17-20.36.12:839][804]MaterialEditorStats: Texture samplers: 1/16
+[2018.05.17-20.36.22:969][122]LogMaterial: Missing cached shader map for material glassMaterial, compiling. 
+[2018.05.17-20.36.24:537][194]LogMaterial: Missing cached shader map for material glassMaterial, compiling. 
+[2018.05.17-20.36.26:318][279]LogMaterial: Missing cached shader map for material glassMaterial, compiling. 
+[2018.05.17-20.36.27:890][293]MaterialEditorStats: Base pass shader: 84 instructions
+[2018.05.17-20.36.27:890][293]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.17-20.36.27:890][293]MaterialEditorStats: Texture samplers: 1/16
+[2018.05.17-20.36.34:869][524]LogMaterial: Missing cached shader map for material glassMaterial, compiling. 
+[2018.05.17-20.36.35:992][569]MaterialEditorStats: Base pass shader: 84 instructions
+[2018.05.17-20.36.35:992][569]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.17-20.36.35:992][569]MaterialEditorStats: Texture samplers: 1/16
+[2018.05.17-20.36.45:025][ 21]LogMaterial: Missing cached shader map for material glassMaterial, compiling. 
+[2018.05.17-20.36.46:168][ 71]MaterialEditorStats: Base pass shader: 84 instructions
+[2018.05.17-20.36.46:168][ 71]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.17-20.36.46:168][ 71]MaterialEditorStats: Texture samplers: 1/16
+[2018.05.17-20.36.47:527][148]LogMaterial: Missing cached shader map for material glassMaterial, compiling. 
+[2018.05.17-20.36.48:687][194]MaterialEditorStats: Base pass shader: 84 instructions
+[2018.05.17-20.36.48:688][194]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.17-20.36.48:688][194]MaterialEditorStats: Texture samplers: 1/16
+[2018.05.17-20.36.48:959][208]LogMaterial: Missing cached shader map for material glassMaterial, compiling. 
+[2018.05.17-20.36.50:147][258]MaterialEditorStats: Base pass shader: 84 instructions
+[2018.05.17-20.36.50:148][258]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.17-20.36.50:148][258]MaterialEditorStats: Texture samplers: 1/16
+[2018.05.17-20.36.51:311][324]LogMaterial: Missing cached shader map for material glassMaterial, compiling. 
+[2018.05.17-20.36.52:608][380]LogMaterial: Missing cached shader map for material glassMaterial, compiling. 
+[2018.05.17-20.36.53:809][433]MaterialEditorStats: Base pass shader: 84 instructions
+[2018.05.17-20.36.53:810][433]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.17-20.36.53:810][433]MaterialEditorStats: Texture samplers: 1/16
+[2018.05.17-20.36.54:415][466]LogMaterial: Missing cached shader map for material glassMaterial, compiling. 
+[2018.05.17-20.36.55:616][515]MaterialEditorStats: Base pass shader: 84 instructions
+[2018.05.17-20.36.55:616][515]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.17-20.36.55:616][515]MaterialEditorStats: Texture samplers: 1/16
+[2018.05.17-20.37.00:343][585]LogMaterial: Missing cached shader map for material glassMaterial, compiling. 
+[2018.05.17-20.37.01:488][637]MaterialEditorStats: Base pass shader: 84 instructions
+[2018.05.17-20.37.01:488][637]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.17-20.37.01:488][637]MaterialEditorStats: Texture samplers: 1/16
+[2018.05.17-20.37.03:621][760]LogMaterial: Missing cached shader map for material glassMaterial, compiling. 
+[2018.05.17-20.37.05:038][782]MaterialEditorStats: Base pass shader: 84 instructions
+[2018.05.17-20.37.05:038][782]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.17-20.37.05:038][782]MaterialEditorStats: Texture samplers: 1/16
+[2018.05.17-20.37.09:898][988]LogMaterial: Missing cached shader map for material glassMaterial, compiling. 
+[2018.05.17-20.37.11:407][ 12]MaterialEditorStats: Base pass shader: 84 instructions
+[2018.05.17-20.37.11:407][ 12]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.17-20.37.11:407][ 12]MaterialEditorStats: Texture samplers: 1/16
+[2018.05.17-20.37.20:925][247]LogMaterial: Missing cached shader map for material glassMaterial, compiling. 
+[2018.05.17-20.37.22:093][300]MaterialEditorStats: Base pass shader: 84 instructions
+[2018.05.17-20.37.22:093][300]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.17-20.37.22:093][300]MaterialEditorStats: Texture samplers: 1/16
+[2018.05.17-20.37.54:359][867]LogMaterial: Missing cached shader map for material glassMaterial, compiling. 
+[2018.05.17-20.37.54:531][868]LogMaterial: Missing cached shader map for material Material_8, compiling. 
+[2018.05.17-20.37.56:373][956]MaterialEditorStats: Base pass shader: 84 instructions
+[2018.05.17-20.37.56:373][956]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.17-20.37.56:373][956]MaterialEditorStats: Texture samplers: 1/16
+[2018.05.17-20.38.03:956][242]LogMaterial: Missing cached shader map for material glassMaterial, compiling. 
+[2018.05.17-20.38.05:111][265]MaterialEditorStats: Base pass shader: 84 instructions
+[2018.05.17-20.38.05:111][265]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.17-20.38.05:111][265]MaterialEditorStats: Texture samplers: 1/16
+[2018.05.17-20.38.06:253][331]LogMaterial: Missing cached shader map for material glassMaterial, compiling. 
+[2018.05.17-20.38.07:873][361]MaterialEditorStats: Base pass shader: 84 instructions
+[2018.05.17-20.38.07:873][361]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.17-20.38.07:873][361]MaterialEditorStats: Texture samplers: 1/16
+[2018.05.17-20.38.14:354][621]LogMaterial: Missing cached shader map for material glassMaterial, compiling. 
+[2018.05.17-20.38.15:752][680]LogMaterial: Missing cached shader map for material glassMaterial, compiling. 
+[2018.05.17-20.38.17:235][690]MaterialEditorStats: Base pass shader: 84 instructions
+[2018.05.17-20.38.17:235][690]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.17-20.38.17:235][690]MaterialEditorStats: Texture samplers: 1/16
+[2018.05.17-20.38.20:756][845]LogMaterial: Missing cached shader map for material glassMaterial, compiling. 
+[2018.05.17-20.38.21:921][895]MaterialEditorStats: Base pass shader: 84 instructions
+[2018.05.17-20.38.21:921][895]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.05.17-20.38.21:921][895]MaterialEditorStats: Texture samplers: 1/16
+[2018.05.17-20.38.39:240][275]LogMaterial: Missing cached shader map for material glassMaterial, compiling. 
+[2018.05.17-20.38.39:289][275]LogMaterial: Missing cached shader map for material glassMaterial, compiling. 
+[2018.05.17-20.38.41:899][290]MaterialEditorStats: Base pass shader: 57 instructions
+[2018.05.17-20.38.41:899][290]MaterialEditorStats: Vertex shader: 122 instructions
+[2018.05.17-20.38.41:899][290]MaterialEditorStats: Texture samplers: 4/16
+[2018.05.17-20.39.04:825][134]LogMaterial: Missing cached shader map for material glassMaterial, compiling. 
+[2018.05.17-20.39.04:856][134]LogMaterial: Missing cached shader map for material glassMaterial, compiling. 
+[2018.05.17-20.39.13:502][522]MaterialEditorStats: Base pass shader: 290 instructions
+[2018.05.17-20.39.13:502][522]MaterialEditorStats: Vertex shader: 122 instructions
+[2018.05.17-20.39.13:502][522]MaterialEditorStats: Texture samplers: 8/16
+[2018.05.17-20.39.14:871][595]LogMaterialEditor: Saving and Compiling material glassMaterial
+[2018.05.17-20.39.15:738][595]LogMaterial: Missing cached shader map for material glassMaterial, compiling. 
+[2018.05.17-20.39.15:819][595]LogMaterial: Missing cached shader map for material glassMaterial, compiling. 
+[2018.05.17-20.39.15:858][595]LogMaterial: Missing cached shader map for material glassMaterial, compiling. 
+[2018.05.17-20.39.15:921][595]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy glassMaterial, compiling. 
+[2018.05.17-20.39.21:401][595]TextureStreamingBuild: Display: Compiling optional shaders took 5.491 seconds.
+[2018.05.17-20.39.31:623][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/glassMaterial" FILE="C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Materials/glassMaterial.uasset" SILENT=true
+[2018.05.17-20.39.31:648][595]LogSavePackage: Save=23.32ms
+[2018.05.17-20.39.31:648][595]LogSavePackage: Moving 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Saved/glassMaterialFBDADC454C2DF0934130F1B7E7604C8D.tmp' to 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Materials/glassMaterial.uasset'
+[2018.05.17-20.39.31:674][595]LogSavePackage: Display: Finished SavePackage C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Materials/glassMaterial.uasset
+[2018.05.17-20.39.37:362][930]LogMaterial: Warning: Material /Game/StarterContent/Materials/glassMaterial.glassMaterial needed to have new flag set bUsedWithStaticLighting !
+[2018.05.17-20.39.37:370][930]LogMaterial: Missing cached shader map for material glassMaterial, compiling. 
+[2018.05.17-20.39.59:756][381]Cmd: TRANSACTION UNDO
+[2018.05.17-20.39.59:756][381]LogEditorTransaction: Undo Create Actors
+[2018.05.17-20.40.01:755][526]Cmd: TRANSACTION UNDO
+[2018.05.17-20.40.01:755][526]LogEditorTransaction: Undo Create Actors
+[2018.05.17-20.40.21:679][337]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Lamp_M'
+[2018.05.17-20.40.21:679][337]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Lamp_M' while loading C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Props/Materials/M_Lamp.uasset.
+[2018.05.17-20.40.21:679][337]LoadErrors: Error: /Game/StarterContent/Props/Materials/M_Lamp : Can't find file for asset. /Game/StarterContent/Textures/T_Lamp_M
+[2018.05.17-20.40.21:679][337]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Lamp_N'
+[2018.05.17-20.40.21:679][337]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Lamp_N' while loading C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Props/Materials/M_Lamp.uasset.
+[2018.05.17-20.40.21:679][337]LoadErrors: Error: /Game/StarterContent/Props/Materials/M_Lamp : Can't find file for asset. /Game/StarterContent/Textures/T_Lamp_N
+[2018.05.17-20.40.21:680][337]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Lamp_M'
+[2018.05.17-20.40.21:680][337]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Lamp_M' while loading C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Props/Materials/M_Lamp.uasset.
+[2018.05.17-20.40.21:680][337]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Lamp_N'
+[2018.05.17-20.40.21:680][337]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Lamp_N' while loading C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Props/Materials/M_Lamp.uasset.
+[2018.05.17-20.40.21:769][337]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Frame_M'
+[2018.05.17-20.40.21:769][337]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Frame_M' while loading C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Props/Materials/M_Frame.uasset.
+[2018.05.17-20.40.21:769][337]LoadErrors: Error: /Game/StarterContent/Props/Materials/M_Frame : Can't find file for asset. /Game/StarterContent/Textures/T_Frame_M
+[2018.05.17-20.40.21:769][337]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Frame_N'
+[2018.05.17-20.40.21:770][337]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Frame_N' while loading C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Props/Materials/M_Frame.uasset.
+[2018.05.17-20.40.21:770][337]LoadErrors: Error: /Game/StarterContent/Props/Materials/M_Frame : Can't find file for asset. /Game/StarterContent/Textures/T_Frame_N
+[2018.05.17-20.40.21:770][337]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Frame_M'
+[2018.05.17-20.40.21:770][337]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Frame_M' while loading C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Props/Materials/M_Frame.uasset.
+[2018.05.17-20.40.21:770][337]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Frame_N'
+[2018.05.17-20.40.21:770][337]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Frame_N' while loading C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Props/Materials/M_Frame.uasset.
+[2018.05.17-20.40.21:831][337]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Lamp_N'
+[2018.05.17-20.40.21:831][337]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Lamp_N.T_Lamp_N Referenced by MaterialExpressionTextureSample_0
+[2018.05.17-20.40.21:831][337]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Lamp_N' while loading NULL.
+[2018.05.17-20.40.21:832][337]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Lamp_M'
+[2018.05.17-20.40.21:832][337]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Lamp_M.T_Lamp_M Referenced by MaterialExpressionTextureSample_1
+[2018.05.17-20.40.21:832][337]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Lamp_M' while loading NULL.
+[2018.05.17-20.40.21:941][337]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Frame_M'
+[2018.05.17-20.40.21:942][337]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Frame_M.T_Frame_M Referenced by MaterialExpressionTextureSample_0
+[2018.05.17-20.40.21:942][337]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Frame_M' while loading NULL.
+[2018.05.17-20.40.21:942][337]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Frame_N'
+[2018.05.17-20.40.21:942][337]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Frame_N.T_Frame_N Referenced by MaterialExpressionTextureSample_1
+[2018.05.17-20.40.21:943][337]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Frame_N' while loading NULL.
+[2018.05.17-20.40.22:040][337]LogMaterial: Missing cached shader map for material M_Lamp, compiling. 
+[2018.05.17-20.40.22:040][337]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Props/Materials/M_Lamp.M_Lamp for platform PCD3D_SM5, Default Material will be used in game.
+[2018.05.17-20.40.22:040][337]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.05.17-20.40.22:056][337]LogMaterial: Missing cached shader map for material M_Frame, compiling. 
+[2018.05.17-20.40.22:056][337]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Props/Materials/M_Frame.M_Frame for platform PCD3D_SM5, Default Material will be used in game.
+[2018.05.17-20.40.22:056][337]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.05.17-20.40.22:064][337]LogAIModule: Creating AISystem for world Officelevel
+[2018.05.17-20.40.23:945][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/glassMaterial" FILE="C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Materials/glassMaterial.uasset" SILENT=true
+[2018.05.17-20.40.23:971][337]LogSavePackage: Save=10.55ms
+[2018.05.17-20.40.23:971][337]LogSavePackage: Moving 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Saved/glassMaterial7B0D7C0D4C66CA602A9BB3826EB9CD94.tmp' to 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Materials/glassMaterial.uasset'
+[2018.05.17-20.40.23:977][337]LogSavePackage: Display: Finished SavePackage C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Materials/glassMaterial.uasset
+[2018.05.17-20.40.23:979][337]Cmd: MAP LOAD FILE="C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/levels/Officelevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.17-20.40.23:979][337]LightingResults: New page: Lighting Build
+[2018.05.17-20.40.23:980][337]LoadErrors: New page: Loading map: Officelevel.umap
+[2018.05.17-20.40.23:989][337]MapCheck: New page: Map Check
+[2018.05.17-20.40.23:990][337]LightingResults: New page: Lighting Build
+[2018.05.17-20.40.24:160][337]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.17-20.40.24:292][337]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.17-20.40.24:390][337]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 97.657ms to complete.
+[2018.05.17-20.40.24:399][337]LogFileHelpers: Loading map 'Officelevel' took 0.422
+[2018.05.17-20.40.36:132][694]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor104)
+[2018.05.17-20.41.19:706][949]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (SM_GlassWindow_DM4)
+[2018.05.17-20.41.32:615][184]LogContentBrowser: Native class hierarchy updated for 'DestructibleMeshEditor' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2018.05.17-20.41.32:752][184]LogRenderer: Reallocating scene render targets to support 1208x924 Format 10 NumSamples 1 (Frame:1).
+[2018.05.17-20.41.56:407][ 52]LogRenderer: Reallocating scene render targets to support 1432x924 Format 10 NumSamples 1 (Frame:1).
+[2018.05.17-20.42.06:400][731]LogStaticMesh: Building static mesh SM_GlassWindow...
+[2018.05.17-20.42.06:456][731]LogStaticMesh: Built static mesh [0.06s] /Game/PROPS/SM_GlassWindow.SM_GlassWindow
+[2018.05.17-20.42.10:183][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PROPS/SM_GlassWindow" FILE="C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/PROPS/SM_GlassWindow.uasset" SILENT=true
+[2018.05.17-20.42.10:215][946]LogSavePackage: Save=16.90ms
+[2018.05.17-20.42.10:215][946]LogSavePackage: Moving 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Saved/SM_GlassWindow40BC5DFF41A46EA36E5958B5B692E87B.tmp' to 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/PROPS/SM_GlassWindow.uasset'
+[2018.05.17-20.42.10:221][946]LogSavePackage: Display: Finished SavePackage C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/PROPS/SM_GlassWindow.uasset
+[2018.05.17-20.42.37:260][147]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/SM_GlassWindow" FILE="C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Props/SM_GlassWindow.uasset" SILENT=true
+[2018.05.17-20.42.37:287][147]LogSavePackage: Save=16.63ms
+[2018.05.17-20.42.37:287][147]LogSavePackage: Moving 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Saved/SM_GlassWindow4E1FAC08479DF66920173DACD31A1D8B.tmp' to 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Props/SM_GlassWindow.uasset'
+[2018.05.17-20.42.37:292][147]LogSavePackage: Display: Finished SavePackage C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Props/SM_GlassWindow.uasset
+[2018.05.17-20.42.51:491][422]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Glass door 1)
+[2018.05.17-20.42.57:866][  6]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (SM_GlassWindow_DM2)
+[2018.05.17-20.42.58:467][ 50]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (SM_GlassWindow_DM3)
+[2018.05.17-20.43.07:271][910]LogMaterial: Warning: Material /Game/StarterContent/Materials/glassMaterial.glassMaterial needed to have new flag set bUsedWithSkeletalMesh !
+[2018.05.17-20.43.07:283][910]LogMaterial: Missing cached shader map for material glassMaterial, compiling. 
+[2018.05.17-20.43.27:910][288]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow14)
+[2018.05.17-20.43.29:280][381]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_GlassWindow15)
+[2018.05.17-20.43.29:702][409]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_GlassWindow16)
+[2018.05.17-20.43.30:186][441]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_GlassWindow17)
+[2018.05.17-20.43.30:585][467]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_GlassWindow18)
+[2018.05.17-20.43.32:343][580]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_GlassWindow20)
+[2018.05.17-20.43.32:825][601]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_GlassWindow19)
+[2018.05.17-20.43.33:494][647]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_GlassWindow21)
+[2018.05.17-20.43.33:822][670]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_GlassWindow22)
+[2018.05.17-20.43.35:793][805]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor101)
+[2018.05.17-20.43.41:494][277]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor7)
+[2018.05.17-20.43.42:499][367]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_PillarFrame3)
+[2018.05.17-20.43.49:523][  6]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_GlassWindow13)
+[2018.05.17-20.43.50:151][ 37]LogEditorViewport: Clicking on Actor (CTRL LMB): DestructibleActor (SM_GlassWindow_DM12)
+[2018.05.17-20.43.53:088][313]LogEditorViewport: Clicking on Actor (CTRL LMB): DestructibleActor (SM_GlassWindow_DM8)
+[2018.05.17-20.43.58:322][828]LogEditorViewport: Clicking on Actor (CTRL LMB): DestructibleActor (SM_GlassWindow_DM2)
+[2018.05.17-20.43.58:920][888]LogEditorViewport: Clicking on Actor (CTRL LMB): DestructibleActor (SM_GlassWindow_DM3)
+[2018.05.17-20.44.00:787][ 91]LogEditorViewport: Clicking on Actor (CTRL LMB): DestructibleActor (SM_GlassWindow_DM4)
+[2018.05.17-20.44.33:092][191]MapCheck: New page: Map Check
+[2018.05.17-20.44.33:156][191]Cmd: MAP REBUILD ALLVISIBLE
+[2018.05.17-20.44.33:156][191]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.05.17-20.44.33:498][191]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.05.17-20.44.33:506][191]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_2, compiling. 
+[2018.05.17-20.44.33:515][191]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterial, compiling. 
+[2018.05.17-20.44.33:526][191]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy glassMaterial, compiling. 
+[2018.05.17-20.44.33:537][191]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultMaterial, compiling. 
+[2018.05.17-20.44.33:550][191]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Frame, compiling. 
+[2018.05.17-20.44.33:557][191]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2018.05.17-20.44.33:569][191]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Lamp, compiling. 
+[2018.05.17-20.44.34:215][191]TextureStreamingBuild: Display: Compiling optional shaders took 0.766 seconds.
+[2018.05.17-20.44.34:235][191]LogLevel: Display: Export Material TexCoord Scales took 0.020 seconds.
+[2018.05.17-20.44.34:246][191]TextureStreamingBuild: Display: Build Texture Streaming took 0.010 seconds.
+[2018.05.17-20.44.34:314][191]LightingResults: New page: Lighting Build - May 18, 2018, 3:44:34 PM
+[2018.05.17-20.44.34:446][191]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.05.17-20.44.34:529][191]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.05.17-20.44.34:549][191]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.05.17-20.44.35:579][191]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.05.17-20.44.35:580][191]LogSwarmInterface: [TryOpenConnection] Local Process ID is 568
+[2018.05.17-20.44.39:519][191]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.05.17-20.44.39:519][191]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.05.17-20.44.39:519][191]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.05.17-20.44.39:519][191]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.05.17-20.44.39:519][191]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.05.17-20.44.39:519][191]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.05.17-20.44.39:749][191]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.05.17-20.44.39:749][191]MapCheck: New page: Officelevel - May 18, 2018, 3:44:39 PM
+[2018.05.17-20.44.39:771][191]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.05.17-20.44.39:867][191]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 117.516ms to complete.
+[2018.05.17-20.44.39:889][191]LogEditorBuildUtils: Build time 0:06
+[2018.05.17-20.44.39:995][192]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer CubeMaterial, compiling. 
+[2018.05.17-20.44.40:004][192]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer CubeMaterial, compiling. 
+[2018.05.17-20.44.40:056][193]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer glassMaterial, compiling. 
+[2018.05.17-20.44.40:068][193]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer glassMaterial, compiling. 
+[2018.05.17-20.44.40:155][194]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Frame, compiling. 
+[2018.05.17-20.44.40:164][194]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Frame, compiling. 
+[2018.05.17-20.44.45:184][360]Job is a success!
+[2018.05.17-20.44.45:808][361]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2018.05.17-20.44.45:808][361]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.05.17-20.44.45:808][361]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.05.17-20.44.45:809][361]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 64X32)
+[2018.05.17-20.44.45:809][361]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2018.05.17-20.44.45:809][361]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2018.05.17-20.44.45:869][361]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2018.05.17-20.44.45:869][361]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X128)
+[2018.05.17-20.44.45:907][361]Lightmass on DOUBLE-PC: 3.42 sec total, 111 ms importing, 24 ms setup, 985 ms photons, 2.28 sec processing, 0 ms extra exporting [25/25 mappings]. Threads: 15.8 sec total, 8.58 sec processing.
+[2018.05.17-20.44.45:983][361]LogStaticLightingSystem: Illumination: 11.6 sec (505 ms encoding lightmaps, 51 ms encoding shadowmaps)
+[2018.05.17-20.44.45:984][361]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.05.17-20.44.45:984][361]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.05.17-20.44.46:549][361]DumpUnbuiltLightIteractions
+[2018.05.17-20.44.46:549][361]Lights with unbuilt interactions: 0
+[2018.05.17-20.44.46:549][361]
+[2018.05.17-20.44.46:549][361]Primitives with unbuilt interactions: 0
+[2018.05.17-20.44.46:559][362]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.05.17-20.44.46:560][362]MapCheck: New page: Officelevel - May 18, 2018, 3:44:46 PM
+[2018.05.17-20.44.46:717][362]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 157.738ms to complete.
+[2018.05.17-20.44.51:969][906]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow13)
+[2018.05.17-20.44.52:438][928]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (SM_GlassWindow_DM11)
+[2018.05.17-20.44.52:910][966]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GlassWindow13)
+[2018.05.17-20.44.53:866][ 55]LogEditorViewport: Clicking on Actor (LMB): DestructibleActor (SM_GlassWindow_DM12)
+[2018.05.17-20.44.59:723][610]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.17-20.44.59:801][610]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.17-20.44.59:801][610]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.17-20.44.59:815][610]PIE: New page: PIE session: Officelevel (May 18, 2018, 3:44:59 PM)
+[2018.05.17-20.44.59:816][610]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Officelevel
+[2018.05.17-20.44.59:831][610]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015509s)
+[2018.05.17-20.44.59:832][610]LogAIModule: Creating AISystem for world Officelevel
+[2018.05.17-20.44.59:832][610]LogPlayLevel: PIE: World Init took: (0.000972s)
+[2018.05.17-20.44.59:832][610]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Officelevel.Officelevel to /Game/levels/UEDPIE_0_Officelevel.Officelevel (0.016830s)
+[2018.05.17-20.44.59:887][610]LogInit: XAudio2 using 'Speakers (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.17-20.44.59:893][610]LogInit: FAudioDevice initialized.
+[2018.05.17-20.45.00:000][610]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.17-20.45.00:060][610]LogWorld: Bringing World /Game/levels/UEDPIE_0_Officelevel.Officelevel up for play (max tick rate 0) at 2018.05.18-06.15.00
+[2018.05.17-20.45.00:061][610]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (FirstPersonGameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.05.17-20.45.00:072][610]LogWorld: Bringing up level for play took: 0.060406
+[2018.05.17-20.45.00:172][610]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0011 seconds. Added 11 classes and 0 folders.
+[2018.05.17-20.45.00:201][610]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Officelevel -0.338
+[2018.05.17-20.45.00:201][610]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.17-20.45.04:169][990]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.17-20.45.04:247][990]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.17-20.45.19:811][546]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.17-20.45.19:830][546]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.17-20.45.19:830][546]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.17-20.45.19:830][546]PIE: New page: PIE session: Officelevel (May 18, 2018, 3:45:19 PM)
+[2018.05.17-20.45.19:830][546]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Officelevel
+[2018.05.17-20.45.19:836][546]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006331s)
+[2018.05.17-20.45.19:837][546]LogAIModule: Creating AISystem for world Officelevel
+[2018.05.17-20.45.19:837][546]LogPlayLevel: PIE: World Init took: (0.000953s)
+[2018.05.17-20.45.19:838][546]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Officelevel.Officelevel to /Game/levels/UEDPIE_0_Officelevel.Officelevel (0.007678s)
+[2018.05.17-20.45.19:893][546]LogInit: XAudio2 using 'Speakers (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.17-20.45.19:898][546]LogInit: FAudioDevice initialized.
+[2018.05.17-20.45.19:945][546]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.17-20.45.19:961][546]LogWorld: Bringing World /Game/levels/UEDPIE_0_Officelevel.Officelevel up for play (max tick rate 0) at 2018.05.18-06.15.19
+[2018.05.17-20.45.19:962][546]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (FirstPersonGameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.05.17-20.45.19:962][546]LogWorld: Bringing up level for play took: 0.015898
+[2018.05.17-20.45.19:969][546]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Officelevel -0.57
+[2018.05.17-20.45.19:969][546]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.17-20.45.22:617][722]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.17-20.45.22:697][722]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.17-20.46.07:006][933]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.GameDesign
+[2018.05.17-20.46.07:006][933]LogTemp: CWD: F:\Unreal Engine\UE_4.17\Engine\Binaries\DotNET\IOS
+[2018.05.17-20.46.07:006][933]LogTemp: Initial Dir: F:\Unreal Engine\UE_4.17
+[2018.05.17-20.46.07:006][933]LogTemp: Env CWD: F:\Unreal Engine\UE_4.17\Engine\Binaries\DotNET\IOS
+[2018.05.17-20.46.07:007][933]LogTemp: BranchPath = DOUBLE-PC/F/Unreal Engine/UE_4.17/Engine/Binaries --- GameBranchPath = DOUBLE-PC/F/Unreal Engine/UE_4.17/Engine/Binaries
+[2018.05.17-20.46.07:007][933]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Double\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.05.17-20.46.44:895][ 51]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.17-20.46.44:913][ 51]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.17-20.46.44:913][ 51]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.17-20.46.44:913][ 51]PIE: New page: PIE session: Officelevel (May 18, 2018, 3:46:44 PM)
+[2018.05.17-20.46.44:913][ 51]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Officelevel
+[2018.05.17-20.46.44:920][ 51]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006497s)
+[2018.05.17-20.46.44:921][ 51]LogAIModule: Creating AISystem for world Officelevel
+[2018.05.17-20.46.44:921][ 51]LogPlayLevel: PIE: World Init took: (0.000979s)
+[2018.05.17-20.46.44:921][ 51]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Officelevel.Officelevel to /Game/levels/UEDPIE_0_Officelevel.Officelevel (0.007807s)
+[2018.05.17-20.46.44:967][ 51]LogInit: XAudio2 using 'Speakers (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.17-20.46.44:973][ 51]LogInit: FAudioDevice initialized.
+[2018.05.17-20.46.45:023][ 51]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.17-20.46.45:038][ 51]LogWorld: Bringing World /Game/levels/UEDPIE_0_Officelevel.Officelevel up for play (max tick rate 0) at 2018.05.18-06.16.45
+[2018.05.17-20.46.45:039][ 51]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (FirstPersonGameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.05.17-20.46.45:039][ 51]LogWorld: Bringing up level for play took: 0.015480
+[2018.05.17-20.46.45:046][ 51]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Officelevel 0.508
+[2018.05.17-20.46.45:047][ 51]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.17-20.46.46:645][152]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.17-20.46.46:715][152]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.17-20.46.48:543][328]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.17-20.46.49:289][407]LogUObjectGlobals: Warning: Failed to find object 'Class None.None'
+[2018.05.17-20.46.50:345][513]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.17-20.46.50:363][513]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.17-20.46.50:363][513]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.17-20.46.50:363][513]PIE: New page: PIE session: Officelevel (May 18, 2018, 3:46:50 PM)
+[2018.05.17-20.46.50:363][513]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Officelevel
+[2018.05.17-20.46.50:370][513]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006968s)
+[2018.05.17-20.46.50:371][513]LogAIModule: Creating AISystem for world Officelevel
+[2018.05.17-20.46.50:371][513]LogPlayLevel: PIE: World Init took: (0.001019s)
+[2018.05.17-20.46.50:372][513]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Officelevel.Officelevel to /Game/levels/UEDPIE_0_Officelevel.Officelevel (0.008381s)
+[2018.05.17-20.46.50:403][513]LogInit: XAudio2 using 'Speakers (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.17-20.46.50:408][513]LogInit: FAudioDevice initialized.
+[2018.05.17-20.46.50:457][513]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.17-20.46.50:474][513]LogWorld: Bringing World /Game/levels/UEDPIE_0_Officelevel.Officelevel up for play (max tick rate 0) at 2018.05.18-06.16.50
+[2018.05.17-20.46.50:474][513]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (FirstPersonGameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.05.17-20.46.50:474][513]LogWorld: Bringing up level for play took: 0.015753
+[2018.05.17-20.46.50:481][513]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Officelevel -0.057
+[2018.05.17-20.46.50:482][513]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.17-20.46.51:931][612]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.17-20.46.51:998][612]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.17-20.47.02:647][731]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.17-20.47.02:665][731]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.17-20.47.02:665][731]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.17-20.47.02:665][731]PIE: New page: PIE session: Officelevel (May 18, 2018, 3:47:02 PM)
+[2018.05.17-20.47.02:665][731]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Officelevel
+[2018.05.17-20.47.02:671][731]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006198s)
+[2018.05.17-20.47.02:672][731]LogAIModule: Creating AISystem for world Officelevel
+[2018.05.17-20.47.02:672][731]LogPlayLevel: PIE: World Init took: (0.000966s)
+[2018.05.17-20.47.02:672][731]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Officelevel.Officelevel to /Game/levels/UEDPIE_0_Officelevel.Officelevel (0.007468s)
+[2018.05.17-20.47.02:717][731]LogInit: XAudio2 using 'Speakers (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.17-20.47.02:723][731]LogInit: FAudioDevice initialized.
+[2018.05.17-20.47.02:777][731]LogLoad: Game class is 'FirstPersonMenuMode_C'
+[2018.05.17-20.47.02:793][731]LogWorld: Bringing World /Game/levels/UEDPIE_0_Officelevel.Officelevel up for play (max tick rate 0) at 2018.05.18-06.17.02
+[2018.05.17-20.47.02:793][731]LogWorld: Bringing up level for play took: 0.015561
+[2018.05.17-20.47.02:869][731]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Officelevel 0.33
+[2018.05.17-20.47.02:869][731]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.17-20.47.14:030][192]Cmd: r.setres 640x480
+[2018.05.17-20.47.14:049][192]r.SetRes = "640x480"
+[2018.05.17-20.47.14:708][244]Cmd: r.setres 1280x720
+[2018.05.17-20.47.14:708][244]r.SetRes = "1280x720"
+[2018.05.17-20.47.16:077][358]Cmd: r.fullscreenmode 0
+[2018.05.17-20.47.16:077][358]r.FullScreenMode = "0"
+[2018.05.17-20.47.16:449][393]Cmd: r.fullscreenmode 2
+[2018.05.17-20.47.16:449][393]r.FullScreenMode = "2"
+[2018.05.17-20.47.17:658][499]LogNet: Browse: /Game/levels/Officelevel
+[2018.05.17-20.47.17:660][499]LogLoad: LoadMap: /Game/levels/Officelevel
+[2018.05.17-20.47.17:719][499]Cmd: MEM
+[2018.05.17-20.47.17:771][499]LogMemory: Platform Memory Stats for Windows
+[2018.05.17-20.47.17:771][499]LogMemory: Process Physical Memory: 1715.12 MB used, 1901.99 MB peak
+[2018.05.17-20.47.17:771][499]LogMemory: Process Virtual Memory: 2795.35 MB used, 3032.39 MB peak
+[2018.05.17-20.47.17:771][499]LogMemory: Physical Memory: 5991.31 MB used,  10357.33 MB free, 16348.64 MB total
+[2018.05.17-20.47.17:771][499]LogMemory: Virtual Memory: 3947.88 MB used,  10357.33 MB free, 8388608.00 MB total
+[2018.05.17-20.47.17:771][499]LogMemory: 
+[2018.05.17-20.47.17:772][499]Allocator Stats for TBB: (not implemented)
+[2018.05.17-20.47.17:772][499]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Officelevel
+[2018.05.17-20.47.17:779][499]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007326s)
+[2018.05.17-20.47.17:780][499]LogAIModule: Creating AISystem for world Officelevel
+[2018.05.17-20.47.17:780][499]LogPlayLevel: PIE: World Init took: (0.001232s)
+[2018.05.17-20.47.17:781][499]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Officelevel.Officelevel to /Game/levels/UEDPIE_0_Officelevel.Officelevel (0.008918s)
+[2018.05.17-20.47.17:781][499]LogLoad: Game class is 'FirstPersonMenuMode_C'
+[2018.05.17-20.47.17:803][499]LogWorld: Bringing World /Game/levels/UEDPIE_0_Officelevel.Officelevel up for play (max tick rate 0) at 2018.05.18-06.17.17
+[2018.05.17-20.47.17:803][499]LogWorld: Bringing up level for play took: 0.021755
+[2018.05.17-20.47.17:806][499]LogLoad: Took 0.146319 seconds to LoadMap(/Game/levels/UEDPIE_0_Officelevel)
+[2018.05.17-20.47.19:151][573]LogNet: Browse: /Game/levels/Officelevel
+[2018.05.17-20.47.19:152][573]LogLoad: LoadMap: /Game/levels/Officelevel
+[2018.05.17-20.47.19:210][573]Cmd: MEM
+[2018.05.17-20.47.19:268][573]LogMemory: Platform Memory Stats for Windows
+[2018.05.17-20.47.19:268][573]LogMemory: Process Physical Memory: 1711.23 MB used, 1901.99 MB peak
+[2018.05.17-20.47.19:268][573]LogMemory: Process Virtual Memory: 2691.55 MB used, 3032.39 MB peak
+[2018.05.17-20.47.19:268][573]LogMemory: Physical Memory: 5991.39 MB used,  10357.24 MB free, 16348.64 MB total
+[2018.05.17-20.47.19:269][573]LogMemory: Virtual Memory: 3844.26 MB used,  10357.24 MB free, 8388608.00 MB total
+[2018.05.17-20.47.19:269][573]LogMemory: 
+[2018.05.17-20.47.19:269][573]Allocator Stats for TBB: (not implemented)
+[2018.05.17-20.47.19:269][573]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Officelevel
+[2018.05.17-20.47.19:274][573]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005435s)
+[2018.05.17-20.47.19:275][573]LogAIModule: Creating AISystem for world Officelevel
+[2018.05.17-20.47.19:275][573]LogPlayLevel: PIE: World Init took: (0.000864s)
+[2018.05.17-20.47.19:275][573]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Officelevel.Officelevel to /Game/levels/UEDPIE_0_Officelevel.Officelevel (0.006575s)
+[2018.05.17-20.47.19:275][573]LogLoad: Game class is 'FirstPersonMenuMode_C'
+[2018.05.17-20.47.19:291][573]LogWorld: Bringing World /Game/levels/UEDPIE_0_Officelevel.Officelevel up for play (max tick rate 0) at 2018.05.18-06.17.19
+[2018.05.17-20.47.19:291][573]LogWorld: Bringing up level for play took: 0.015127
+[2018.05.17-20.47.19:294][573]LogLoad: Took 0.141615 seconds to LoadMap(/Game/levels/UEDPIE_0_Officelevel)
+[2018.05.17-20.47.20:267][631]LogNet: Browse: /Game/levels/Officelevel
+[2018.05.17-20.47.20:269][631]LogLoad: LoadMap: /Game/levels/Officelevel
+[2018.05.17-20.47.20:323][631]Cmd: MEM
+[2018.05.17-20.47.20:380][631]LogMemory: Platform Memory Stats for Windows
+[2018.05.17-20.47.20:380][631]LogMemory: Process Physical Memory: 1711.21 MB used, 1901.99 MB peak
+[2018.05.17-20.47.20:380][631]LogMemory: Process Virtual Memory: 2695.80 MB used, 3032.39 MB peak
+[2018.05.17-20.47.20:380][631]LogMemory: Physical Memory: 5991.41 MB used,  10357.23 MB free, 16348.64 MB total
+[2018.05.17-20.47.20:380][631]LogMemory: Virtual Memory: 3848.51 MB used,  10357.23 MB free, 8388608.00 MB total
+[2018.05.17-20.47.20:380][631]LogMemory: 
+[2018.05.17-20.47.20:380][631]Allocator Stats for TBB: (not implemented)
+[2018.05.17-20.47.20:380][631]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Officelevel
+[2018.05.17-20.47.20:387][631]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006442s)
+[2018.05.17-20.47.20:387][631]LogAIModule: Creating AISystem for world Officelevel
+[2018.05.17-20.47.20:388][631]LogPlayLevel: PIE: World Init took: (0.000974s)
+[2018.05.17-20.47.20:388][631]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Officelevel.Officelevel to /Game/levels/UEDPIE_0_Officelevel.Officelevel (0.007753s)
+[2018.05.17-20.47.20:388][631]LogLoad: Game class is 'FirstPersonMenuMode_C'
+[2018.05.17-20.47.20:408][631]LogWorld: Bringing World /Game/levels/UEDPIE_0_Officelevel.Officelevel up for play (max tick rate 0) at 2018.05.18-06.17.20
+[2018.05.17-20.47.20:409][631]LogWorld: Bringing up level for play took: 0.020108
+[2018.05.17-20.47.20:412][631]LogLoad: Took 0.143443 seconds to LoadMap(/Game/levels/UEDPIE_0_Officelevel)
+[2018.05.17-20.47.21:859][727]LogNet: Browse: /Game/levels/Officelevel
+[2018.05.17-20.47.21:861][727]LogLoad: LoadMap: /Game/levels/Officelevel
+[2018.05.17-20.47.21:916][727]Cmd: MEM
+[2018.05.17-20.47.21:967][727]LogMemory: Platform Memory Stats for Windows
+[2018.05.17-20.47.21:967][727]LogMemory: Process Physical Memory: 1711.21 MB used, 1901.99 MB peak
+[2018.05.17-20.47.21:967][727]LogMemory: Process Virtual Memory: 2686.72 MB used, 3032.39 MB peak
+[2018.05.17-20.47.21:967][727]LogMemory: Physical Memory: 5991.42 MB used,  10357.21 MB free, 16348.64 MB total
+[2018.05.17-20.47.21:967][727]LogMemory: Virtual Memory: 3839.45 MB used,  10357.21 MB free, 8388608.00 MB total
+[2018.05.17-20.47.21:967][727]LogMemory: 
+[2018.05.17-20.47.21:967][727]Allocator Stats for TBB: (not implemented)
+[2018.05.17-20.47.21:967][727]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Officelevel
+[2018.05.17-20.47.21:974][727]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007457s)
+[2018.05.17-20.47.21:975][727]LogAIModule: Creating AISystem for world Officelevel
+[2018.05.17-20.47.21:975][727]LogPlayLevel: PIE: World Init took: (0.000935s)
+[2018.05.17-20.47.21:976][727]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Officelevel.Officelevel to /Game/levels/UEDPIE_0_Officelevel.Officelevel (0.008737s)
+[2018.05.17-20.47.21:976][727]LogLoad: Game class is 'FirstPersonMenuMode_C'
+[2018.05.17-20.47.21:996][727]LogWorld: Bringing World /Game/levels/UEDPIE_0_Officelevel.Officelevel up for play (max tick rate 0) at 2018.05.18-06.17.21
+[2018.05.17-20.47.21:997][727]LogWorld: Bringing up level for play took: 0.020406
+[2018.05.17-20.47.22:000][727]LogLoad: Took 0.138450 seconds to LoadMap(/Game/levels/UEDPIE_0_Officelevel)
+[2018.05.17-20.47.24:803][929]LogNet: Browse: /Game/levels/Officelevel
+[2018.05.17-20.47.24:805][929]LogLoad: LoadMap: /Game/levels/Officelevel
+[2018.05.17-20.47.24:853][929]Cmd: MEM
+[2018.05.17-20.47.24:898][929]LogMemory: Platform Memory Stats for Windows
+[2018.05.17-20.47.24:899][929]LogMemory: Process Physical Memory: 1711.26 MB used, 1901.99 MB peak
+[2018.05.17-20.47.24:899][929]LogMemory: Process Virtual Memory: 2691.57 MB used, 3032.39 MB peak
+[2018.05.17-20.47.24:899][929]LogMemory: Physical Memory: 5991.40 MB used,  10357.23 MB free, 16348.64 MB total
+[2018.05.17-20.47.24:899][929]LogMemory: Virtual Memory: 3844.51 MB used,  10357.23 MB free, 8388608.00 MB total
+[2018.05.17-20.47.24:899][929]LogMemory: 
+[2018.05.17-20.47.24:899][929]Allocator Stats for TBB: (not implemented)
+[2018.05.17-20.47.24:899][929]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Officelevel
+[2018.05.17-20.47.24:906][929]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007440s)
+[2018.05.17-20.47.24:907][929]LogAIModule: Creating AISystem for world Officelevel
+[2018.05.17-20.47.24:907][929]LogPlayLevel: PIE: World Init took: (0.001051s)
+[2018.05.17-20.47.24:908][929]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Officelevel.Officelevel to /Game/levels/UEDPIE_0_Officelevel.Officelevel (0.008933s)
+[2018.05.17-20.47.24:908][929]LogLoad: Game class is 'FirstPersonMenuMode_C'
+[2018.05.17-20.47.24:928][929]LogWorld: Bringing World /Game/levels/UEDPIE_0_Officelevel.Officelevel up for play (max tick rate 0) at 2018.05.18-06.17.24
+[2018.05.17-20.47.24:929][929]LogWorld: Bringing up level for play took: 0.019944
+[2018.05.17-20.47.24:932][929]LogLoad: Took 0.127151 seconds to LoadMap(/Game/levels/UEDPIE_0_Officelevel)
+[2018.05.17-20.47.25:275][944]LogNet: Browse: /Game/levels/Officelevel
+[2018.05.17-20.47.25:276][944]LogLoad: LoadMap: /Game/levels/Officelevel
+[2018.05.17-20.47.25:324][944]Cmd: MEM
+[2018.05.17-20.47.25:364][944]LogMemory: Platform Memory Stats for Windows
+[2018.05.17-20.47.25:364][944]LogMemory: Process Physical Memory: 1711.26 MB used, 1901.99 MB peak
+[2018.05.17-20.47.25:365][944]LogMemory: Process Virtual Memory: 2700.65 MB used, 3032.39 MB peak
+[2018.05.17-20.47.25:365][944]LogMemory: Physical Memory: 5991.42 MB used,  10357.21 MB free, 16348.64 MB total
+[2018.05.17-20.47.25:365][944]LogMemory: Virtual Memory: 3853.57 MB used,  10357.21 MB free, 8388608.00 MB total
+[2018.05.17-20.47.25:365][944]LogMemory: 
+[2018.05.17-20.47.25:365][944]Allocator Stats for TBB: (not implemented)
+[2018.05.17-20.47.25:365][944]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Officelevel
+[2018.05.17-20.47.25:370][944]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005264s)
+[2018.05.17-20.47.25:371][944]LogAIModule: Creating AISystem for world Officelevel
+[2018.05.17-20.47.25:371][944]LogPlayLevel: PIE: World Init took: (0.000850s)
+[2018.05.17-20.47.25:371][944]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Officelevel.Officelevel to /Game/levels/UEDPIE_0_Officelevel.Officelevel (0.006388s)
+[2018.05.17-20.47.25:371][944]LogLoad: Game class is 'FirstPersonMenuMode_C'
+[2018.05.17-20.47.25:384][944]LogWorld: Bringing World /Game/levels/UEDPIE_0_Officelevel.Officelevel up for play (max tick rate 0) at 2018.05.18-06.17.25
+[2018.05.17-20.47.25:385][944]LogWorld: Bringing up level for play took: 0.012850
+[2018.05.17-20.47.25:387][944]LogLoad: Took 0.111531 seconds to LoadMap(/Game/levels/UEDPIE_0_Officelevel)
+[2018.05.17-20.47.25:591][954]LogNet: Browse: /Game/levels/Officelevel
+[2018.05.17-20.47.25:592][954]LogLoad: LoadMap: /Game/levels/Officelevel
+[2018.05.17-20.47.25:641][954]Cmd: MEM
+[2018.05.17-20.47.25:684][954]LogMemory: Platform Memory Stats for Windows
+[2018.05.17-20.47.25:684][954]LogMemory: Process Physical Memory: 1711.26 MB used, 1901.99 MB peak
+[2018.05.17-20.47.25:684][954]LogMemory: Process Virtual Memory: 2692.63 MB used, 3032.39 MB peak
+[2018.05.17-20.47.25:684][954]LogMemory: Physical Memory: 5991.41 MB used,  10357.22 MB free, 16348.64 MB total
+[2018.05.17-20.47.25:684][954]LogMemory: Virtual Memory: 3845.57 MB used,  10357.22 MB free, 8388608.00 MB total
+[2018.05.17-20.47.25:684][954]LogMemory: 
+[2018.05.17-20.47.25:684][954]Allocator Stats for TBB: (not implemented)
+[2018.05.17-20.47.25:684][954]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Officelevel
+[2018.05.17-20.47.25:692][954]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007551s)
+[2018.05.17-20.47.25:693][954]LogAIModule: Creating AISystem for world Officelevel
+[2018.05.17-20.47.25:693][954]LogPlayLevel: PIE: World Init took: (0.001050s)
+[2018.05.17-20.47.25:693][954]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Officelevel.Officelevel to /Game/levels/UEDPIE_0_Officelevel.Officelevel (0.008956s)
+[2018.05.17-20.47.25:693][954]LogLoad: Game class is 'FirstPersonMenuMode_C'
+[2018.05.17-20.47.25:711][954]LogWorld: Bringing World /Game/levels/UEDPIE_0_Officelevel.Officelevel up for play (max tick rate 0) at 2018.05.18-06.17.25
+[2018.05.17-20.47.25:711][954]LogWorld: Bringing up level for play took: 0.016838
+[2018.05.17-20.47.25:714][954]LogLoad: Took 0.122056 seconds to LoadMap(/Game/levels/UEDPIE_0_Officelevel)
+[2018.05.17-20.47.25:922][963]LogNet: Browse: /Game/levels/Officelevel
+[2018.05.17-20.47.25:923][963]LogLoad: LoadMap: /Game/levels/Officelevel
+[2018.05.17-20.47.25:970][963]Cmd: MEM
+[2018.05.17-20.47.26:009][963]LogMemory: Platform Memory Stats for Windows
+[2018.05.17-20.47.26:010][963]LogMemory: Process Physical Memory: 1711.27 MB used, 1901.99 MB peak
+[2018.05.17-20.47.26:010][963]LogMemory: Process Virtual Memory: 2691.57 MB used, 3032.39 MB peak
+[2018.05.17-20.47.26:010][963]LogMemory: Physical Memory: 5991.42 MB used,  10357.21 MB free, 16348.64 MB total
+[2018.05.17-20.47.26:010][963]LogMemory: Virtual Memory: 3844.51 MB used,  10357.21 MB free, 8388608.00 MB total
+[2018.05.17-20.47.26:010][963]LogMemory: 
+[2018.05.17-20.47.26:010][963]Allocator Stats for TBB: (not implemented)
+[2018.05.17-20.47.26:010][963]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Officelevel
+[2018.05.17-20.47.26:017][963]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007321s)
+[2018.05.17-20.47.26:018][963]LogAIModule: Creating AISystem for world Officelevel
+[2018.05.17-20.47.26:018][963]LogPlayLevel: PIE: World Init took: (0.001052s)
+[2018.05.17-20.47.26:019][963]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Officelevel.Officelevel to /Game/levels/UEDPIE_0_Officelevel.Officelevel (0.008751s)
+[2018.05.17-20.47.26:019][963]LogLoad: Game class is 'FirstPersonMenuMode_C'
+[2018.05.17-20.47.26:039][963]LogWorld: Bringing World /Game/levels/UEDPIE_0_Officelevel.Officelevel up for play (max tick rate 0) at 2018.05.18-06.17.26
+[2018.05.17-20.47.26:039][963]LogWorld: Bringing up level for play took: 0.019675
+[2018.05.17-20.47.26:042][963]LogLoad: Took 0.119174 seconds to LoadMap(/Game/levels/UEDPIE_0_Officelevel)
+[2018.05.17-20.47.28:644][160]LogNet: Browse: /Game/levels/Officelevel
+[2018.05.17-20.47.28:645][160]LogLoad: LoadMap: /Game/levels/Officelevel
+[2018.05.17-20.47.28:696][160]Cmd: MEM
+[2018.05.17-20.47.28:739][160]LogMemory: Platform Memory Stats for Windows
+[2018.05.17-20.47.28:739][160]LogMemory: Process Physical Memory: 1711.25 MB used, 1901.99 MB peak
+[2018.05.17-20.47.28:739][160]LogMemory: Process Virtual Memory: 2691.55 MB used, 3032.39 MB peak
+[2018.05.17-20.47.28:740][160]LogMemory: Physical Memory: 5991.39 MB used,  10357.24 MB free, 16348.64 MB total
+[2018.05.17-20.47.28:740][160]LogMemory: Virtual Memory: 3844.26 MB used,  10357.24 MB free, 8388608.00 MB total
+[2018.05.17-20.47.28:740][160]LogMemory: 
+[2018.05.17-20.47.28:740][160]Allocator Stats for TBB: (not implemented)
+[2018.05.17-20.47.28:740][160]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Officelevel
+[2018.05.17-20.47.28:747][160]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007321s)
+[2018.05.17-20.47.28:748][160]LogAIModule: Creating AISystem for world Officelevel
+[2018.05.17-20.47.28:749][160]LogPlayLevel: PIE: World Init took: (0.001439s)
+[2018.05.17-20.47.28:749][160]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Officelevel.Officelevel to /Game/levels/UEDPIE_0_Officelevel.Officelevel (0.009162s)
+[2018.05.17-20.47.28:749][160]LogLoad: Game class is 'FirstPersonMenuMode_C'
+[2018.05.17-20.47.28:767][160]LogWorld: Bringing World /Game/levels/UEDPIE_0_Officelevel.Officelevel up for play (max tick rate 0) at 2018.05.18-06.17.28
+[2018.05.17-20.47.28:767][160]LogWorld: Bringing up level for play took: 0.017176
+[2018.05.17-20.47.28:770][160]LogLoad: Took 0.124367 seconds to LoadMap(/Game/levels/UEDPIE_0_Officelevel)
+[2018.05.17-20.47.29:211][180]LogNet: Browse: /Game/levels/Officelevel
+[2018.05.17-20.47.29:213][180]LogLoad: LoadMap: /Game/levels/Officelevel
+[2018.05.17-20.47.29:263][180]Cmd: MEM
+[2018.05.17-20.47.29:315][180]LogMemory: Platform Memory Stats for Windows
+[2018.05.17-20.47.29:315][180]LogMemory: Process Physical Memory: 1711.25 MB used, 1901.99 MB peak
+[2018.05.17-20.47.29:315][180]LogMemory: Process Virtual Memory: 2700.63 MB used, 3032.39 MB peak
+[2018.05.17-20.47.29:315][180]LogMemory: Physical Memory: 5991.39 MB used,  10357.25 MB free, 16348.64 MB total
+[2018.05.17-20.47.29:315][180]LogMemory: Virtual Memory: 3853.32 MB used,  10357.25 MB free, 8388608.00 MB total
+[2018.05.17-20.47.29:315][180]LogMemory: 
+[2018.05.17-20.47.29:315][180]Allocator Stats for TBB: (not implemented)
+[2018.05.17-20.47.29:315][180]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Officelevel
+[2018.05.17-20.47.29:323][180]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007406s)
+[2018.05.17-20.47.29:323][180]LogAIModule: Creating AISystem for world Officelevel
+[2018.05.17-20.47.29:324][180]LogPlayLevel: PIE: World Init took: (0.001089s)
+[2018.05.17-20.47.29:324][180]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Officelevel.Officelevel to /Game/levels/UEDPIE_0_Officelevel.Officelevel (0.008858s)
+[2018.05.17-20.47.29:324][180]LogLoad: Game class is 'FirstPersonMenuMode_C'
+[2018.05.17-20.47.29:340][180]LogWorld: Bringing World /Game/levels/UEDPIE_0_Officelevel.Officelevel up for play (max tick rate 0) at 2018.05.18-06.17.29
+[2018.05.17-20.47.29:340][180]LogWorld: Bringing up level for play took: 0.015259
+[2018.05.17-20.47.29:343][180]LogLoad: Took 0.130267 seconds to LoadMap(/Game/levels/UEDPIE_0_Officelevel)
+[2018.05.17-20.47.30:136][220]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.17-20.47.30:188][220]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.17-20.47.36:219][741]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor7)
+[2018.05.17-20.47.39:663][ 46]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PillarFrame3)
+[2018.05.17-20.47.58:218][822]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0016 seconds. Added 113 classes and 0 folders.
+[2018.05.17-20.51.53:933][324]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Mannequin/' is not a standard unreal filename or a long path name. Reason: Path may not end with a '/'
+[2018.05.17-20.51.53:933][324]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/Mannequin/' is not a standard unreal filename or a long path name. Reason: Path may not end with a '/'
+[2018.05.17-20.51.53:968][324]LogAssetTools: Warning: Failed to import 'C:\Users\Double\Downloads\Mannequin\Mannequin/.DS_Store'. Unknown extension 'DS_Store'.
+[2018.05.17-20.51.54:014][324]LogAssetTools: Warning: Failed to import 'C:\Users\Double\Downloads\Mannequin\Mannequin/Animations/ThirdPersonIdle.uasset'. Unknown extension 'uasset'.
+[2018.05.17-20.51.54:024][324]LogAssetTools: Warning: Failed to import 'C:\Users\Double\Downloads\Mannequin\Mannequin/Animations/ThirdPersonJump_End.uasset'. Unknown extension 'uasset'.
+[2018.05.17-20.51.54:034][324]LogAssetTools: Warning: Failed to import 'C:\Users\Double\Downloads\Mannequin\Mannequin/Animations/ThirdPersonJump_Loop.uasset'. Unknown extension 'uasset'.
+[2018.05.17-20.51.54:045][324]LogAssetTools: Warning: Failed to import 'C:\Users\Double\Downloads\Mannequin\Mannequin/Animations/ThirdPersonJump_Start.uasset'. Unknown extension 'uasset'.
+[2018.05.17-20.51.54:056][324]LogAssetTools: Warning: Failed to import 'C:\Users\Double\Downloads\Mannequin\Mannequin/Animations/ThirdPersonRun.uasset'. Unknown extension 'uasset'.
+[2018.05.17-20.51.54:069][324]LogAssetTools: Warning: Failed to import 'C:\Users\Double\Downloads\Mannequin\Mannequin/Animations/ThirdPersonWalk.uasset'. Unknown extension 'uasset'.
+[2018.05.17-20.51.54:082][324]LogAssetTools: Warning: Failed to import 'C:\Users\Double\Downloads\Mannequin\Mannequin/Animations/ThirdPerson_AnimBP.uasset'. Unknown extension 'uasset'.
+[2018.05.17-20.51.54:096][324]LogAssetTools: Warning: Failed to import 'C:\Users\Double\Downloads\Mannequin\Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset'. Unknown extension 'uasset'.
+[2018.05.17-20.51.54:112][324]LogAssetTools: Warning: Failed to import 'C:\Users\Double\Downloads\Mannequin\Mannequin/Animations/ThirdPerson_Jump.uasset'. Unknown extension 'uasset'.
+[2018.05.17-20.51.54:129][324]LogAssetTools: Warning: Failed to import 'C:\Users\Double\Downloads\Mannequin\Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset'. Unknown extension 'uasset'.
+[2018.05.17-20.51.54:146][324]LogAssetTools: Warning: Failed to import 'C:\Users\Double\Downloads\Mannequin\Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset'. Unknown extension 'uasset'.
+[2018.05.17-20.51.54:163][324]LogAssetTools: Warning: Failed to import 'C:\Users\Double\Downloads\Mannequin\Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset'. Unknown extension 'uasset'.
+[2018.05.17-20.51.54:196][324]LogAssetTools: Warning: Failed to import 'C:\Users\Double\Downloads\Mannequin\Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset'. Unknown extension 'uasset'.
+[2018.05.17-20.51.54:228][324]LogAssetTools: Warning: Failed to import 'C:\Users\Double\Downloads\Mannequin\Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset'. Unknown extension 'uasset'.
+[2018.05.17-20.51.54:310][324]LogAssetTools: Warning: Failed to import 'C:\Users\Double\Downloads\Mannequin\Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset'. Unknown extension 'uasset'.
+[2018.05.17-20.51.54:493][324]LogAssetTools: Warning: Failed to import 'C:\Users\Double\Downloads\Mannequin\Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset'. Unknown extension 'uasset'.
+[2018.05.17-20.51.54:778][324]LogAssetTools: Warning: Failed to import 'C:\Users\Double\Downloads\Mannequin\Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset'. Unknown extension 'uasset'.
+[2018.05.17-20.51.55:077][324]LogAssetTools: Warning: Failed to import 'C:\Users\Double\Downloads\Mannequin\Mannequin/Character/Materials/M_UE4Man_Body.uasset'. Unknown extension 'uasset'.
+[2018.05.17-20.51.55:144][324]LogAssetTools: Warning: Failed to import 'C:\Users\Double\Downloads\Mannequin\Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset'. Unknown extension 'uasset'.
+[2018.05.17-20.51.55:178][324]LogAssetTools: Warning: Failed to import 'C:\Users\Double\Downloads\Mannequin\Mannequin/Character/Mesh/SK_Mannequin.uasset'. Unknown extension 'uasset'.
+[2018.05.17-20.51.55:211][324]LogAssetTools: Warning: Failed to import 'C:\Users\Double\Downloads\Mannequin\Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset'. Unknown extension 'uasset'.
+[2018.05.17-20.51.55:245][324]LogAssetTools: Warning: Failed to import 'C:\Users\Double\Downloads\Mannequin\Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset'. Unknown extension 'uasset'.
+[2018.05.17-20.51.55:279][324]LogAssetTools: Warning: Failed to import 'C:\Users\Double\Downloads\Mannequin\Mannequin/Character/Textures/UE4Man_Logo_N.uasset'. Unknown extension 'uasset'.
+[2018.05.17-20.51.55:327][324]LogAssetTools: Warning: Failed to import 'C:\Users\Double\Downloads\Mannequin\Mannequin/Character/Textures/UE4_LOGO_CARD.uasset'. Unknown extension 'uasset'.
+[2018.05.17-20.51.55:361][324]LogAssetTools: Warning: Failed to import 'C:\Users\Double\Downloads\Mannequin\Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset'. Unknown extension 'uasset'.
+[2018.05.17-20.51.55:412][324]LogAssetTools: Warning: Failed to import 'C:\Users\Double\Downloads\Mannequin\Mannequin/Character/Textures/UE4_Mannequin__normals.uasset'. Unknown extension 'uasset'.
+[2018.05.17-20.52.12:179][471]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.17-20.52.12:203][471]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.17-20.52.12:203][471]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.17-20.52.12:203][471]PIE: New page: PIE session: Officelevel (May 18, 2018, 3:52:12 PM)
+[2018.05.17-20.52.12:203][471]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Officelevel
+[2018.05.17-20.52.12:210][471]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006346s)
+[2018.05.17-20.52.12:211][471]LogAIModule: Creating AISystem for world Officelevel
+[2018.05.17-20.52.12:211][471]LogPlayLevel: PIE: World Init took: (0.000954s)
+[2018.05.17-20.52.12:211][471]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Officelevel.Officelevel to /Game/levels/UEDPIE_0_Officelevel.Officelevel (0.007616s)
+[2018.05.17-20.52.12:272][471]LogInit: XAudio2 using 'Speakers (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.17-20.52.12:278][471]LogInit: FAudioDevice initialized.
+[2018.05.17-20.52.12:327][471]LogLoad: Game class is 'FirstPersonMenuMode_C'
+[2018.05.17-20.52.12:344][471]LogWorld: Bringing World /Game/levels/UEDPIE_0_Officelevel.Officelevel up for play (max tick rate 0) at 2018.05.18-06.22.12
+[2018.05.17-20.52.12:344][471]LogWorld: Bringing up level for play took: 0.016032
+[2018.05.17-20.52.12:351][471]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Officelevel -0.187
+[2018.05.17-20.52.12:352][471]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.17-20.52.13:620][551]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.17-20.52.13:694][551]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.17-20.52.15:719][751]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.17-20.52.16:565][844]LogUObjectGlobals: Warning: Failed to find object 'Class None.None'
+[2018.05.17-20.52.17:502][943]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.17-20.52.17:520][943]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.17-20.52.17:520][943]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.17-20.52.17:520][943]PIE: New page: PIE session: Officelevel (May 18, 2018, 3:52:17 PM)
+[2018.05.17-20.52.17:520][943]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Officelevel
+[2018.05.17-20.52.17:527][943]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006397s)
+[2018.05.17-20.52.17:528][943]LogAIModule: Creating AISystem for world Officelevel
+[2018.05.17-20.52.17:528][943]LogPlayLevel: PIE: World Init took: (0.000967s)
+[2018.05.17-20.52.17:528][943]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Officelevel.Officelevel to /Game/levels/UEDPIE_0_Officelevel.Officelevel (0.007681s)
+[2018.05.17-20.52.17:606][943]LogInit: XAudio2 using 'Speakers (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.17-20.52.17:611][943]LogInit: FAudioDevice initialized.
+[2018.05.17-20.52.17:658][943]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.17-20.52.17:675][943]LogWorld: Bringing World /Game/levels/UEDPIE_0_Officelevel.Officelevel up for play (max tick rate 0) at 2018.05.18-06.22.17
+[2018.05.17-20.52.17:675][943]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (FirstPersonGameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.05.17-20.52.17:675][943]LogWorld: Bringing up level for play took: 0.016174
+[2018.05.17-20.52.17:683][943]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Officelevel 1.144
+[2018.05.17-20.52.17:684][943]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.17-20.52.20:068][115]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.17-20.52.20:143][115]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.17-20.52.25:522][679]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.17-20.52.25:540][679]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.17-20.52.25:540][679]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.17-20.52.25:540][679]PIE: New page: PIE session: Officelevel (May 18, 2018, 3:52:25 PM)
+[2018.05.17-20.52.25:540][679]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Officelevel
+[2018.05.17-20.52.25:547][679]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006193s)
+[2018.05.17-20.52.25:547][679]LogAIModule: Creating AISystem for world Officelevel
+[2018.05.17-20.52.25:548][679]LogPlayLevel: PIE: World Init took: (0.000953s)
+[2018.05.17-20.52.25:548][679]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Officelevel.Officelevel to /Game/levels/UEDPIE_0_Officelevel.Officelevel (0.007457s)
+[2018.05.17-20.52.25:615][679]LogInit: XAudio2 using 'Speakers (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.17-20.52.25:620][679]LogInit: FAudioDevice initialized.
+[2018.05.17-20.52.25:666][679]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.17-20.52.25:682][679]LogWorld: Bringing World /Game/levels/UEDPIE_0_Officelevel.Officelevel up for play (max tick rate 0) at 2018.05.18-06.22.25
+[2018.05.17-20.52.25:682][679]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (FirstPersonGameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.05.17-20.52.25:682][679]LogWorld: Bringing up level for play took: 0.015953
+[2018.05.17-20.52.25:690][679]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Officelevel -0.848
+[2018.05.17-20.52.25:691][679]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.17-20.52.29:143][938]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.17-20.52.29:219][938]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.17-20.52.46:556][823]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.17-20.52.46:574][823]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.17-20.52.46:574][823]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.17-20.52.46:574][823]PIE: New page: PIE session: Officelevel (May 18, 2018, 3:52:46 PM)
+[2018.05.17-20.52.46:574][823]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Officelevel
+[2018.05.17-20.52.46:581][823]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006672s)
+[2018.05.17-20.52.46:582][823]LogAIModule: Creating AISystem for world Officelevel
+[2018.05.17-20.52.46:582][823]LogPlayLevel: PIE: World Init took: (0.000941s)
+[2018.05.17-20.52.46:582][823]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Officelevel.Officelevel to /Game/levels/UEDPIE_0_Officelevel.Officelevel (0.007926s)
+[2018.05.17-20.52.46:665][823]LogInit: XAudio2 using 'Speakers (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.17-20.52.46:670][823]LogInit: FAudioDevice initialized.
+[2018.05.17-20.52.46:721][823]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.17-20.52.46:738][823]LogWorld: Bringing World /Game/levels/UEDPIE_0_Officelevel.Officelevel up for play (max tick rate 0) at 2018.05.18-06.22.46
+[2018.05.17-20.52.46:738][823]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (FirstPersonGameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.05.17-20.52.46:739][823]LogWorld: Bringing up level for play took: 0.016508
+[2018.05.17-20.52.46:746][823]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Officelevel 0.208
+[2018.05.17-20.52.46:747][823]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.17-20.52.48:311][917]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.17-20.52.48:388][917]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.17-20.53.01:754][295]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.17-20.53.01:773][295]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.17-20.53.01:773][295]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.17-20.53.01:773][295]PIE: New page: PIE session: Officelevel (May 18, 2018, 3:53:01 PM)
+[2018.05.17-20.53.01:773][295]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Officelevel
+[2018.05.17-20.53.01:779][295]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006335s)
+[2018.05.17-20.53.01:780][295]LogAIModule: Creating AISystem for world Officelevel
+[2018.05.17-20.53.01:780][295]LogPlayLevel: PIE: World Init took: (0.000947s)
+[2018.05.17-20.53.01:781][295]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Officelevel.Officelevel to /Game/levels/UEDPIE_0_Officelevel.Officelevel (0.007624s)
+[2018.05.17-20.53.01:851][295]LogInit: XAudio2 using 'Speakers (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.17-20.53.01:856][295]LogInit: FAudioDevice initialized.
+[2018.05.17-20.53.01:903][295]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.17-20.53.01:919][295]LogWorld: Bringing World /Game/levels/UEDPIE_0_Officelevel.Officelevel up for play (max tick rate 0) at 2018.05.18-06.23.01
+[2018.05.17-20.53.01:919][295]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (FirstPersonGameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.05.17-20.53.01:919][295]LogWorld: Bringing up level for play took: 0.015396
+[2018.05.17-20.53.01:927][295]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Officelevel -0.612
+[2018.05.17-20.53.01:928][295]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.17-20.53.03:164][375]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.17-20.53.03:238][375]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.17-20.53.59:398][255]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2018.05.17-20.54.26:625][990]Cmd: EDIT COPY
+[2018.05.17-20.54.26:875][ 17]Cmd: EDIT PASTE
+[2018.05.17-20.54.29:571][297]Cmd: TRANSACTION UNDO
+[2018.05.17-20.54.29:571][297]LogEditorTransaction: Undo Paste
+[2018.05.17-20.54.30:871][413]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2018.05.17-20.54.40:650][471]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2018.05.17-20.55.18:965][398]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2018.05.17-20.55.20:009][506]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.05.17-20.55.21:279][638]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2018.05.17-20.55.36:670][223]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2018.05.17-20.56.03:794][ 50]Cmd: EDIT COPY
+[2018.05.17-20.56.04:043][ 66]Cmd: EDIT PASTE
+[2018.05.17-20.56.16:954][341]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2018.05.17-20.56.17:780][409]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.05.17-20.56.18:386][464]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.05.17-20.56.18:753][500]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.05.17-20.56.19:218][547]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source2)
+[2018.05.17-20.57.20:698][412]MapCheck: New page: Map Check
+[2018.05.17-20.57.20:727][412]Cmd: MAP REBUILD ALLVISIBLE
+[2018.05.17-20.57.20:727][412]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.05.17-20.57.20:915][412]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.05.17-20.57.20:924][412]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_3, compiling. 
+[2018.05.17-20.57.20:933][412]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterial, compiling. 
+[2018.05.17-20.57.20:943][412]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy glassMaterial, compiling. 
+[2018.05.17-20.57.20:954][412]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultMaterial, compiling. 
+[2018.05.17-20.57.20:964][412]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Frame, compiling. 
+[2018.05.17-20.57.20:969][412]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2018.05.17-20.57.20:978][412]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Lamp, compiling. 
+[2018.05.17-20.57.21:637][412]TextureStreamingBuild: Display: Compiling optional shaders took 0.728 seconds.
+[2018.05.17-20.57.21:641][412]LogLevel: Display: Export Material TexCoord Scales took 0.004 seconds.
+[2018.05.17-20.57.21:652][412]TextureStreamingBuild: Display: Build Texture Streaming took 0.011 seconds.
+[2018.05.17-20.57.21:731][412]LightingResults: New page: Lighting Build - May 18, 2018, 3:57:21 PM
+[2018.05.17-20.57.21:740][412]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.05.17-20.57.21:742][412]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.05.17-20.57.21:742][412]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.05.17-20.57.21:743][412]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.05.17-20.57.21:743][412]LogSwarmInterface: [TryOpenConnection] Local Process ID is 568
+[2018.05.17-20.57.26:287][412]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.05.17-20.57.26:287][412]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.05.17-20.57.26:287][412]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.05.17-20.57.26:287][412]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.05.17-20.57.26:287][412]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.05.17-20.57.26:287][412]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.05.17-20.57.26:466][412]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.05.17-20.57.26:467][412]MapCheck: New page: Officelevel - May 18, 2018, 3:57:26 PM
+[2018.05.17-20.57.26:468][412]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.05.17-20.57.26:573][412]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 106.432ms to complete.
+[2018.05.17-20.57.26:594][412]LogEditorBuildUtils: Build time 0:05
+[2018.05.17-20.57.30:838][597]Job is a success!
+[2018.05.17-20.57.31:468][598]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2018.05.17-20.57.31:468][598]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.05.17-20.57.31:468][598]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.05.17-20.57.31:468][598]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 64X32)
+[2018.05.17-20.57.31:468][598]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2018.05.17-20.57.31:468][598]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2018.05.17-20.57.31:595][598]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 32X32)
+[2018.05.17-20.57.31:595][598]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X256)
+[2018.05.17-20.57.31:686][598]Lightmass on DOUBLE-PC: 4.02 sec total, 109 ms importing, 23 ms setup, 942 ms photons, 2.92 sec processing, 0 ms extra exporting [25/25 mappings]. Threads: 20.3 sec total, 11.0 sec processing.
+[2018.05.17-20.57.31:701][598]LogStaticLightingSystem: Illumination: 9.94 sec (532 ms encoding lightmaps, 121 ms encoding shadowmaps)
+[2018.05.17-20.57.31:701][598]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.05.17-20.57.31:701][598]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.05.17-20.57.39:292][598]DumpUnbuiltLightIteractions
+[2018.05.17-20.57.39:292][598]Lights with unbuilt interactions: 0
+[2018.05.17-20.57.39:292][598]
+[2018.05.17-20.57.39:292][598]Primitives with unbuilt interactions: 0
+[2018.05.17-20.57.39:302][599]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.05.17-20.57.39:303][599]MapCheck: New page: Officelevel - May 18, 2018, 3:57:39 PM
+[2018.05.17-20.57.39:468][599]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 165.525ms to complete.
+[2018.05.17-20.57.39:470][599]LogEditorViewport: Clicking on Actor (context menu): PlayerStart (Player Start)
+[2018.05.17-20.57.40:491][695]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor7)
+[2018.05.17-20.57.41:220][761]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.17-20.57.41:239][761]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.17-20.57.41:239][761]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.17-20.57.41:239][761]PIE: New page: PIE session: Officelevel (May 18, 2018, 3:57:41 PM)
+[2018.05.17-20.57.41:239][761]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Officelevel
+[2018.05.17-20.57.41:246][761]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006716s)
+[2018.05.17-20.57.41:247][761]LogAIModule: Creating AISystem for world Officelevel
+[2018.05.17-20.57.41:247][761]LogPlayLevel: PIE: World Init took: (0.001021s)
+[2018.05.17-20.57.41:247][761]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Officelevel.Officelevel to /Game/levels/UEDPIE_0_Officelevel.Officelevel (0.008054s)
+[2018.05.17-20.57.41:319][761]LogInit: XAudio2 using 'Speakers (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.17-20.57.41:325][761]LogInit: FAudioDevice initialized.
+[2018.05.17-20.57.41:375][761]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.05.17-20.57.41:392][761]LogWorld: Bringing World /Game/levels/UEDPIE_0_Officelevel.Officelevel up for play (max tick rate 0) at 2018.05.18-06.27.41
+[2018.05.17-20.57.41:393][761]LogGameState: Error: Mixing AGameState with AGameModeBase is not compatible. Change AGameModeBase subclass (FirstPersonGameMode_C) to derive from AGameMode, or make both derive from Base
+[2018.05.17-20.57.41:393][761]LogWorld: Bringing up level for play took: 0.017108
+[2018.05.17-20.57.41:400][761]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Officelevel 0.865
+[2018.05.17-20.57.41:401][761]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.17-20.57.46:475][232]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.17-20.57.46:564][232]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Officelevel.Officelevel:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel' with GeneratedClass '/Game/levels/Officelevel.Officelevel_C' with ClassGeneratedBy '/Game/levels/Officelevel.Officelevel:PersistentLevel.Officelevel'
+[2018.05.17-20.57.50:644][661]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor102)
+[2018.05.17-20.58.02:668][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/Officelevel" FILE="C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/levels/Officelevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.17-20.58.02:955][275]LogSavePackage: Save=205.50ms
+[2018.05.17-20.58.02:955][275]LogSavePackage: Moving 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Saved/Officelevel9027100448FA8740805B69B64F63AF6D.tmp' to 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/levels/Officelevel.umap'
+[2018.05.17-20.58.02:961][275]LogSavePackage: Display: Finished SavePackage C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/levels/Officelevel.umap
+[2018.05.17-20.58.02:992][275]LogFileHelpers: Saving map 'Officelevel' took 0.429
+[2018.05.17-20.58.03:160][275]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 64X32)
+[2018.05.17-20.58.03:161][275]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2018.05.17-20.58.03:163][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/Officelevel_BuiltData" FILE="C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/levels/Officelevel_BuiltData.uasset" SILENT=true
+[2018.05.17-20.58.03:319][275]LogSavePackage: Save=135.64ms
+[2018.05.17-20.58.03:319][275]LogSavePackage: Moving 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Saved/Officelevel_BuiltData893B2DD34F2CD586C13823849975F779.tmp' to 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/levels/Officelevel_BuiltData.uasset'
+[2018.05.17-20.58.03:323][275]LogSavePackage: Display: Finished SavePackage C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/levels/Officelevel_BuiltData.uasset
+[2018.05.17-20.58.03:326][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/glassMaterial" FILE="C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Materials/glassMaterial.uasset" SILENT=true
+[2018.05.17-20.58.03:347][275]LogSavePackage: Save=9.60ms
+[2018.05.17-20.58.03:347][275]LogSavePackage: Moving 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Saved/glassMaterialC42D72AE4CDAB6C2CE0CE8B2B416DDA7.tmp' to 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Materials/glassMaterial.uasset'
+[2018.05.17-20.58.03:350][275]LogSavePackage: Display: Finished SavePackage C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/StarterContent/Materials/glassMaterial.uasset
+[2018.05.17-20.58.03:688][276]Cmd: QUIT_EDITOR
+[2018.05.17-20.58.03:722][276]LogExit: Preparing to exit.
+[2018.05.17-20.58.04:698][276]LogExit: Editor shut down
+[2018.05.17-20.58.04:705][276]LogExit: Transaction tracking system shut down
+[2018.05.17-20.58.04:825][276]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.05.17-20.58.04:825][276]LogDirectoryWatcher: A directory notification for 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/' was aborted.
+[2018.05.17-20.58.04:825][276]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.05.17-20.58.04:825][276]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.05.17-20.58.04:825][276]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.05.17-20.58.04:966][276]LogExit: Object subsystem successfully closed.
+[2018.05.17-20.58.04:994][276]LogD3D11RHI: Shutdown
+[2018.05.17-20.58.04:994][276]LogD3D11RHI: CleanupD3DDevice
+[2018.05.17-20.58.04:998][276]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.05.17-20.58.05:015][276]LogModuleManager: Shutting down and abandoning module BlueprintGraph (546)
+[2018.05.17-20.58.05:015][276]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (544)
+[2018.05.17-20.58.05:016][276]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (542)
+[2018.05.17-20.58.05:016][276]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (540)
+[2018.05.17-20.58.05:016][276]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (538)
+[2018.05.17-20.58.05:016][276]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (536)
+[2018.05.17-20.58.05:016][276]LogModuleManager: Shutting down and abandoning module DestructibleMeshEditor (534)
+[2018.05.17-20.58.05:016][276]LogModuleManager: Shutting down and abandoning module MaterialEditor (532)
+[2018.05.17-20.58.05:016][276]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2018.05.17-20.58.05:016][276]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2018.05.17-20.58.05:016][276]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2018.05.17-20.58.05:016][276]LogDirectoryWatcher: A directory notification for 'F:/Unreal Engine/UE_4.17/FeaturePacks/' was aborted.
+[2018.05.17-20.58.05:018][276]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2018.05.17-20.58.05:018][276]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2018.05.17-20.58.05:018][276]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2018.05.17-20.58.05:018][276]LogDirectoryWatcher: A directory notification for 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/Collections/' was aborted.
+[2018.05.17-20.58.05:018][276]LogDirectoryWatcher: A directory notification for 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Content/Developers/Double/Collections/' was aborted.
+[2018.05.17-20.58.05:018][276]LogDirectoryWatcher: A directory notification for 'C:/Users/Double/Documents/Unreal Projects/GameDesign/Saved/Collections/' was aborted.
+[2018.05.17-20.58.05:018][276]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2018.05.17-20.58.05:018][276]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2018.05.17-20.58.05:018][276]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2018.05.17-20.58.05:018][276]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2018.05.17-20.58.05:018][276]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2018.05.17-20.58.05:019][276]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2018.05.17-20.58.05:019][276]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2018.05.17-20.58.05:019][276]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2018.05.17-20.58.05:019][276]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2018.05.17-20.58.05:019][276]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2018.05.17-20.58.05:019][276]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2018.05.17-20.58.05:019][276]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2018.05.17-20.58.05:019][276]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2018.05.17-20.58.05:019][276]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2018.05.17-20.58.05:019][276]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2018.05.17-20.58.05:019][276]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2018.05.17-20.58.05:019][276]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2018.05.17-20.58.05:019][276]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2018.05.17-20.58.05:019][276]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2018.05.17-20.58.05:019][276]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2018.05.17-20.58.05:019][276]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2018.05.17-20.58.05:019][276]LogModuleManager: Shutting down and abandoning module Media (477)
+[2018.05.17-20.58.05:019][276]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2018.05.17-20.58.05:019][276]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2018.05.17-20.58.05:019][276]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2018.05.17-20.58.05:019][276]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2018.05.17-20.58.05:019][276]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2018.05.17-20.58.05:019][276]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2018.05.17-20.58.05:020][276]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2018.05.17-20.58.05:020][276]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2018.05.17-20.58.05:020][276]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2018.05.17-20.58.05:020][276]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2018.05.17-20.58.05:020][276]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2018.05.17-20.58.05:020][276]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2018.05.17-20.58.05:020][276]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2018.05.17-20.58.05:020][276]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2018.05.17-20.58.05:020][276]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2018.05.17-20.58.05:020][276]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2018.05.17-20.58.05:303][276]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2018.05.17-20.58.05:303][276]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2018.05.17-20.58.05:303][276]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2018.05.17-20.58.05:303][276]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2018.05.17-20.58.05:304][276]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2018.05.17-20.58.05:304][276]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2018.05.17-20.58.05:304][276]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2018.05.17-20.58.05:304][276]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2018.05.17-20.58.05:304][276]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2018.05.17-20.58.05:304][276]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2018.05.17-20.58.05:304][276]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2018.05.17-20.58.05:304][276]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2018.05.17-20.58.05:304][276]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2018.05.17-20.58.05:304][276]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2018.05.17-20.58.05:304][276]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2018.05.17-20.58.05:304][276]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2018.05.17-20.58.05:304][276]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2018.05.17-20.58.05:304][276]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2018.05.17-20.58.05:304][276]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2018.05.17-20.58.05:304][276]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2018.05.17-20.58.05:304][276]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2018.05.17-20.58.05:304][276]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2018.05.17-20.58.05:304][276]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2018.05.17-20.58.05:304][276]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2018.05.17-20.58.05:345][276]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2018.05.17-20.58.05:345][276]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2018.05.17-20.58.05:345][276]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2018.05.17-20.58.05:345][276]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2018.05.17-20.58.05:345][276]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2018.05.17-20.58.05:345][276]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2018.05.17-20.58.05:345][276]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2018.05.17-20.58.05:345][276]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2018.05.17-20.58.05:345][276]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2018.05.17-20.58.05:345][276]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2018.05.17-20.58.05:360][276]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2018.05.17-20.58.05:362][276]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2018.05.17-20.58.05:362][276]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2018.05.17-20.58.05:362][276]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2018.05.17-20.58.05:362][276]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2018.05.17-20.58.05:362][276]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2018.05.17-20.58.05:362][276]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2018.05.17-20.58.05:363][276]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2018.05.17-20.58.05:363][276]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2018.05.17-20.58.05:363][276]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2018.05.17-20.58.05:363][276]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2018.05.17-20.58.05:363][276]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2018.05.17-20.58.05:363][276]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2018.05.17-20.58.05:363][276]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2018.05.17-20.58.05:363][276]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2018.05.17-20.58.05:363][276]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2018.05.17-20.58.05:363][276]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2018.05.17-20.58.05:363][276]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2018.05.17-20.58.05:363][276]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2018.05.17-20.58.05:363][276]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2018.05.17-20.58.05:363][276]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2018.05.17-20.58.05:567][276]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2018.05.17-20.58.05:567][276]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2018.05.17-20.58.05:567][276]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2018.05.17-20.58.05:567][276]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2018.05.17-20.58.05:567][276]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2018.05.17-20.58.05:567][276]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2018.05.17-20.58.05:567][276]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2018.05.17-20.58.05:568][276]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2018.05.17-20.58.05:568][276]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2018.05.17-20.58.05:568][276]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2018.05.17-20.58.05:568][276]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2018.05.17-20.58.05:568][276]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2018.05.17-20.58.05:568][276]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2018.05.17-20.58.05:568][276]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2018.05.17-20.58.05:568][276]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2018.05.17-20.58.05:568][276]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2018.05.17-20.58.05:568][276]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2018.05.17-20.58.05:568][276]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2018.05.17-20.58.05:568][276]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2018.05.17-20.58.05:568][276]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2018.05.17-20.58.05:568][276]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2018.05.17-20.58.05:568][276]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2018.05.17-20.58.05:568][276]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2018.05.17-20.58.05:568][276]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2018.05.17-20.58.05:568][276]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2018.05.17-20.58.05:568][276]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2018.05.17-20.58.05:568][276]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2018.05.17-20.58.05:568][276]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2018.05.17-20.58.05:569][276]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2018.05.17-20.58.05:569][276]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2018.05.17-20.58.05:569][276]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2018.05.17-20.58.05:569][276]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2018.05.17-20.58.05:570][276]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2018.05.17-20.58.05:570][276]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2018.05.17-20.58.05:570][276]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2018.05.17-20.58.05:571][276]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2018.05.17-20.58.05:571][276]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2018.05.17-20.58.05:571][276]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2018.05.17-20.58.05:571][276]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2018.05.17-20.58.05:571][276]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2018.05.17-20.58.05:571][276]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2018.05.17-20.58.05:571][276]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2018.05.17-20.58.05:571][276]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2018.05.17-20.58.05:671][276]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2018.05.17-20.58.05:771][276]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2018.05.17-20.58.05:771][276]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2018.05.17-20.58.05:771][276]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2018.05.17-20.58.05:771][276]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2018.05.17-20.58.05:771][276]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2018.05.17-20.58.05:771][276]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2018.05.17-20.58.05:772][276]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2018.05.17-20.58.05:772][276]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2018.05.17-20.58.05:772][276]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2018.05.17-20.58.05:772][276]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2018.05.17-20.58.05:773][276]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2018.05.17-20.58.05:773][276]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2018.05.17-20.58.05:773][276]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2018.05.17-20.58.05:774][276]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2018.05.17-20.58.05:774][276]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2018.05.17-20.58.05:774][276]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2018.05.17-20.58.05:774][276]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2018.05.17-20.58.05:774][276]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2018.05.17-20.58.05:774][276]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2018.05.17-20.58.05:774][276]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2018.05.17-20.58.05:774][276]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2018.05.17-20.58.05:774][276]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2018.05.17-20.58.05:774][276]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2018.05.17-20.58.05:774][276]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2018.05.17-20.58.05:774][276]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2018.05.17-20.58.05:775][276]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2018.05.17-20.58.05:775][276]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2018.05.17-20.58.05:775][276]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2018.05.17-20.58.05:775][276]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2018.05.17-20.58.05:775][276]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2018.05.17-20.58.05:777][276]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2018.05.17-20.58.05:777][276]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2018.05.17-20.58.05:777][276]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2018.05.17-20.58.05:777][276]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2018.05.17-20.58.05:777][276]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2018.05.17-20.58.05:777][276]LogModuleManager: Shutting down and abandoning module Core (168)
+[2018.05.17-20.58.05:777][276]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.05.17-20.58.05:778][276]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.05.17-20.58.05:778][276]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.05.17-20.58.05:778][276]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.05.17-20.58.05:778][276]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.05.17-20.58.05:778][276]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.05.17-20.58.05:778][276]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.05.17-20.58.05:778][276]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.05.17-20.58.05:778][276]LogModuleManager: Shutting down and abandoning module LevelSequence (148)
+[2018.05.17-20.58.05:778][276]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2018.05.17-20.58.05:779][276]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2018.05.17-20.58.05:872][276]LogDerivedDataCache: Shutdown
+[2018.05.17-20.58.05:872][276]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2018.05.17-20.58.05:872][276]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2018.05.17-20.58.05:873][276]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2018.05.17-20.58.05:873][276]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2018.05.17-20.58.05:873][276]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2018.05.17-20.58.05:873][276]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2018.05.17-20.58.05:873][276]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2018.05.17-20.58.05:873][276]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2018.05.17-20.58.05:873][276]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2018.05.17-20.58.05:873][276]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2018.05.17-20.58.05:873][276]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2018.05.17-20.58.05:873][276]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2018.05.17-20.58.05:873][276]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2018.05.17-20.58.05:873][276]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2018.05.17-20.58.05:873][276]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2018.05.17-20.58.05:873][276]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2018.05.17-20.58.05:873][276]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2018.05.17-20.58.05:873][276]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2018.05.17-20.58.05:873][276]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2018.05.17-20.58.05:873][276]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2018.05.17-20.58.05:873][276]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2018.05.17-20.58.05:873][276]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2018.05.17-20.58.05:873][276]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2018.05.17-20.58.05:873][276]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2018.05.17-20.58.05:873][276]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2018.05.17-20.58.05:873][276]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2018.05.17-20.58.05:873][276]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2018.05.17-20.58.05:873][276]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2018.05.17-20.58.05:873][276]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2018.05.17-20.58.05:873][276]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2018.05.17-20.58.05:873][276]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2018.05.17-20.58.05:873][276]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2018.05.17-20.58.05:873][276]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2018.05.17-20.58.05:873][276]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2018.05.17-20.58.05:874][276]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2018.05.17-20.58.05:874][276]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2018.05.17-20.58.05:874][276]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2018.05.17-20.58.05:874][276]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2018.05.17-20.58.05:874][276]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2018.05.17-20.58.05:874][276]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2018.05.17-20.58.05:874][276]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2018.05.17-20.58.05:874][276]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2018.05.17-20.58.05:874][276]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2018.05.17-20.58.05:874][276]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2018.05.17-20.58.05:874][276]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2018.05.17-20.58.05:874][276]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2018.05.17-20.58.05:874][276]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2018.05.17-20.58.05:874][276]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.05.17-20.58.05:874][276]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.05.17-20.58.05:874][276]LogOnline: Display: Unloading online subsystem: NULL
+[2018.05.17-20.58.05:874][276]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.05.17-20.58.05:874][276]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.05.17-20.58.05:874][276]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.05.17-20.58.05:874][276]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1A4252E6-40E2-38A0-973C-1F80B0F571A3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=14ff7836474a041dbb0ab595dd95f386%7C03c46d714e434504a60eccd0eae6275a%7C9aed7643-48fa-4352-86a6-c57b58fde8af&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.05.17-20.58.05:903][276]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.05.17-20.58.05:904][276]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.05.17-20.58.05:904][276]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.05.17-20.58.05:904][276]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.05.17-20.58.05:904][276]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.05.17-20.58.05:905][276]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.05.17-20.58.05:905][276]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.05.17-20.58.05:905][276]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.05.17-20.58.05:907][276]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.05.17-20.58.05:907][276]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.05.17-20.58.05:907][276]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.05.17-20.58.05:907][276]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.05.17-20.58.05:907][276]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.05.17-20.58.05:907][276]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.05.17-20.58.05:907][276]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.05.17-20.58.05:907][276]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.05.17-20.58.05:907][276]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.05.17-20.58.05:907][276]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.05.17-20.58.05:907][276]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.05.17-20.58.05:911][276]LogExit: Exiting.
+[2018.05.17-20.58.05:927][276]Log file closed, 05/18/18 06:28:05
